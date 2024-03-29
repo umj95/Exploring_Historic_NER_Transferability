@@ -1,0 +1,452 @@
+<div class="edition"> 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+
+
+ <PERSON>Johann Esaias Silberschlags</PERSON> ,  
+Königl[ich] Preuß[ischen] Oberconsistorialraths,  
+am 
+XXI. Sonntage nach Trinitatis,  
+als den 5ten des Novembers 1775,  
+gehaltene 
+Einweihungspredigt 
+der 
+von 
+Einem ungenannten 
+Verehrer Gottes 
+und 
+der Religion 
+der  <LOCATION>Dreyfaltigkeitskirche</LOCATION> in  <LOCATION>Berlin</LOCATION> 
+geschenkten 
+neuen  Orgel.  
+Berlin,  
+im Verlag der Buchhandlung der Realschule.
+
+  [vakat]
+ 
+
+Dem 
+ 
+Wohlgebornen und Hochgelahrten 
+ 
+Herrn e[t]c[etera] e[t]c[etera]  
+
+einem  
+
+Verehrungswürdigen Mitgliede  
+ 
+der evangelisch=lutherischen  
+
+Dreyfaltigkeitsgemeine  
+
+überreichet gegenwärtige  
+ 
+Einweihungspredigt  
+der  
+
+von Jhm geschenkten Orgel  
+
+zum Andenken  
+
+Seiner mildthätigen und Gott verehrenden Liebe und zum  
+
+Unterpfande der Dankbarkeit besagter Gemeine  
+
+unter  
+
+den inbrünstigsten Segenswünschen  
+
+der  <PERSON>Verfasser</PERSON> .
+  [vakat]
+ 
+Gebet.
+Anbetungswürdigster Gott! der du wohnest in der Höhe und im Heiligthume unter dem Jubel der Seraphinen, Cherubinen und Heerschaaren des Himmels, aber auch auf das Niedere herab schauest und den beseelten Staub, der auf Erden, dem Schemel deiner Füße, dein Lob stammlet, nicht verschmähest! Wirff auch jetzt einen Gnadenblik auf uns, da wir dir unser Dankopfer bringen für eine Wohlthat, die wir ganz deiner 
+väterlichen Vorsorge, durch welche du die Her=
+
+ 
+
+zen der Deinen lenkest, zu verdanken haben. Du sahest unsre Bedürfnisse und erwecktest diejenige freygebige Hand, die unsern Gottesdienst mit jener Hebe, die wir heute zu deiner Ehre weyhen, verschönert, und nicht nur verschönert, sondern auch verbessert hat. Laß diese Spur deines Wohlgefallens und deiner weisen Vorsehung, die da rufet dem das nicht ist, daß es sey, uns alle zu einer kindlichen Zuversicht erwecken und unsern Eyfer anflammen, dir zu leben, dir zu dienen und dich zu preisen, so lange wir hier auf Erden wallen, bis wir gewürdiget werden, dein Antlitz zu schauen und dich unter den Geistern vollendeter Gerechten zu loben. Erhöre uns um deiner unendlichen Liebe willen. Amen.
+Vorbereitung.
+Wir haben, andächtige Zuhörer! bereits den Anfang gemachet, mit harmonischen Frohlocken den Namen des Herrn zu preisen für die Erhörung längst gehegter Wünsche, die aber bisher mit unüberwindlichen Hindernissen zu kämpfen hatten. Lange genug hatten wir uns vergeblich gesehnet, mit Hülfsmitteln
+
+ 
+
+versehen zu seyn, euch mit dem weitläuftigen aber vielen noch unbekannten Schatze geistlicher Lieder und Melodeyen zu bereichern, bis der heutige Tag unsre Sehnsucht gestillet hat. Da stehet sie, die ansehnliche Orgel! sie erwartet nun von uns gebraucht zu seyn, und stehet bereit in unsern feyerlichen Gesang mit einzustimmen.
+Jedoch, ehe ich fortfahre von der Schätzbarkeit dieses Beförderungsmittels der öffentlichen Andacht zu reden; sehe ich mich genöthiget einigen Vorurtheilen zu begegnen, die den Werth der Orgeln verkleinern und manchen wol gar verleiten könnten, sie mehr für ein Prachtgerüste der Musik, als für eine unentbehrliche Bedürfniß der Kirche anzusehen.
+Man hat in jenen  Zeiten, da man es wagte die christliche Religion von dem prächtigen Aberglauben zu reinigen, gefraget: ob sich überhaupt der Schmuck der so genannten schönen Künste und Wissenschaften zum öffentlichen Gottesdienste schicke oder nicht? Man befürchtete, und in mancher Absicht auch nicht ohne allen Grund, die Andacht werde mehr zerstreuet als gesammlet werden, wenn die Sinne sich zu sehr mit glänzenden Gegenständen beschäftigen.
+Schicken sich, hieß es, architectonische Verzierungen, schicket sich Gold und Silber, schicken sich kunstreiche Mahlereyen an den Ort, wo man hingehet
+
+ 
+
+an seine Brust zu schlagen und zu seufzen: Gott sey uns Sündern gnädig? Schicket sich zu dem pathetischen Vortrage göttlicher Befehle und Wahrheiten Wohlredenheit und Witz? Ton= und Tichtkunst schicken die sich zu Gesängen, in welchen man sein Elend bejammert und der Barmherzigkeit um Gnade und Errettung flehet? Man wieß, um diesem Zweifel ein Gewicht zu geben, auf die ersten Christen hin, und frug: wo waren da die hohen Kirchen, die Säulenordnungen, die goldenen Geräthschaften bey Taufe und Abendmahle? Wo waren da Orgeln, da man in engen und niedrigen Häusern, in Wüsteneyen und Felsklüften sich erbauete, und in Einöden sang:  Meine Seele erhebt den Herrn und mein Geist freuet sich Gottes meines Heilandes?
+Lasset uns nur inmer zugeben, daß Prunk und Verschwendung sich nirgends weniger hinschicken, als in gottesdienstliche Versammlungshäuser; man gebe mir aber wieder zu, daß ein barbarischer Geschmack in der Baukunst, bestaubte, beschmutzte und den Einsturz drohende Wände, ein unordentlicher wüster Gesang, ein niederträchtiger Vortrag, ein aller Orten Eckel und Abscheu erregender Anblick noch vielweniger zu derjenigen Stätte gehören, wo die Ehre Gottes unter dem Lobe seines  <LOCATION>Zions</LOCATION> wohnet.
+ 
+Noch mehr werden sich jene Einwendungen entkräften, wenn man auf der andern Seite fräget: Was soll man von einer Nation denken, die bey ihren Lustbarkeiten und in ihren Pallästen alle Schätze der Natur und der Kunst verschwendet, bey dem Gottesdienste hingegen sich alle Nachläßigkeiten und Unanständigkeiten zu Gute hält? Wird man nicht von ihr mit Recht das Urtheil fällen: Diesen ausgearteten Christen ist am öffentlichen Gottesdienste nichts und an ihren Eitelkeiten alles gelegen?
+Haben die schönen Künste und Wissenschaften das Unglück oft unwürdigen, ihrer ganz unwürdigen Liebhabern in die Hände zu gerathen, sollte uns dieser Mißbrauch verleiten ihre männliche, ihre erhabene Schönheit, ihre geistige Stärke zu verkennen, und ihnen zu verwehren auch ihren pflichtmäßigen Tribut, und wenn ich so reden dürfte, auch ihren Seckel, den sie dem Heiligthume Gottes schuldig sind, abzutragen?
+Was die ersten Christen betrifft, so lebten diese Blutzeugen Jesu unter den grausamsten  Verfolgungen heydnischer Tyrannen, und wir unter dem Schutze einer christlichen Obrigkeit, welch ein Unterscheid! Jst es erlaubt mit demjenigen, was ihnen Noth und Klugheit befahl, eine niederträchtige Geringschätzung dessen, was allen Völkern des Erdbodens, was selbst dem Himmel heilig ist, zu beschönigen?
+ 
+Lasset uns noch einen Grund erwegen, um jene Vorwürfe ganz abzufertigen und zum Stillschweigen zu verweisen.
+Der Gottesdienst altes Testaments, war der erste. Wer stiftete denselben? Gott. Wer war der Bauherr der Stiftshütte? Und wer überlieferte dem  <PERSON>Mose</PERSON> den Abriß der heiligen Geräthschaften? Gott. Wer ordnete die Art und Weise wie Jehovah verehret werden sollte? Gott. Wer wählte die Personen, die mit geheimnißvollen Vorbildern und Ceremonien sich beschäftigen sollten? Wer schrieb ihnen die Gesetze des Gottesdienstes vor? Gott. Alles eine Anordnung des unendlich weisen Gottes!  Siehe zu, sprach er zu Mose, daß du alles thust nach dem Bilde, das du auf dem Berge gesehen hast. 2 B. <PERSON>Mose</PERSON> 25, 40. Und was den  <LOCATION>Tempel</LOCATION> zu  <LOCATION>Jerusalem</LOCATION> belanget; so betheuret  <PERSON>David</PERSON> , indem er dem  <PERSON>Salomo</PERSON> mit dem Zepter zugleich den weitläuftigen Plan dieses Gebäudes übergab:  Mir ist alles beschrieben gegeben worden von der Hand des Herrn, daß michs unterweisete in allen Werken des Vorbildes. 1 Chronik. 29, 19.
+Aber was für ein Funkel des feinsten Goldes und Silbers strahlte den Anbetern Gottes von allen Wänden und Vorhängen der Stiftshütte und des nachmaligen  <LOCATION>Tempels</LOCATION> entgegen! was für eine Symmetrie und Evrythmie des Gebäudes des <LOCATION>Tempels</LOCATION> und der Gestalt
+
+ 
+
+der heiligen Gefäße! was für eine reine Pracht der Kleidung des Hohenpriesters! was für ein Glanz des von Edelsteinen strahlenden Brustschildes! was für ein feiner Geschmack in allen übrigen Zierrathen! was für ein süßer Geruch des Rauchwerks! was für ein harmonischer Widerhall erfüllete den Tempel und breitete sich über <LOCATION>Jerusalem</LOCATION> aus!
+Sollte wol eine von der Hoheit des Jehovah belehrende und Ehrfurcht einprägende Pracht bey dem öffentlichen Gottesdienste dem mißfallen, der Blumen, Schmetterlinge und Gevögel des Himmels und Schnecken des Oceans prächtiger kleidet als <PERSON>Salomo</PERSON> in aller seiner Herrlichkeit prangen konnte? Der die Himmel eben darum, weil sie die Ehre ihres Schöpfers verkündigen und uns anbetendes Erstaunen über Gott einprägen sollen, mit Sonnen als mit so viel blitzenden Diamanten besetzet hat? Jch meyne nicht. Himmel und Erde, Luft und Meer sprechen: Nein!
+Diese Vorbereitung schien mir indessen nöthig zu seyn, damit nicht jemand wähne, als ob wir entschlossen wären, mit dem Gegenstande unsrer heutigen Freude und Dankbegierde gegen Gott ein leeres Gepränge zu treiben und dieses Haus des Herrn bis zu einem Schauplatze zu erniedrigen. Weit gefehlt! Wenn ich mir aber vorgenommen von dem Nutzen der Orgeln beym öffentlichen Gottesdienste zu reden; so ist
+
+ 
+
+nicht meine Absicht euch, Geliebteste, ein Werk zu empfehlen, das meiner Empfehlung nicht bedarf: sondern vielmehr eine Anweisung zu ertheilen, wie wir uns desselben mit Vortheil bedienen können, bedienen sollen und bedienen werden. Gott aber lasse unser Vorhaben gesegnet seyn, um seiner Liebe willen.
+Text, Ps. 150.
+ Hallelujah! Lobet den Herrn in seinem Heiligthum, lobet ihn in der Veste seiner Macht. Lobet ihn in seinen Thaten, lobet ihn in seiner großen Herrlichkeit. Lobet ihn mit Posaunen, lobet ihn mit Psalter und Harfen. Lobet ihn mit Pauken und Reigen, lobet ihn mit Saiten und Pfeiffen. Lobet ihn mit hellen Cymbeln, lobet ihn mit wohlklingenden Cymbeln. Alles, was Odem hat, lobe den Herrn, Hallelujah.
+Dieser Psalm beschließet die göttlichen Gesänge  <PERSON>Davids</PERSON> mit einem feyerlichen Hallelujah. Mit Hallelujah fängt er sich an, jeder Vers ist ein Hallelujah und Hallelujah machet den Beschluß.
+Das Heiligthum, in welchem Gott thronet, die Veste des Himmels, alles was Odem hat auf Erden und kurz die ganze Schöpfung wird durch diesen gros¬
+
+ 
+
+sen König aufgefodert, das Lob des Allerhöchsten in seinen Thaten und in seiner großen Herrlichkeit mit einem durch die ganze Welt erschallenden Lobgesange zu preisen. Die auf Erden sollen sich mit dem ganzen Vorrathe der Tonkunst rüsten und damit ihre frohlockende Stimme verstärken. Posaunen, Psalter, Harfen, Pauken, Reigen, Saiten, Pfeiffen und Cymbeln sollen dieses allgemeine Frohlocken von der Erde bis zum Himmel hinauf erheben. Mit einem Worte: der Welt wird ein allgemeines Dankfest angekündiget. Großer und himmlischer Gedanke!
+Aus diesem kurzgefaßten Jnhalte dieses Psalms sehen wir, wozu eigentlich die Vorsehung Gottes dem Menschen die Geschicklichkeit verliehen, seine Stimme mit ganzen Chören musikalischer Werkzeuge zu verschönern, und welches der erhabenste Endzweck der bewundernswürdigen Tonkunst sey.
+Jedoch ich will nicht diese Materie in ihrem ganzen Umfange erschöpfen, sondern nur ein einziges dieser zum Lobe Gottes vom <PERSON>David</PERSON> erwählten Werkzeuge zu meinem heutigen Vorhaben anwenden. <PERSON>David</PERSON> befiehlet uns dem Herrn unter andern mit Pfeiffen zu loben und wir weihen heute eine Orgel, ein Werk das aus ganzen Schaaren von Pfeiffen zusammengesetzt ist, zu unserm künftigen gottesdienstlichen Gebrauche.
+
+    HIER WEITER
+    
+ 
+
+Lasset mich daher über
+den Gottgeheiligten Gebrauch der Orgeln  
+bey dem öffentlichen Gottesdienste eine  
+umständlichere Betrachtung anstellen. 
+Jch bin entschlossen, zuforderst 
+den unenbehrlichen Nutzen derselben bey  
+größeren Gemeinen zu zeigen 
+und darauf die Frage untersuchen: 
+Ob eine wohlbediente Orgel etwas zur An= 
+dacht und Erbauung beytrage?
+
+Erster Theil.
+Die Ehre Gottes ist der letzte Endzweck alle Dinge, und wir sind verpflichtet auf alle uns nur mögliche Art und Weise den Unendlichen zu preisen. Die Tichtkunst unterrichtet uns in der erhabensten Art zu denken, so wie die Tonkunst in der erhabensten Art zu singen: folglich gehören beyde zum Gottesdienste, wo billig alles, was schön, erhaben, vortreflich ist, zusammenfließen sollte, unsere öffentliche Verehrungen Gottes feyerlich zu machen. Die Anwendung dieser erfinderischen Wissenschaften zu einem solchen Endzwecke gehöret nicht zu blos erlaubten und beyläufigen Dingen, sondern sie sind bey jedem Falle der Möglichkeit Pflicht.
+ 
+Gehet mit mir in die Kirchengeschichte zurück, um euch zu überzeugen, daß schon die ältesten Verehrer Gottes so geurtheilet haben. Das mit Pauken, vielleicht auch Posaunen, begleitete Siegeslied Mosis und der Mirjam ist das erste, dessen die heilige Schrift Erwehnung thut, und wurde von einer ganzen erretteten Nation an denen mit ersäuften Feinden bedeckten Ufern des Schilfmeeres dem Jehovah gesungen. So alt sind Gott geheiligte Lieder!
+So oft in folgenden Jahrhunderten der heilige Rauch der Opfer von dem Altare des Herrn zum Himmel hinauf stieg, ertönte der Tempel von Psalmen Davids, Assaphs, Korah, Hemans und anderer göttlichen Tichter unter dem Schalle der Posaunen, Pauken, Pfeiffen und Harfen. So würdig achtete man damals den Beystand der Musik!
+Von der jüdischen Kirche gingen diese Verehrungen Gottes zur christlichen über. Zu einer Zeit, da die blutigsten Verfolgungen nichts weniger zu erlauben schienen, als durch lauten Gottesdienst die Zusammenkunft der Christen zu verrathen, meldet Plinius dem Kaiser Trajan, daß die Christen ihrem Gotte Christo zur Ehre Lieder sängen. So schlägt die Nachtigall unter Ungewittern! Aber wie beherzt war diese Andachtsübung, die unter den Drohungen der äußersten Lebensgefahr auch nicht einmal um diesen Schritt der
+
+ 
+
+Macht ihrer erbosten Feinde wich! Sollten wir, die wir bey unserm Gottesdienste von dem Zepter der christlichen Obrigkeit geschützet werden, anders denken und handeln, als diese heroischen Zeugen der Wahrheit? Sollte Gott nicht um so mehr von uns fordern, unter dem laut tönenden Lobe seines <LOCATION>Zions</LOCATION> im neuen Bunde zu wohnen?
+Wir erkennen unsere Pflicht, aber wir sind nicht allemal glücklich bey deren Ausübung.
+Wir müßen zum Preise Gottes bekennen, daß unsere Gesänge einen sehr kenntlichen Vorzug für jenen besitzen, die zur Zeit eines Prudentius, Ambrosius und anderer alten Psalmisten der Christenheit gesungen wurden, und daß sie zum Theil mehr nach dem feinsten Geschmacke der Ton= und Tichtkunst abgefasset sind, als jene. Aber der aus einer Menge von ungeformten Stimmen aufschwellende Gesang größerer Gemeinen erlaubet uns nicht, gerade zu davon Gebrauch zu machen. Fast jede Provinz liebt ihre Lieblingsabweichungen von derjenigen Melodey, die ihr erster Erfinder den Liedern ursprünglich gegeben. Man glaubt denen gewohnten Empfindungen der Andacht Abbruch zu thun, wenn man nicht zugleich angewöhnte Töne höret, man richtet sich dabey nicht nach der Stimme des Vorsängers, die Gemeine geräth in Unordnung, und die einer so grossen Anzahl nicht allemal gewachsene Stimme des Sang=
+
+ 
+
+meisters ist oft nicht im Stande der Verwirung Einhalt zu thun, die Andacht wird zerstreuet, und man wünschet mit seinem Gehöre alsdenn wenigstens nicht zugegen zu seyn. Allein ist eine Kirche mit einer ihrem Umfange angemessenen Orgel versehen, so stehet es bey dem Organisten, wie stark und vollstimmig er den harmonischen Gesang ertönen lassen wolle, die aufmerksame Gemeine folget nach, kehret von ihrem Versehen sogleich wieder zurück, und der Gottesdienst wird ungestöhrt andächtig fortgesetzet.
+Orgeln gewähren uns auch noch eines andern ungemein wichtigen Vortheils. So schwer es einem übel unterrichteten Componisten fällt, bey Abfassung einer Melodey sich nicht wider die Gesetze des Wohlklanges zu verstoßen; so hart kommt es dem Musikverständigen vor, bey Abfassung einer gottesdienstlichen Sangweise die Kunst zu verleugnen, und findet er in einem schweren Gange oder Auflösung einen besondern dem Jnhalt des Liedes angemessenen Nachdruck; so ist es ihm sogar unmöglich seinen kunstmäßigen Ausdruck fahren zu lassen. Ungeübte Sänger sind nicht im Stande mit ihrer Stimme seinen Noten zu folgen, sie sind anfänglich unfähig die angebrachte Feinheit des ungewöhnlichen Steigens und Fallens der Töne nachzuahmen, es erfolget Mißklang auf Mißklang, der Endzweck wird nicht erreichet; und hat die Weise etwas ähnliches mit
+
+
+ 
+
+einer andern ihnen geläufigern, so werden sie wol gar in eine der Versart nicht zukommende Melodey verschlagen. Alsdenn ist es um die Andacht geschehen, die weder die Klugheit, noch die Stärke der Stimme, noch die Standhaftigkeit des Vorsängers wieder herzustellen weiß. Führet eine durchdringende Orgel die singende Gemeine an, so setzet diese Ton für Ton durch, die Versammlung folget nach und lernet singen.
+Jch will noch eines andern Nutzens eingedenk seyn. Viele Lieder fallen bey dem Beschluße dergestalt in die tiefern Töne herab, daß es schwer hält, bey Anfang eines neuen Verses genau genug denjenigen Ton zu treffen, mit welchem die Melodey sich anhebet. Man erinnere sich an das Lied: Ein Lämmlein geht und trägt die Schuld. Nach und nach sinkt die Gemeine in Töne hinein, welche den menschlichen Stimmen anzugeben unmöglich fallen, die Fortsetzung des Gesanges wird unterbrochen, und es erfolget eine unanständige Stille. Eine Unordnung, die niemals bey einem reingestimmten Orgelwerke zu befürchten ist, es verbessert bey jeder Wiederholung der Melodey auch die kleinsten Abweichungen und das Lied bleibt in seinem ursprünglichen Gleise.
+Wiewol auch dieses ist noch zu wenig gegen dasjenige, was ich zuletzt noch von der geseegneten Anwendung dieses Wunderwerks der Mechanik und der Musik zu reden habe. Und so nenne ich eine Or=
+
+
+ 
+
+gel mit Recht. Sie ist ein Werk, an dessen Vollkommenheit Jahrhunderte gearbeitet haben; ein Werk, zu dessen völligen Erklärung auch die tiefsten Einsichten in diese Wissenschaften noch nicht ganz zureichen: ein Werk, an dessen Vorzügen mehr der Versuch als die Theorie Antheil hat. Jedoch hiervon zu reden erlaubet mir der gegenwärtige Ort nicht, ich kehre zu meinem Vorhaben zurück und sage: die wohlthätige Orgel ist auch ein Mittel, eine Gemeine mit unbekannten Gesangweisen zu bereichern.
+Viele unter unsern Liedern, oft die lehrreichsten und erbaulichsten, führen die Ueberschrift: Jn eigener Melodey, noch mehreren sind Sangweisen vorgeschrieben, die den meisten völlig unbekannt sind. Ein rechtschaffner Lehrer, der gerne seine Zuhörer mit diesen Liedern bekannt machte, muß mit Betrübniß seinen redlich gesinnten Wunsch aufgeben, wenn er sich von denjenigen Mitteln verlassen siehet, durch welche er allein zum Zwecke gelangen kann.
+Ueberdem giebt es unter unsern Zuhörern manche, die durch die immerwährende Wiederholung eben desselben Liedes, so vortreflich und geistreich es auch sonst immer seyn mag, endlich ermüden und unvermerkt Zunge und Stimme dem Schalle des Gesanges, und ihr Herz denen bey dem Eintritte in die Kirche nicht ganz verabschiedeten Sorgen der Nahrung überlassen.
+
+ 
+
+Sie sind entschlossen der Ermahnung Pauli nachzukommen Epheser 5, 19. Redet unter einander von Psalmen und Lobgesängen, und geistlichen Liedern, singet und spielet dem Herrn in eurem Herzen, wider ihren Willen entwischt ihnen das schlüpfrige Herz und kehret zu seinen gewohnten häuslichen Beschäftigungen wieder zurück. Diesen Ekel können wir vertreiben, wenn wir durch öftere Abwechselungen denen Andachtsübungen den Glanz der Neuigkeit ertheilen, dadurch die Aufmerksamkeit anfrischen und die Seele zum Nachdenken reizen.
+Können wir nun aus dem großen Schatze der Lieder altes und neues hervortragen, so bereichern wir zugleich unsre Gemeinen nicht nur mit erweiterten Kenntnissen der Religion, sondern wir machen sie ihnen auch angenehm und setzen den gemeinen Christen in Stand, sein Anliegen im Gebet mit Deutlichkeit, Lebhaftigkeit und Rührung auszudrucken. Was für ein reeller Seegen ergießet sich nicht von einem weislichen und regelmäßigen Gebrauche vollstimmiger Orgelwerke über ganze Gemeinen! Wie nützlich, wie unentbehrlich sind sie zahlreichen und weitläuftigen Versammlungen der Christen!
+Die Musik sowol als alle übrige schöne Künste gehören zwar mit zu der Creatur, die nach Röm. 8, 20. der Eitelkeit leider nur gar zu oft unterworfen ist
+
+ 
+
+aber ohne ihren Willen. Jhr Mißbrauch ist sehr gefährlich, wenn man wollüstige Oden, eine Giftmischerey für die Jugend, noch dazu mit Witz und Anmuth verzuckert. Besitzen sie aber eine solche Gewalt über die menschlichen Seelen, was hindert es, sie von diesem niederträchtigen Frohndienste zu erlösen und durch ihren Reiz die Wirkungen göttlicher Wahrheit auf unser Herz zu verstärken? Denen göttlichen Wahrheiten, dem auf sie sich gründenden Glauben und der aus dem Glauben erzeugten thätigen Liebe ist freylich dieser Schmuck nicht unentbehrlich, wenn sie gesetzten Gemüthern gefallen sollen. Dem Jrrthum und Laster ist Schminke nöthig um betrügen zu können.
+Allein die Vortreflichkeit der Wahrheit erhält mehr Reiz der Schönheit, wenn sie in einem anständigen Schmucke erscheinet, sie wirket wenigstens lebhafter auf den Willen und entwaffnet ihn unvermerkt von seiner Widersetzlichkeit. Dieser besondere Umstand scheinet mir so wichtig zu seyn, daß ich mich entschlossen habe, ihn im zweiten Theile abzuhandeln.
+Zweiter Theil.
+Wir gelangen nunmehro zu der Frage: Ob eine wohlbediente Orgel etwas zur Andacht und Erbauung beytrage?
+ 
+Die Verehrung Gottes ist der erste, und die Erbauung der zweite Endzweck gottesdienstlicher Versammlungen.
+Eine jede Beschäftigung mit sich selbst und mit andern, welche den Fortgang oder Wachsthum in der Gottseligkeit zum Endzwecke hat, heißet Erbauung. Das thätige Christenthum ist ein Gebäude, das nicht zugleich gegründet, und zugleich vollendet wird. Die Bekehrung leget den Grund, und das längste Leben eines Menschen reichet kaum und oft nicht einmal kaum hin, den Bau zu vollenden. Oft stürzet hie und da dasjenige wieder ein, was nicht behutsam genug befestiget war. Dort ist etwas zu verbessern, hier etwas zu ergänzen, da fehlet es an Kraft, dort an Einsicht, dort an Wachsamkeit. Der 2. Brief Petri 3, 18. empfohlne Wachsthum in der Gnade und Erkenntniß unsers Herrn <PERSON>Jesu Christi</PERSON> gewinnet nicht immer gleich glücklichen Fortgang. Mit einem Worte: Wir haben immer zu bauen. Dieses ist indessen das Sinnbild, von welchem die heilige Schrift, wenn sie von der Verbesserung unsers Seelenzustandes spricht, das Wort Erbauung entlehnet hat. Z[um] B[eispiel] 1 Petr. 2, 5. Und auch ihr, als die lebendigen Steine, bauet euch zum geistlichen Hause, und zum heiligen Priesterthum: zu opfern geistliche Opfer, die Gott angenehm sind durch Jesum Christum.
+ 
+Ferner: So wie die Errichtung eines Gebäudes mehrere sehr verschiedene Arbeiten in sich begreifet,  so auch dieser geistliche Bau. Einige Uebungen zielen auf die Verbesserung und Erweiterung der Einsicht ab, andere sind auf die Heiligung des Willens gerichtet, noch andere bringen die Gemüthsfassung in Ordnung, andere unterdrucken [sic] die Wildheit der sündlichen Lüste und Leidenschaften. Der Verstand des Christen, als Christ betrachtet, kann durch nichts als durch die Einsicht in die Wahrheiten des göttlichen Wortes erbauet werden. Folglich je faßlicher, je umständlicher, je gründlicher diese Lehren vorgetragen werden, desto mehr wird der Zuhörer mit Erkenntniß erleuchtet. Mit dem Willen hat es eine andere Bewandniß, dieser begnüget sich nicht allemal mit einer kalten Belehrung des Verstandes. Er hat oft mit feindseligen Trieben zu kämpfen, die in den Begierden Empörungen über Empörungen gegen die erkannte Wahrheit anzetteln, so desto gefährlicher sind, je mächtiger sinnliche Empfindungen auf das Herz wirken. Jn diesem Aufruhre ist er nicht allemal im Stande, die leisen Befehle des belehrenden Verstandes deutlich genug zu vernehmen, und oft viel zu träge und matt sie mit einer unüberwindlichen Entschlossenheit zu befolgen. Er erwartet daher noch anderweitige Unterstützungen. Man handelt weislich, wenn man in solchen Fällen Empfindung
+
+ 
+
+gegen Empfindung, Leidenschaften gegen Leidenschaften, Begierden gegen Begierden aufbietet, und diese auf das geflissenste anfeuert, damit sie mächtig genug sind jene listigen Empörer zu dämpfen. Die Gründe geben unserm Verstande Licht und sinnliche Vorstellungen dem Willen Wärme: Jene ertheilen unsern Gedanken die Richtigkeit, diese die Stärke: jene erschaffen in unsern Seelen die Wahrheit, und diese beseelen sie.
+Uns sind in der Schrift viele Hülfsmittel angewiesen, geistliche und Gott wohlgefällige Triebe und Leidenschaften in unserm Herzen zu erregen. So schön, so prächtig dürfte auch der Schauplatz der Welt nicht erschaffen seyn als er wirklich ist, wenn nicht sein Anblick sinnliche Freuden und Bewunderungen des Schöpfers ins Herz spielen sollte. Unter vielen Beyspielen nur eins anzuführen. Die unmäßige Sorge für Speise und Kleidung ist dem kindlichen Vertrauen auf die Vorsorge Gottes eine Pest und steckt uns an mit Geiz, mit Stolz, mit Wollust, wo nicht gar auch mit Verzweiflung, je nachdem die Lage unsers irdischen Glücks gegen die Welt beschaffen ist. Christus verbietet uns diese gefährlichen Sorgen, und belehret uns sehr gründlich, daß solche auf Unsinn und Abgötterey hinaus laufen. Lässet er es aber dabey bewenden? Lange nicht. Er befiehlet uns die Augen aufzuthun, und stellet un=
+
+ 
+
+serm Unglauben ein ganzes Feld in mehr als königlichen Schmucke prangender Blumen wie eine gemusterte Schlachtordnung entgegen, so uns unterrichten sollen, daß Gott uns ernähren und kleiden könne, und ernähren und kleiden wolle. Vögel des Himmels lässet er mit uns von der Vorsorge Gottes sprechen. Weiser Erlöser!
+Das Gehör ist zu diesen Absichten eben so brauchbar, als das Gesicht, und es fällt mir schwer zu entscheiden, ob eine mit der ganzen Anmuth der Tonkunst begleitete Wahrheit nicht noch tiefer in das Gemüth eindringe, als eine gemahlte. Warum lesen wir nicht statt eines Gesanges etwa ein Gebet vor? Kann denn im Gebete nicht eben das gesagt werden, was uns ein Gesang eingiebt? Man wird erwiedern: den Gesang machet Reim und Sylbenmaaß angenehm. Warum messen wir die Worte der Gesänge nach dem Sylbenmaaße der Poesie ab? Jhr werdet antworten: damit man singen könne. Und nun frage ich weiter: Warum singen wir? Eure Mienen, eure Thränen, selbst die Erhebung eurer Stimme, die wir so oft bisher bemerket haben, überzeugen uns, daß eine dem Jnhalte des Liedes angemessene Melodie euren Geist mit heiligen Empfindungen belebe, die uns nachgehends bey dem Unterrichte vom Predigtstuhle sehr zu statten kommen, und wäret ihr nur treu genug gewesen, diese
+
+ 
+
+Wallungen in eurer Brust länger zu unterhalten, und nicht zu bald wieder durch Zerstreuungen zu dämpfen, ihr würdet sämmtlich längst diejenigen seyn, die ihr in der Kirche zu werden euch so oft entschlosset.
+Allein, so viel auch ein Gesang zu einer sinnlichen Erbauung beyträgt, die in den Augen unpartheyischweiser [sic] Männer doch allemal mehr gelten muß, als jede unsre Seele mit strafbaren Neigungen vergiftende sinnlich=sündliche Ergötzung; so wird sie gleichwol durch die Ungeschicklichkeit einer ohne Kunst singenden Stimme gar sehr gehemmet. Wenige, überaus wenige haben ihre Stimme so in ihrer Gewalt, daß sie auch nur die gewöhnlichste Bewegung des Gemüths auf eine rührende Weise ausdrucken und dadurch sich selbst anfeuren könnten: die Orgel, eine recht himmlische Erfindung, hilft diesem Mangel ab. Soll eine nachdenkende Andacht erweckt werden, so spielet sie mit sanftfließenden Wohlklange, und indem die Seele über den Jnhalt desjenigen, was die Worte sagen nachdenket, empfindet sie zugleich eine Erquickung, die in ihr durch die erinnernde Einbildungskraft allemal wie ein Nachschall sich wiederholet, so oft sie das Gesungene wieder singet.
+Soll unsere Seele den Herrn erheben, und unser Geist sich Gottes unsers Heylandes erfreuen, so ströhmen hellere Stimmen durch das entzückte Ohr Freude 
+
+ 
+
+in unser Herz, und wer weiß nicht, daß man durch die Tonkunst es so gar dahin bringen könne, daß sich die Seele freue und traure, ohne einmal sagen zu können, worüber? Das Lied saget uns, worüber wir uns zu erfreuen haben, und eine mit Geschicklichkeit gerührte Orgel erschaffet den Affect.
+Wir haben uns etwa vorgenommen, euch in Ausübung eures Glaubens muthig und herzhaft zu machen die innern und äußerlichen Feinde eurer Seligkeit zu überwinden, wir lassen euch etwa das Lied singen: Auf Christenmensch, auf auf zum Streit etc. oder: Jesu hilf siegen etc. oder: Einer ist König, Jmmanuel sieget etc. unterdessen donnert die Orgel mit majestätischen Stimmen in euren Gesang, und die gewünschte Freudigkeit und Entschlossenheit wird bis zur Empfindung erhitzet.
+Nicht immer befinden wir uns in einem Seelenzustande, den unser Gewissen billiget. Wir haben gesündiget und dadurch die Gerechtigkeit Gottes aufgefordert, diese Beleidigungen zu bestrafen: Wir entdecken diese Gefahr und zittern. Für uns ist denn nichts übrig als mit Reu und Schmerz zu dem durch Christum versöhnten Vaterherzen Gottes unsere Zuflucht zu nehmen. Er selbst befiehlet uns dieses, und wir bitten oft an Christus statt, lasset euch versöhnen mit Gott: 2 Cor. 5, 20. und ermahnen: Lasset uns hinzu=
+
+ 
+
+treten mit Freudigkeit zu dem Gnadenstuhl: auf daß wir Barmherzigkeit empfangen, und Gnade finden, auf die Zeit, wenn uns Hülfe noth seyn wird.
+Wir suchen durch ein bethräntes Bußlied mit gebeugten Herzen diesen uns so vortheilhaften Zutritt zu der Gnade Gottes zu wagen. Deun keine Thränen, keine Seufzer sind gerechter, als diese, wir ächtzen, die Orgel winselt mit in unsere Bußlieder und leihet uns ihre Stimme, wenn Wehmuth und Angst die unsrige schwächen.
+Wir sind Sterbliche, das ist, wir sind Menschen, die mitten unter der uns täglich begleitenden und umringenden Todesgefahr in der leichtsinnigsten Sicherheit leben. Wie gar nichts sind alle Menschen, die doch so sicher leben. Ps. 39.
+Und warum machen alle diese vor unsern Augen schwebende Bilder der Sterblichkeit, selbst Sarg und Gruft wenig dauerhafte Eindrücke auf unsere so gar vereitelte Gemüther? Es ist nöthig, daß uns durch rührende Vorträge die Gedanken eingegeben werden, die wir mit diesen Anblicken verknüpfen sollen, und eben so nöthig ist es, daß Sterbelieder vorangehen, und den harten Sinn erweichen, und traurigen Wahrheiten den Weg zu unsern leichtsinnigen Herzen bahnen.
+Eine traurende und bebende Orgel giebt der Melodey die nöthige Stärke, ein durch das lustige Getüm¬
+
+ 
+
+mel der Welt betäubtes Ohr zu beruhigen und gegen Wahrheiten fühlbar zu machen, die desto heilsamer sind, jemehr der Eitelkeit dafür wiedert. Die Orgel würzet gleichsam diese wiedrige Gegenstände zugleich mit einem Geschmacke, gegen welche sich das lüsternde Gehör schlechterdings nicht verschließen kann. O Gott! was sind wir für Menschen! uns sollte die bitterste Wahrheit in der rauhesten Gestalt mehr gefallen, als die allerprächtigste Wollust, und wir können sie nicht sinnreich genug schmücken, damit sie uns wenigstens nicht ganz mißfalle und nicht eher verachtet, als gekannt werde!
+Endlich gelange ich zu dem Beystand dieses geseegneten Werkzeuges des Affects bey Besingung des Lobes Gottes. Um desjenigen willen, der gepriesen werden soll, hätte <PERSON>David</PERSON> nicht nöthig gehabt, alle Posaunen, Paucken, Pfeiffen und Cymbeln der Welt zusammen zu rufen, in sein allgemeines Hallelujah mit einzustimmen. Was sind diese Anstalten gegen einen von aller Weltkreisen her harmonisch donnernden Himmel, als welchen er Psalm 148, 8. gleichfalls zum Frohlocken über die Wege Gottes auffordert. Nur um unsertwillen sind diese Feyerlichkeiten nöthig. Nicht um Gottes, um unsertwillen, unsern Geist anzufeuern, soll dieses davidische Hallelujah den Luftkreiß erschüttern. Wir sollen Gott, unsern Herrn, lieben von
+
+ 
+
+ganzem Herzen, von ganzer Seelen, von allen Kräften, von ganzem Gemüthe, aber eben so müssen wir ihn auch preisen. Die Tonkunst gehöret mit zu unsern Kräften und Vermögen. Und was die Orgeln betrift; so könnte man gewissermaßen sagen, sie vertreten bey unserm Gesange die Stelle eines Engels.
+Ein schöpfrisches Orgelwerk ist ein Zusammenfluß der erhabensten, feinsten und prächtigsten Stimmen; man kann sagen, es sey eine musikalische Welt, wo alles beysammen ist, was zur Vollkommenheit des Ganzen und zugleich zu jedesmaligen besondern Absichten erfodert wird. Jhre melodisch donnernde Posaunen, ihre hellschmetternde Trompeten, ihre hohlsausende Subbasse, ihre pathetischen Violons, ihr melancholischer Bordun, ihre tönenden Principale, ihre hebendenVermutlich liegt hier ein Druckfehler vor, so dass zu lesen ist: bebenden. Nassäte, ihr schallendes Cornet, ihre schneidenden Mixturen, ihre lieblichen Rohrflöten, ihre murmelnden Gedackte, ihre sanften übrigen Flöten, ihre singende Menschenstimme, und wie viele andere Stimmordnungen lasse ich jetzt ungenannt vorüber gehen! ahmen alle mögliche Schallen nach, stehen auf jeden Zug in Bereitschaft, nicht nur alle Töne, sondern auch alle Affecten auszudrucken, zu erregen, zu beleben.
+Stellen wir uns das Ganze eines solchen verschönerten Kirchengesanges vor, so vertritt die mit Anmuth gleichsam begeisterte Gemeine die Stelle der dankenden
+
+ 
+
+Seele und die Orgel ist ihr Virtuose. Und wer kann sich hier enthalten mit einem <PERSON>David</PERSON> auszurufen: Wie lieblich sind deine Wohnungen, Herr Zebaoth! Ps. 84, 2. Meine Seele sehnet sich zu schauen die schönen Gottesdienste des Herrn und seinen Tempel zu besuchen. Ps. 27. 4. Ein Tag in deinen Vorhöfen ist besser, denn sonst tausend.
+Erkennet aber zugleich aus dem, was ich bisher angeführet habe, was für eine Pflicht demjenigen obliege, der mit Klugheit und Geschicklichkeit die Orgel zu rühren gedenket. Demjenigen, der auf diesem Werkzeuge der Musik seine Kunst Gotte und der Gemeine weyhen will, darf es nicht gleichgültig seyn, mit was für einem Getöne oder vielmehr Getöse das Haus des Herrn erfüllet werde. Er muß die Stärke seiner Orgel in allen ihren Pfeiffenordnungen und ihre Würkung in allen ihren mannigfaltigen Verbindungen kennen, und sie dem Jnhalte jedes Gesanges gemäß zu ordnen wissen. Er muß den musikalischen Ausdruck der Gedanken in seiner Gewalt haben und durch seine Vorspiele den Grund zu derjenigen Andacht legen, mit welcher das Lied gesungen werden soll. Jhm muß nicht nur die Sprache, sondern auch der Ton der Affecten geläufig seyn, damit er die Stimme der Leidenschaften mit Absonderung des Unanständigen nachzuahmen wisse. Seine Modulation muß reiner, feiner,
+
+ 
+
+freyer und erhabener klingen, als der Gesang der Gemeine, ohne sich von der edlen Einfalt zu entfernen.
+Jndem seine Finger die Töne erschaffen, muß sein Auge den Jnhalt des Liedes verfolgen, und sein Geist mit Empfindung denken, damit Empfindungen des Herzens sich der Gemeine durch seinen Ausdruck bemächtigen.
+Beredsamkeit, Ticht= und Tonkunst richten sich nach einerley ursprünglichen Grundregeln, diese müssen ihm nicht unbekannt seyn. Unter andern aber hat die geistliche Beredsamkeit, Ton- und Tichtkunst dieses besondere Gesetz für sich, sie müssen Kunst seyn, ohne zu scheinen das zu seyn, was sie würklich sind, das heißt, sie sind verdoppelte Kunst. Daher enthält sich ein erbaulicher Organist billig dessen, was nur Kennern von höherem Range empfindbar ist, was nichts als Bewunderung der Kunst veranlasset und die Andacht der Gemeine zerstreuet.
+Wie sehr wünschte ich bey dieser Gelegenheit, daß ein Mann, dessen Einsichten in die innersten Geheimnisse der Tonkunst hinein gedrungen, welchem die Vorschriften der Beredsamkeit und Tichtkunst eben so geläufig sind, als die Regeln der Musik, sich an eine Abhandlung vom Gebrauche der Musik bey dem Gottesdienste wagen möchte? Er würde gar bald bemerken, daß er sich an ein Werk gemachet, welches auch
+
+ 
+
+die größesten Grade der Geschicklichkeit beschäftiget. Er würde die Ursachen entdecken, warum man von der ungekünstelten Musik der Alten so außerordentliche Würkung lieset, die man in unsern Zeiten nicht mehr so deutlich wahrnimmt. Er würde – doch ich breche hier ab, und sage nur noch so viel: das Andenken eines solchen Verehrers der Religion würde noch bey der Nachwelt in Seegen blühen.
+Beschluß.
+Wenn meine Absicht, warum ich heute in eurer Mitte, Geliebteste! aufgetreten bin, lediglich nur dahin zielte, euch mit dem Nutzen und Gebrauche der Orgeln bey gottesdienstlichen Versammlungen bekannt zu machen und dadurch den Werth desjenigen ansehnlichen Geschenks, welches jene wohlchätige Hand unsrer Gemeine heute überreichet, in seinem eigenthümlichen Lichte zu zeigen; so glaubte ich nun meinen Endzweck erreichet zu haben. Können wir aber sagen, daß wir hiermit schon die Pflichten der Dankbarkeit, die wir unserm gütigen himmlischen Vater, auch, wenn ich von Gott, dem Geber aller guten und vollkommenen Gaben absehe, unserm Wohlthäter, dem Werkzeuge, dessen sich die gnädige Vorsehung bedienet hat, schuldig sind, bereits erfüllet haben?
+ 
+Es lieget mir noch ob, um euch zum Lobe Gottes zu erwecken, einige sehr kenntliche Spuhren der göttlichen Vorsehung, die sich bey der Ausführung dieses Vorhabens sichtbar gemachet haben, aufzusuchen und zur Erweckung theils eines gläubigen Vertrauens auf den lebendigen Gott, theils eurer Dankbegierde, kürzlich zu erzählen.
+Man hatte längst, sowol von Seiten dieser werthesten Gemeine, als auch von Seiten ihrer Lehrer, gewünschet, daß sich eine Möglichkeit eräugnen möchte, unsre öffentliche Andachtsübungen mit einer vollständigeren Orgel zu versorgen; allein nirgends konnten wir einer günstigen Gelegenheit ausichtig werden, und wir waren viel zu blöde desfalls auch auf die bereitwilligste Freygebigkeit irgendwo Anspruch zu machen. Unsere Wünsche blieben das, was sie seit vielen Jahren gewesen, Wünsche und weiter nichts.
+Es gefiel aber der treuen Liebe Gottes diese stillen Wünsche zu erhören, und überschwenglich mehr zu thun als wir zu bitten oder zu hoffen fähig waren. Sie ließ zu – ein besonderer Umstand! ich sage, die Vorsehung ließ es zu, daß sich nach und nach ein Gerücht ausbreitete, als habe eine längst verstorbene bemittelte Person ein ansehnliches Vermächtniß zu diesem Behufe niedergeleget. Man nannte die Person, man berief sich auf glaubwürdige Aussagen, man bestimmte den
+
+ 
+
+Ort, wo dieses Vermächtniß anzutreffen wäre, man tadelte unsre Unthätigkeit und wunderte sich, wie man gegen Begebenheiten von dieser Art gleichgültig seyn könnte. Gesetzt auch, hieß es, daß dieses Capital nicht ganz zureichend wäte, das Vorhaben zu Stande zu bringen, sollte man nicht wenigstens einen Versuch machen, durch Unterschrift gutthätiger Hände den Rest herbey zu schaffen?
+Durch so viel Stimmen sahe man sich beynahe gezwungen, diesen Versuch zu wagen.
+Es fanden sich gar bald einige gütige Herzen, die durch Unterschreibung ihres Beytrages unsrer Hoffnung ein glückliches Vorbedeutungszeichen gaben, und sie erdreustete sich ihren Anker zu lichten, um mit einem so günstigen Winde zu seegeln. Und wie konnten wir länger Bedenken tragen, da derjenige Wohlthäter, dem wir dieses Werk zu verdanken haben, außer seinem sehr ansehnlichen Beytrage verhieß, allenfalls, wenn an der Vollständigkeit der Summe der Baukosten etwas fehlen sollte, den Rest zu erfüllen.
+Dieses war der erste Schritt, der bey dieser Unternehmung gethan wurde.
+Verschiedene Hindernisse erlaubten nicht gleich Anfangs hinter die Wahrheit des mit so großer Zuverläßigkeit vorgegebenen Vermächtnisses zu kommen, es gelang uns endlich, aber was? uns überzeuget zu
+
+ 
+
+sehen, daß dieses Vermächtniß niemals weder zum Reiche der Wirklichkeit noch nur einmal zum Reiche der Möglichkeit der Dinge gehöret habe. Unsre Hoffnung strandete, da sie kaum die Rhede verlassen hatte, und anstatt den Plan zur Ausführung unsers Vorhabens zu entwerfen, sahen wir uns genöthiget, denen Freunden desselben für ihre bezeigte Liebe Dank abzustatten, und ihnen die Unmöglichkeit anzuzeigen, sie auszuüben. Allein der Gott, der zur Finsterniß sprechen kann: werde Licht! auf dessen Befehl Sturm und Wetter schweigen, beschloß unsre sinkende Hoffnung sollte nicht Schiffbruch leiden, er reichte ihr seine errettende Hand.
+Kaum erfuhr unser Wohlthäter das Schicksal unsers verunglückten Vorhabens; anstatt die Hand zurück zu ziehen, sprach er großmüthig: Jch erkenne den Wink meines Gottes, der mich auffordert, mein Gelübde für eine zweymalige Errettung meines Lebens dem Herrn zu bezahlen vor seinem Volke. Jhm war die Wahl überlassen, er wählt, ich gehorche. Eine Orgel soll es also seyn? so sey sie denn das Opfer meines Danks. Unter der Bedingung, daß man meinen Namen nicht nenne, sollen die Unkosten dieses Werks allein auf meine Rechnung fallen. So sprach er: der vorgelegte Plan erhielt seinen Beyfall, er vermehrte ihn sogar, er ordnete an, die Arbeit nahm ihren Anfang
+
+ 
+
+Gott segnete ihren Fortgang, vor wenig Tagen ist sie unter den unverdrossensten Bemühungen desjenigen, der mich in meinem Amte brüderlich unterstützet, wie auch unter dem Beystande einiger der berühmtesten Tonkünstler hiesiger Residenzien vollendet worden, und dieses ist der frohe Tag, den uns der Herr gemacht hat, die glückliche Stunde ist da, wo ich die Freude erlebe, dieses von eitelen Absichten unbefleckte Denkmal der Treue Gottes und der Dankbarkeit seines Verehrers, der Ehre des Allerhöchsten und dem Gebrauche beyder Dreyfaltigkeitsgemeinen hiermit öffentlich zu schenken, zu übergeben und zu weihen.
+Tadelsucht, die du alles tadelst nur dich nicht, der nichts gefället, als was du selbst gethan; entferne dich aus unsrer Mitte, diese Städte ist für dich zu heilig.
+Zu heilig auch für dich, Verläumdung, die du wie eine wilde unterirdische Glut aus deinem tiefen Schlunde deinen glüenden Wust herausstürzest und der Redlichkeit diejenigen Absichten schuld giebest, die dir selbst nur eigen sind. Dein Ausbruch zerstöre nicht, was die Unschuld bauet. Weg! weit weg von hinnen, blasser Neid, und erröthe, wofern dir Röthe möglich, wenn du siehest, daß es unter uns noch Christen giebet, deren Glaube durch die Liebe thätig ist.
+Wir aber wollen den Herrn preisen, der einen so sichtbaren, einen so lauten Beweis seiner alles ver=
+
+ 
+
+mögenden allerweisesten Vorsehung in unsrer Mitte aufgestellet hat, der menschliche Herzen lenken kann wie die Wasserbäche, der rufen kann dem das nicht ist, das es sey, der das blöde Gebet mit überschwenglicher Erhörung beantwortet, der Wunder ohne Wunderwerk thut, dessen Weisheit Hindernisse in nahe Beförderungsmittel verwandelt, dessen Kraft in der Schwachheit vollendet wird, der die nicht zu schanden werden läßet, die auf ihn trauen. Dem Gott, der alles schaft, was er will, im Himmel und auf Erden, dem frolocke unser davidisches Hallelujah, dem zu Ehren ertöne diese Orgel mit ihren Posaunen, und Psaltern, und Pfeiffen, und Zimbeln, und unser Herz sey ein tausendfacher Altar, auf welchen die Dankbarkeit Weyrauch streuet dem Jehovah zum süßen Geruch.
+Zuletzt fodert noch meine Pflicht mich auf, dieser versammleten Gemeine meinen Mund zu leihen, ihrem Wohlthäter für diese kostbare Liebeserweisung den verbundensten Dank abzustatten. Die Rührungen so vieler Herzen und auch des meinigen sind bey dieser Danksagung zu neu, zu groß, als daß ich mich getrauete Jhnen, Theurester, alles zu sagen, was diese dankbare Gemeine gesagt zu seyn wünschet. Jch werde schon Mühe haben über meine Zunge zu wachen, daß sie nicht wieder Jhr Verboth einen so werthen Namen nennet. Vielleicht siehet Jhre Demuth dieses
+
+ 
+
+schon ungern, daß ich eine Pflicht beobachte, die ich, ohne eine ganze Gemeine eines öffentlichen Undanks schuldig zu machen, nicht unterlassen darf.
+Wohlan! Wir erkennen Jhre Liebe und Jhren Eifer die Ehre Gottes zu befördern, mit der regesten Dankbeflissenheit. Weniger kann ich wol unmöglich sagen. Wir loben Sie nicht, wir loben den Herrn unsern Gott, der Jhr Herz geneiget hat sein Werkzeug zu seyn, uns mit dieser Frucht einer rechtschaffenen Liebe zu erfreuen. Wir rufen über Sie den Namen Jesu an, daß er Sie mit Schätzen seiner Gnade seegne, wenn Sie vor seinem Angesichte erscheinen, das gütige Wort Gottes und die Kräfte der zukünftigen Welt zu schmecken.
+Er erhöre Jhr Gebet, wenn Sie Jhre Hände zu seinem Throne aufheben. Göttliche Tröstungen erquicken Jhre Seele, wenn Trübsal und Leiden auf Sie zustürmen.
+Es müsse Jhnen zur Wonne gereichen, wenn Sie sehen und hören, wie Jhre Orgel das Gott geheiligte Frohlocken einer ganzen Gemeine mit harmonischen Wohlklange belebet. Jhr übriges Leben sey ein wohlgesetztes Concert der Wohfahrt, Jhr, Gott gebe bis zum längsten Ziele des menschlichen Lebens ausgesetzter Tod, der mit einem lieblichen Accord sich be=
+
+ 
+
+schließende Ausgang, und Jhre Ewigkeit ein immerwährendes Hallelujah.
+Und nun, theureste Gemeine! übergebe ich dir dieses dem Herrn geweyhete Geschenk einer dich umarmenden Liebe. Es feure deine Andachten an, es begleite dein Hallelujah mit Harmonie. Jeder Anblick desselben sage dir: Denke daran, was der Allmächtige kann. Es sey dir ein Zeichen des Wohlgefallens Gottes an deinen Versammlungen. Es sey dir ein Vorschmack jener Freuden, wenn wir nach vollendeter Pilgrimschaft unsers Lebens, unter dem dreymal Heilig der Seraphinen und Cherubinen, unter den Lobeserhebungen der höhern Welt, unter dem Hallelujah unzählbarer Gerechten, jenes neue Lied anstimmen: Heil sey dem, der auf dem Stuhle thronet: Gott und dem Lamme!
+Ja Ewiger und Unendlicher! Dir, dem Dreyeinigen, sey Dank von uns allen gesaget. Deinem, auch auf diese Wohnung deiner Ehre gerichteten wachsamen Auge sey dieses Werk empfohlen. Beschütze es für zündende und zerschmetternde Strahlen der Blitze; beschirme es für räuberische Hände und für die Wuth zerstöhrender Feinde, damit es noch unter unsern spätesten Nachkommen dein Lob ertöne. Denn dir gebühret Lob und Gewalt und Anbetung von Ewigkeit zu Ewigkeit. Amen! Hallelujah, Amen.
+ 
+
+
+Cantate,  
+so bey der  
+am 21sten Sonntage nach Trinitatis 1775 erfolgten  
+feyerlichen Einweihung  
+eines neuen  
+Orgelwerks  
+in der hiesigen  <LOCATION>Dreyfaltigkeitskirche</LOCATION> 
+aufgeführet worden.  
+Componiret  
+    von  
+Johann Christoph Kühnau.
+
+ 
+Coro.
+Hallelujah!   
+Lobet den Herrn in seinem Heiligthum!  
+Lobet ihn mit Posaunen! lobet ihn mit   
+Paucken und Chören!  
+Lobet ihn mit Saiten und Pfeiffen!  
+Lobet ihn in der Veste seiner Macht.  
+Hallelujah!
+Ps. 150, 1. 3. 4.
+Recitativ.
+Zu deinem Ruhm drang bey der Harfe Klang,  
+Unendlicher, der Psalmen Lobgesang  
+Hinauf zum Thron,  
+Wenn andachtsvoll der königliche Sohn  
+Des Jsai, wenn Assaph deine Größe pries,  
+Wenn seine dreiste Hand die Saite tönen ließ.
+ 
+Und so erhöht der Tonkunst Harmonie  
+Den Schwung der Poesie.  
+Wenn dir zum Ruhm, o Gott, der Tempel wiederhallt,  
+Die Cimbel klingt, und die Posaune schallt,  
+Dann schleicht, entflammet von der Sänger Chor,  
+Die Andacht durch des Volkes Ohr  
+Jns Herz. Der Lobgesang ertönt,  
+Wenn Jsrael der Väter Gott versöhnt,  
+Und mit dem Wohlgeruch des Opfers wirbelt sich 
+Der Ton zum Thron hinauf, und preist, Versöhnter, dich.  
+Den Christen selbst belebt 
+Der Tonkunst Harmonie, wenn er sein Herz erhebt.  
+Die Andacht glüht, der Glaube zweifelt nicht,  
+Wenn mit der Welten Gott der Christ harmonisch spricht.
+Arie.
+Hörst du, den der Donner Toben,  
+Den der Stürme Brausen loben,  
+Wenn sie auf dem Meere gehn;  
+Hörst du, Gott, dem Seraphinen  
+Und des Himmels Heere dienen  
+Hörst du auch des Staubes Flehn?
+Die Andacht, der Zweifel und der Glaube.
+
+  
+  
+  
+  
+  
+  
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Tutti. 
+
+Er hört unser Flehn,  
+Und hat für die Seinen,  
+Die kummervoll weinen  
+Längst Hülfe ersehn.
+Arie.
+Sey dann getrost, o Christ! Es sieht dein banges Zagen  
+Der Menschensohn, der für dich litt,  
+Der als ein Menschenfreund, wenn deine Lippen klagen,  
+Bey seinem Vater dich vertritt.
+ 
+Wenn im Gebet dein Herz, bey gläubigen Vertrauen,  
+Sich zu des Schöpfers Thron erhebt,  
+Dann kannst du auf den Schutz der weisen Vorsicht bauen,  
+Denn Gott und dein Erlöser lebt.
+Sey dann getrost, o Christ! Es sieht dein banges Zagen  
+Der Menschensohn, der für dich litt,  
+Der als ein Menschenfreund, wenn deine Lippen klagen,  
+Bey seinem Vater dich vertritt.
+Choral.
+Hallelujah bringe,  
+Wer den Herren kennet,  
+Wer den Herren Jesum liebet!  
+Hallelujah singe,  
+Welcher Christum nennet,  
+Sich von Herzen ihm ergiebet.  
+O wohl dir!  
+Glaube mir.  
+Endlich wirst du droben  
+Ohne Sünd' ihn loben.
+ 
+Recitativ.
+So laß denn unser Lied, das Lied gefallner Adams Söhne,   
+Verstärkt durch hohe Orgeltöne,  
+Das wir hinfort in diesem Tempel weyhn,  
+Jehovah! dir ein süßes Opfer seyn.  
+Sie donnere mit schmetternden Posaunenschall,  
+Wenn wir dein hohes Lob besingen;  
+Sie töne sanft mit anmuthsvollem Wiederhall,  
+Wenn wir gebeugt, nach Gnade ringen;  
+Sie winsele in unsre Klag= und Sterbelieder;  
+Erhörst du uns und segnest du uns wieder,  
+Frolocke sie dir Dank mit unserm frohen Munde.  
+Wenn in der feyerlichen Stunde  
+Dein Volk sich anschickt, Gottes Wort zu hören:  
+So quille denn aus ihren schöpferischen Stimmen  
+Die Andacht sanft in unser Herz herab.  
+Die Jnbrunst müsse feuriger entglimmen,  
+Wenn wir in Chören,  
+Erlöser! dich, dein Sterben und dein Grab,   
+Auch den Triumph der Auferstehung feyerlich begehn.  
+Uns dünke denn, den Reigen Mahanaim fern zu sehn,  
+Als hörten wir im Heiligthum der Cherubinen  
+Den Wiederhall erhabner Seraphinen.  
+Uns dünke auf Erden, als wären wir Himmel.
+Coro.
+Du, dessen Wink das Herz der Frommen lenket,  
+Beglücke den verehrungswürd’gen Mann,  
+Der dieses Werk aus seltner Güte schenket,   
+Schau gnädig dis sein reines Opfer an.
+ 
+Hört ihr der Orgel prächt’ge Töne,  
+Jhr Enkel und der Enkel Söhne,  
+Entzückt euch Sions sanfte Harmonie,  
+Dann segnet Jhn, und fragt: Wer schenkte sie?
+Du, dessen Wink das Herz der Frommen lenket,  
+Beglücke den verehrungswürd’gen Mann,  
+Der dieses Werk aus seltner Güte schenket,  
+Schau gnädig dis sein reines Opfer an.
+Choral.
+Hallelujah, Lob, Preis und Ehr  
+Bringt unserm Gott! des Himmels Heer  
+Verkündigt seinen Namen.  
+Rühmt ihn mit seiner Engel Schaar,  
+Und singet nun und immerdar  
+Jm Glauben Amen, Amen!  
+Klinget,  
+Singet:  
+Heilig ist Gott!  
+Heilig ist Gott!  
+Singt zu Ehren  
+Unsers hochgepriesnen Herren.
+(Heilig ist unser Gott!)
+ 
+Nach der Predigt.
+Amen!
+Componirt  
+
+von  
+
+G[eorg] F[riedrich] Händel.
+
+Einzelanmerkungen
+
+</div>

@@ -1,0 +1,90 @@
+2024-03-06 16:32:23,476 - run_model.log - INFO - Initiated model test. Attempt: de_core_news_sm--03-06-16-32-23
+2024-03-06 16:32:24,438 - run_model.log - INFO - Loaded test file from location ./data/train_test_dev/test.tsv. Size: 177,096 tokens.
+2024-03-06 16:32:53,179 - run_model.log - ERROR - The checksums for the loaded test data and the predictions table do not match. Maybe the train/test/dev split has changed?
+2024-03-06 16:33:39,588 - run_model.log - INFO - No predictions table was found at location ./model_comparisons/test-predictions_comparison.tsv, so a new one was created.
+2024-03-06 17:20:57,100 - run_model.log - INFO - Initiated model test. Attempt: de_core_news_sm--03-06-17-20-57
+2024-03-06 17:21:31,692 - run_model.log - INFO - Loaded test file from location ./data/train_test_dev/test.tsv. Size: 177,096 tokens.
+2024-03-06 17:22:27,555 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-10 16:32:16,562 - run_model.log - INFO - Initiated model test. Attempt: models/sermons_30it--03-10-16-32-16
+2024-03-10 16:32:26,743 - run_model.log - INFO - Loaded test file from location ./data/train_test_dev/test.tsv. Size: 233,359 tokens.
+2024-03-10 16:32:49,076 - run_model.log - ERROR - The checksums for the loaded test data and the predictions table do not match. Maybe the train/test/dev split has changed?
+2024-03-10 16:40:20,115 - run_model.log - INFO - Initiated model test. Attempt: de_core_news_sm--03-10-16-40-20
+2024-03-10 16:40:25,421 - run_model.log - INFO - Loaded test file from location ./data/train_test_dev/test.tsv. Size: 233,359 tokens.
+2024-03-10 16:42:03,168 - run_model.log - INFO - No predictions table was found at location ./model_comparisons/test-predictions_comparison.tsv, so a new one was created.
+2024-03-10 16:43:47,544 - run_model.log - INFO - Initiated model test. Attempt: models/sermons_30it--03-10-16-43-47
+2024-03-10 16:43:47,544 - run_model.log - INFO - Initiated model test. Attempt: models/sermons_30it--03-10-16-43-47
+2024-03-10 16:43:55,396 - run_model.log - INFO - Loaded test file from location ./data/train_test_dev/test.tsv. Size: 233,359 tokens.
+2024-03-10 16:43:55,396 - run_model.log - INFO - Loaded test file from location ./data/train_test_dev/test.tsv. Size: 233,359 tokens.
+2024-03-10 16:44:19,024 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-10 16:44:19,024 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-11 19:06:36,165 - run_model.log - INFO - Initiated model test. Attempt: models/sermons_30it--03-11-19-06-36
+2024-03-11 19:07:09,252 - run_model.log - INFO - Loaded test file from location ./data/train_test_val/test.tsv. Size: 280,975 tokens.
+2024-03-11 19:08:57,478 - run_model.log - ERROR - The checksums for the loaded test data and the predictions table do not match. Maybe the train/test/dev split has changed?
+2024-03-11 19:09:16,722 - run_model.log - INFO - No predictions table was found at location ./model_comparisons/test-predictions_comparison.tsv, so a new one was created.
+2024-03-13 15:28:28,178 - run_model.log - INFO - Initiated model test. Attempt: models/sermons_30it--03-13-15-28-28
+2024-03-13 15:28:29,583 - run_model.log - ERROR - 
+Traceback (most recent call last):
+  File "/tmp/ipykernel_1346/3031565864.py", line 2, in <module>
+    nlp = spacy.load(model)
+  File "/home/janosch/anaconda3/lib/python3.9/site-packages/spacy/__init__.py", line 54, in load
+    return util.load_model(
+  File "/home/janosch/anaconda3/lib/python3.9/site-packages/spacy/util.py", line 449, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'models/sermons_30it'. It doesn't seem to be a Python package or a valid path to a data directory.
+2024-03-13 15:28:41,113 - run_model.log - INFO - Initiated model test. Attempt: models/sermons_60it--03-13-15-28-41
+2024-03-13 15:28:49,095 - run_model.log - INFO - Loaded test file from location ./data/train_test_val/test.tsv. Size: 280,975 tokens.
+2024-03-13 15:29:15,083 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-21 19:11:10,375 - run_model.log - INFO - Initiated model test. Attempt: de_dep_news_trf--03-21-19-11-10
+2024-03-21 19:11:29,815 - run_model.log - INFO - Loaded test file from location ./data/train_test_val/test.tsv. Size: 280,975 tokens.
+2024-03-21 19:19:25,247 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-21 19:29:51,906 - run_model.log - INFO - Initiated model test. Attempt: models/bert_tuned_4e--03-21-19-29-51
+2024-03-21 19:33:30,462 - run_model.log - INFO - Initiated model test. Attempt: models/bert_tuned_4e--03-21-19-33-30
+2024-03-21 19:33:30,462 - run_model.log - INFO - Initiated model test. Attempt: models/bert_tuned_4e--03-21-19-33-30
+2024-03-21 19:42:13,271 - run_model.log - INFO - Loaded test file from location ./data/train_test_val/test.tsv. Size: 280,975 tokens.
+2024-03-22 09:22:15,835 - run_model.log - INFO - Loaded test file from location ./data/train_test_val/test.tsv. Size: 280,975 tokens.
+2024-03-22 09:24:23,983 - run_model.log - INFO - Loaded test file from location ./data/train_test_val/test.tsv. Size: 280,975 tokens.
+2024-03-24 13:20:45,328 - run_model.log - INFO - Initiated model test. Attempt: bert_base_german_cased_finetuned_3ep--03-24-13-20-45
+2024-03-24 13:25:05,563 - run_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/train_test_val/test.tsv. Size: 162,909 tokens.
+2024-03-24 13:28:28,061 - run_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/train_test_val/test.tsv. Size: 162,909 tokens.
+2024-03-24 13:53:18,932 - run_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/train_test_val/test.tsv. Size: 162,909 tokens.
+2024-03-24 14:25:43,696 - run_model.log - INFO - Initiated model test. Attempt: bert_base_german_cased_finetuned_3ep--03-24-14-25-43
+2024-03-24 14:38:00,932 - run_model.log - ERROR - The checksums for the loaded test data and the predictions table do not match. Maybe the train/test/dev split has changed?
+2024-03-24 14:38:39,528 - run_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv, so a new one was created.
+2024-03-24 14:56:59,669 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/bert-base-german-cased--03-24-14-56-59
+2024-03-24 14:56:59,669 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/bert-base-german-cased--03-24-14-56-59
+2024-03-24 15:04:07,184 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-24 15:04:07,184 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-24 15:17:51,471 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-24 15:17:51,471 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-24 15:39:23,559 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/bert-base-german-cased--03-24-15-39-23
+2024-03-24 15:39:23,559 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/bert-base-german-cased--03-24-15-39-23
+2024-03-24 16:47:47,052 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/bert-base-german-cased--03-24-16-47-47
+2024-03-24 17:25:15,317 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-24 17:27:23,201 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:33:17,553 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 09:14:23,360 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-onb--03-25-09-14-23
+2024-03-25 09:19:27,748 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 05:21:02,908 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-onb--03-26-05-21-02
+2024-03-26 05:26:04,961 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-onb_finetuned_3ep--03-26-05-26-04
+2024-03-26 05:26:25,176 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 08:44:50,659 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-onb--03-26-08-44-50
+2024-03-26 08:46:33,331 - run_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1947_comparison.tsv, so a new one was created.
+2024-03-26 08:49:16,360 - run_model.log - ERROR - The checksums for the loaded test data and the predictions table do not match. Maybe the train/test/dev split has changed?
+2024-03-26 08:55:26,553 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 08:56:48,893 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 08:58:12,079 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 08:59:35,653 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:00:58,677 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:02:21,791 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:03:45,850 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:30:27,157 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-onb_finetuned_3ep--03-26-09-30-27
+2024-03-26 09:36:19,379 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:37:54,704 - run_model.log - INFO - Initiated model test. Attempt: dbmdz/flair-historic-ner-onb_finetuned_3ep_2e-5--03-26-09-37-54
+2024-03-26 09:38:10,303 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:41:56,471 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:43:19,240 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:44:42,300 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:46:05,128 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:47:27,652 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:48:50,387 - run_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 09:50:12,999 - run_model.log - INFO - The predictions were added to the predictions table.

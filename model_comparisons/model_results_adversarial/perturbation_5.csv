@@ -1,0 +1,8 @@
+attempt,time,model_name,precision,recall,accuracy,F1-score
+de_core_news_sm--03-26-06-08-38,03-29-00-30-01,de_core_news_sm,0.10795631825273011,0.41437125748502995,0.9383459477376941,0.17128712871287127
+/content/drive/MyDrive/NLP_Project_New/models/sermons_60it--03-26-06-15-17,03-29-00-30-01,/content/drive/MyDrive/NLP_Project_New/models/sermons_60it,0.6083086053412463,0.20665322580645162,0.983076441448907,0.308502633559067
+dbmdz/bert-base-german-cased--03-26-06-43-39,03-29-00-30-01,dbmdz/bert-base-german-cased,0.003875968992248062,0.1054590570719603,0.5844428484614109,0.007477128782547501
+/content/drive/MyDrive/NLP_Project_New/models/bert_base_german_cased_finetuned_3ep--03-26-07-51-24,03-29-00-30-01,/content/drive/MyDrive/NLP_Project_New/models/bert_base_german_cased_finetuned_3ep,0.7464788732394366,0.6010309278350515,0.9892271145240594,0.6659051970302684
+dbmdz/flair-historic-ner-onb--03-26-08-44-50,03-29-00-30-01,dbmdz/flair-historic-ner-onb,0.28125,0.43670886075949367,0.9706830193543635,0.3421487603305785
+dbmdz/flair-historic-ner-onb_finetuned_3ep_2e-5--03-26-09-37-54,03-29-00-30-01,dbmdz/flair-historic-ner-onb_finetuned_3ep_2e-5,0.7183908045977011,0.3826530612244898,0.9861517779864832,0.49933422103861513
+mschiesser/ner-bert-german--03-28-23-22-04,03-29-00-30-01,mschiesser/ner-bert-german,0.3168238993710692,0.41460905349794236,0.9735189584369188,0.35918003565062384

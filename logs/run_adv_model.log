@@ -1,0 +1,71 @@
+2024-03-25 17:51:44,314 - run_adv_model.log - INFO - Initiated model test. Attempt: dbmdz/bert-base-german-cased--03-25-17-51-44
+2024-03-25 18:33:48,740 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 18:52:22,620 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 19:10:59,476 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 19:29:34,215 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 19:48:12,441 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 20:06:43,177 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-25 20:25:18,414 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 05:53:52,598 - run_adv_model.log - INFO - Initiated adversarial model test. Attempt: de_core_news_sm--03-26-05-53-52
+2024-03-26 05:54:03,383 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_1.tsv. Size: 54,303 tokens.
+2024-03-26 05:54:27,587 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1_comparison.tsv, so a new one was created.
+2024-03-26 05:59:34,227 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_1.tsv. Size: 54,303 tokens.
+2024-03-26 06:00:00,944 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1_comparison.tsv, so a new one was created.
+2024-03-26 06:00:00,990 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_2.tsv. Size: 54,303 tokens.
+2024-03-26 06:00:25,402 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_2_comparison.tsv, so a new one was created.
+2024-03-26 06:00:25,678 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_3.tsv. Size: 54,303 tokens.
+2024-03-26 06:00:48,636 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_3_comparison.tsv, so a new one was created.
+2024-03-26 06:00:48,900 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_4.tsv. Size: 54,303 tokens.
+2024-03-26 06:01:12,324 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_4_comparison.tsv, so a new one was created.
+2024-03-26 06:01:12,594 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_5.tsv. Size: 54,303 tokens.
+2024-03-26 06:01:36,036 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_5_comparison.tsv, so a new one was created.
+2024-03-26 06:01:36,332 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_6.tsv. Size: 54,303 tokens.
+2024-03-26 06:01:59,030 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_6_comparison.tsv, so a new one was created.
+2024-03-26 06:01:59,343 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_7.tsv. Size: 54,303 tokens.
+2024-03-26 06:02:22,365 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_7_comparison.tsv, so a new one was created.
+2024-03-26 06:02:57,089 - run_adv_model.log - INFO - Initiated adversarial model test. Attempt: /content/drive/MyDrive/NLP_Project_New/models/sermons_60it--03-26-06-02-57
+2024-03-26 06:03:10,773 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_1.tsv. Size: 54,303 tokens.
+2024-03-26 06:03:21,113 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1_comparison.tsv, so a new one was created.
+2024-03-26 06:03:21,151 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_2.tsv. Size: 54,303 tokens.
+2024-03-26 06:03:31,012 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_2_comparison.tsv, so a new one was created.
+2024-03-26 06:03:31,043 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_3.tsv. Size: 54,303 tokens.
+2024-03-26 06:03:39,558 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_3_comparison.tsv, so a new one was created.
+2024-03-26 06:03:39,596 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_4.tsv. Size: 54,303 tokens.
+2024-03-26 06:03:49,328 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_4_comparison.tsv, so a new one was created.
+2024-03-26 06:03:49,356 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_5.tsv. Size: 54,303 tokens.
+2024-03-26 06:03:59,235 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_5_comparison.tsv, so a new one was created.
+2024-03-26 06:03:59,266 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_6.tsv. Size: 54,303 tokens.
+2024-03-26 06:04:08,171 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_6_comparison.tsv, so a new one was created.
+2024-03-26 06:04:08,209 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_7.tsv. Size: 54,303 tokens.
+2024-03-26 06:04:17,899 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_7_comparison.tsv, so a new one was created.
+2024-03-26 06:08:38,021 - run_adv_model.log - INFO - Initiated adversarial model test. Attempt: de_core_news_sm--03-26-06-08-38
+2024-03-26 06:08:47,230 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_1.tsv. Size: 54,303 tokens.
+2024-03-26 06:09:14,480 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1_comparison.tsv, so a new one was created.
+2024-03-26 06:09:14,789 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_2.tsv. Size: 54,303 tokens.
+2024-03-26 06:09:39,749 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_2_comparison.tsv, so a new one was created.
+2024-03-26 06:09:40,040 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_3.tsv. Size: 54,303 tokens.
+2024-03-26 06:10:05,398 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_3_comparison.tsv, so a new one was created.
+2024-03-26 06:10:05,683 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_4.tsv. Size: 54,303 tokens.
+2024-03-26 06:10:31,381 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_4_comparison.tsv, so a new one was created.
+2024-03-26 06:10:31,763 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_5.tsv. Size: 54,303 tokens.
+2024-03-26 06:10:56,631 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_5_comparison.tsv, so a new one was created.
+2024-03-26 06:10:56,939 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_6.tsv. Size: 54,303 tokens.
+2024-03-26 06:11:23,484 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_6_comparison.tsv, so a new one was created.
+2024-03-26 06:11:23,850 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_7.tsv. Size: 54,303 tokens.
+2024-03-26 06:12:32,590 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_7.tsv. Size: 54,303 tokens.
+2024-03-26 06:12:56,971 - run_adv_model.log - INFO - No predictions table was found at location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_7_comparison.tsv, so a new one was created.
+2024-03-26 06:15:17,321 - run_adv_model.log - INFO - Initiated adversarial model test. Attempt: /content/drive/MyDrive/NLP_Project_New/models/sermons_60it--03-26-06-15-17
+2024-03-26 06:15:26,608 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_7.tsv. Size: 54,303 tokens.
+2024-03-26 06:15:37,843 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 06:19:41,516 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_1.tsv. Size: 54,303 tokens.
+2024-03-26 06:19:52,143 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 06:19:52,191 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_2.tsv. Size: 54,303 tokens.
+2024-03-26 06:20:02,971 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 06:20:03,010 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_3.tsv. Size: 54,303 tokens.
+2024-03-26 06:20:13,159 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 06:20:13,207 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_4.tsv. Size: 54,303 tokens.
+2024-03-26 06:20:23,731 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 06:20:23,770 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_5.tsv. Size: 54,303 tokens.
+2024-03-26 06:20:34,556 - run_adv_model.log - INFO - The predictions were added to the predictions table.
+2024-03-26 06:20:34,595 - run_adv_model.log - INFO - Loaded test file from location /content/drive/MyDrive/NLP_Project_New/data/advers_tests/perturbation_6.tsv. Size: 54,303 tokens.
+2024-03-26 06:20:45,330 - run_adv_model.log - INFO - The predictions were added to the predictions table.

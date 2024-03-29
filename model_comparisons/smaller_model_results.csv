@@ -1,0 +1,7 @@
+attempt,time,model_name,precision,recall,accuracy,F1-score,comments
+/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_2_part--03-28-17-58-23,03-28-22-29-23,/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_2_part,0.7125799573560767,0.5518494055482166,0.9875329171500654,0.6219988833054159,
+/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_4_part--03-28-17-58-23,03-28-22-29-23,/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_4_part,0.8258547008547008,0.2536089238845144,0.9850345898630524,0.3880522088353413,
+/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_8_part--03-28-17-58-23,03-28-22-29-23,/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_8_part,0.7289803220035778,0.5360078921407432,0.9876188546980216,0.6177752510896343,
+/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_16_part--03-28-17-58-23,03-28-22-29-23,/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_16_part,0.6306058221872541,0.5306190003310162,0.985531799961942,0.5763077476181916,
+/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_32_part--03-28-17-58-23,03-28-23-29-04,/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_32_part,0.7058823529411765,0.4942339373970346,0.9867410640296116,0.5813953488372092,
+/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_64_part--03-28-17-58-23,03-28-23-29-04,/content/drive/MyDrive/NLP_Project_New/models/bert_finetuned_64_part,0.7118307997356246,0.35697712959893935,0.9854151704325728,0.47549668874172185,

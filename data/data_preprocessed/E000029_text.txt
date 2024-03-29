@@ -1,0 +1,743 @@
+<div class="edition"> 
+
+
+
+ 
+
+
+Christliche Predigt/ 
+Von der Vocal vnd 
+        Jnstrumentalischen Music (als den 4. 
+        Septemb. Anno 1605. in der newen Euangeli= 
+        schen  <LOCATION>Kirchen</LOCATION> zu  <LOCATION>Kauffbeuren/</LOCATION> ein  Orgel auffgerichtet) ge= 
+        halten/ vnd in margine mit dem artificio Rhetorico, 
+        auch am End mit einer Tabula 
+        verfertiget/
+Von 
+ <PERSON>Georgio Anwandern</PERSON> / Pfarrern Euangeli= 
+        scher Gemein daselbsten.
+ <LOCATION>Tübingen</LOCATION> / Bey  <PERSON>Georg Gruppenbach/</PERSON> 
+        1606.
+
+  [vakat]
+ 
+
+Den Ehrnuesten/ Weisen/ Hochgelehrten/ 
+         <PERSON>Christophoro Laubern/</PERSON> Statt Ammann/ 
+         <PERSON>Johanni Georgio Bonriedern/</PERSON> der Rechten Doctori/ vnd hiesiger Statt Aduocaten/ vnd 
+         <PERSON>Erasmo Suitern/</PERSON> zu 
+         <LOCATION>Kempten</LOCATION> wohnhafft/ allen dreyen gegen einander getrewen Schwägern/ meinen sonders günstigen Herrn vnnd Junckern.
+Ehrnueste/ Weise/ Hochgelehrte/ denselben seind meine trewe Dienst/ eussersten vermögens/ sampt andächtigem Gebete zu Gott/ für dero zeitliche vnd ewige Wolfahrt/ jeder zeit zuuor/ günstige Herrn vnd Juncker/ 
+     
+        der heilig Apostel 
+         <PERSON>Paulus</PERSON> sagt zu seinen Ephesern/ 
+         wir seyen Gottes Werck/ erschaffen in Christo Jesu/ zu guten Wercken/ zu welchen vns Gott zuuor bereitet habe/ daß wir darinnen wandlen sollen. 
+        Es nennet vns der heilig Apostel anfänglich Gottes Werck: darnach zeigt er vns die end Vrsach an/ warumb wir von Gott erschaffen worden/ nämlich/ daß wir nicht nur von den guten Wercken wissen zusagen/ sondern auch in denselbigen wandlen/ oder gute Werck thun sollen. Gleich aber/ vnnd wie alle ding des Menschen halben/ der Mensch aber von Gottes wegen erschaf=
+
+ 
+
+        fen ist: also soll sich der Mensch/ insonderheit solcher Werck befleissen/ durch welche der Allerhöchst gelobet werde/ wie vns dann 
+         <PERSON>Dauid</PERSON> offt zu solchem Lob Gottes ermahnet in seinen Psalmen: 
+    
+ Lobet den Herrn/ dann es ist ein köstlich ding vnsern Gott zuloben/
+ Lobe den Herrn meine Sel/ alles was in mir ist/ seinen heiligen Namen. 
+        Nun aber loben wir Gott mit Wercken vnd mit dem Mund: das mündtlich Lob würdt verrichtet mit reden vnd singen: das singen durch ein natürliche vnnd künstliche Singstimm: vnd dieses letste/ durch ein mündtliche oder instrumentalische Music, vnter welche auch sollen die Orglen vnnd das Orgelschlagen gezehlet werden. 
+     
+       <PERSON>Dauid</PERSON> sagt/ 
+         lobet den Herrn mit Posaunen/ lobet jhn mit Psaltern vnd Harpffen/ lobet jhn mit Pauggen vnd Reigen/ lobet jhn mit Saiten vnnd Pfeiffen/ lobet jhn mit hellen Cymbeln/ lobet jhn mit wolklingenden Cymbeln. 
+        In diesen Worten würdt gleichwol keiner Orgel gedacht/ vnd hat auch keiner könden gedacht werden/ seitenmal 
+         <PERSON>Polydorus Virgilius</PERSON> sagt/ 
+     
+        daß die Musicalische Instrument/ so <PERSON>Dauid</PERSON> machen lassen/ vngleich seyen denen/ welche in vnsern Kirchen gebraucht werden. Dann Dauids Instrumenten waren von Saiten zugerichtet/ vnd mit einem 
+    
+plectro, Griffel/ oder in andere Weg/ geschlagen. 
+        Die Orgeln aber/ welche man in 
+
+ 
+
+        der Kirchen braucht/ werden gezogen mit Blasbälgen/ auß welchen/ gleich als durch viel Gäng/ vnnd vngleichen Pfeiffen/ die Stimm vnd Klang herauß fähret: aber nichts desto weniger/ weil die Orgel auch ist ein Musicalisches instrument/ vnd zwar das fürnembste/ so wir heutigs Tags haben/ so sollen wir solche auch zu Gottes Lob gebrauchen/ in vnserer new erbawten Kirchen einführen/ vnd anfahen nach einer Orgel trachten. Dann gleich wie in dem Kirchenbaw Gott für vns gesorget/ also hat es auch mit der Orgel geheissen/ er sorget für vns. Wie viel frommer Hertzen hat Gott erwecket/ die ettwas in die Kirchen gestifftet haben? Euch aber/ Ehrnueste/ Weise/ Hochgelehrte günstige Herrn vnnd Juncker/ ist in ewer Hertz gegeben worden/ daß E. E. E. W. vnd G. Gott zu Lob/ vnd zu vnserer Euangelischen Kirch Aufferbawung/ auff eignen Vnkosten hat ein Orgel in 
+         <LOCATION>vnsere Kirchen</LOCATION> richten lassen/ darfür dann E. E. E. W. vnd G. ein gantze Euangelische Burgerschafft fleissig dancket/ vnd/ wa müglich/ solches zuerwidern gedencket.
+Als aber solche Orgel gemacht/ in der Kirchen auffgerichtet/ vnnd man am 4. Septembris Anno 1605. zum ersten mal in der Kirchen drauff schlagen sollen/ hab ich mich in die zeit schicken/ vnd in ei=
+
+ 
+
+        ner Predigt ein Bericht geben sollen/ was von der Music in gemein/ sonderlich von der Jnstrumentalischen/ vnnd also auch Orgel Music zuhalten sey/ weil wir zuuor kein Orgel zur Verrichtung vnsers Euangelischen Gottesdiensts gebraucht haben. Solche Predigt nun/ hab ich auff vorgemelte Zeit gethon/ vnnd weil sie mit der ersten 
+          Einweyhungs Predigt hat sollen getruckt werden/ so hab ich solche Predigt E. E. E. W. vnnd G. dediciern wöllen. Vnnd zwar wem billicher? fürwahr/ allein denen/ welche solche Orgel verlegt/ auß jhrer gemeinen Erbschafft/ vnd dann priuatim für sich selbs bezahlt/ vnnd in <LOCATION>vnsere Kirchen</LOCATION> gestifftet vnd verehret haben. Bitt also ich dienst freundtlich/ will auch der tröstlichen Hoffnung sein/ E. E. E. W. vnnd G. werden mirs nicht verargen/ daß ich diese meine Predigt vnd geringfügige Arbeit/ vnter derselben löblichen Namen lasse in Truck außgehen. Der Allmächtige Gott/ welcher jhm 
+    
+auß dem Mund der Vnmündigen vnd Säuglingen hat ein Macht vnd Lob zugericht/ 
+        wölle beedes Orgel vnd Orgelpredigt/ jhr erwünschtes End erreichen lassen/ vnnd sie dahin richten/ daß hierdurch sein heiliger Nam gelobet vnnd geehret/ seiner Kirchen Nutz gefürdert/ E. E. E. W. vnnd G. sampt dero geliebten Frawen vnnd Kindern/ auff dem Weg seines 
+
+ 
+
+        heilsamen vnnd seeligmachenden Worts/ auch guter Gesundheit vnd glückseeliger Wolfahrt gnädig erhalten werde: welches ich von Hertzen wünsche/ vnd darneben bitt/ E. E. E. W. vnd G. wölle jhnen mich/ wie biß Dato, also auch noch länger/ in allen Gunsten trewlich lassen befohlen sein. Geben zu Kauffbeyren den 4. Octob Anno 1605.
+E. E. E. W. vnd G.
+D. W.
+Georgius Anwander.
+ 
+In concionem de origine et vtilitate Mvsices vtrivsque.
+Mvsica laeta tuas quis laudes mussitet aequas? 
+        Nullus, credo, bonus: si bona ritè canis. 
+        Si facis hoc, facis vt, meritò te laudo lubensque: 
+        Tu modò conantem Magne Iehova Ivra! 
+        Tristia pelluntur: delectat Musica mentem. 
+        Auribus haud solis Musica blanda sonat. 
+Vt releuent animi facit haec solamine alacri: 
+        Musica laeta faue: musica moesta vale. 
+        Te Lepidina vocat, vocat &amp; Libitina lubenter: 
+        Cum sis grata iocis, chara rogisque pijs. 
+        Sed modus est modulis. Bacche &amp; tu Musica mentem 
+        Exhilaras, mage sed cor Sophos exhilarat. 
+        Pectora non Fidibus, Fidei sed pectora inhaerent, 
+        Corpus quae Menti cedere vile volunt. 
+        Hinc Deus, &amp; Natura sagax, Ars Aemula, utrumque 
+        Cantandi genuit maxima facta modum. 
+        Ergò boni finis causâ cantatur vtroque 
+        More modque bono; Voce Manuque bona. 
+        Quis bonus hic finis? Laudes Gratesque Iehouae; 
+        Quas scia mens cantet, nesine mente sonet. 
+        Verùm Hierophantae? tempus didicere boatu 
+        Horrifico terere: &amp; dant sine mente sonum. 
+        Quid vagabunda cohors, patulo quae cantat in orbe? 
+        Huic placet vt mater Musica magna gulae. 
+        Musica non madidas adamet pro more Popinas: 
+        Ite Popinones! Sobria Musa placet. 
+        Et vita Laconis dictum, bone Musice, mordens 
+        Lusciniam: vox es, praeterea nihil es. 
+        Sed tua docta docet pia concio docte Georgi 
+        Anvvandere Bonum, Principiumque premit: 
+        Principium geminum: Sacrum, post hocque Profanum. 
+        Neruosè promit: qui negat, arte neget. 
+        Musica iure tibi cum sit laudata Georgi 
+        Anvvandere, Bonis iure canere viris. 
+        Munus sed reliquum est maius meliusque, precando 
+        Quod petimus: quale est? Isaidis Cithara est. 
+        Hanc tua pulset acri cùm concio publica mente; 
+        Vox fugiens fiat litera pressa precor!
+R. D. T. 
+        affinis obseruantiss. 
+        L. M. F. 
+        M  <PERSON>Ioh Georg Memhart</PERSON> August.
+ 
+Textus. <PERSON>Paulus</PERSON> zun Ephesern am funfften Capitel.
+ Redet vnter einander von Psalmen vnnd Lobgesängen vnnd Geistlichen Liedern/ singet vnd spilet dem Herren in ewerm Hertzen.
+Außlegung. 
+
+Ich kans Ewer Lieb vnd Andacht nicht für vngut auffnemen/ wann sie sich schon höchlich verwundert/ daß ich derselbigen erst erzehlte Wort verlesen hab. Dann weil wir heut begehen vnd halten ein gemeinen Wochen Sonntag/ so solt/ altem Christlichem Brauch nach/ das sonntägliche Euangelium verlesen vnd erklärt werden/ welches/ weil es nicht geschicht/ so habt jhr Vrsach gnug euch zuuerwundern. 
+    
+        Wann jhr aber werdet in der Kirchen vmbsehen/ vnnd euch erinnern/ daß vergangne Wochen/ 
+     
+        in newes Orgelwerck herein gerichtet worden/ so werdet jhrs/ ob Gott will/ auch mir im argen nicht vermercken/ wann ich schon nachkomme der 
+    
+Vermanung 
+        des heiligen 
+         <PERSON>Apostels</PERSON> / da er sagt: 
+         Richtet euch in die Zeit.
+ <PERSON>Salomon</PERSON> sagt/  es hab alle ding seine Zeit: 
+        deßhalben wie das sonntäglich Euangelium zupredigen sein zeit hat/ also hat es auff diese Stund/ Zeit vnnd Gelegenheit zupredigen von dem/ was man vor augen sihet/ 
+     
+        sonderlich dieweil so vngleiche Vrtheil 
+
+ 
+
+        von solchem gefellet vnd gehöret werden. Ihren vielen ist/ wie den Jüngern in der 
+    
+passion:
+ da ein Weib in dem Hauß Simonis des Aussetzigen/ auff das Haupt des Herrn Christi ein Glaß mit köstlichem Wasser außschüt/ werden sie vnwillig vnd sprechen/ warzu dienet diser vnrath/ dises Wasser het können verkaufft/ vnd den Armen gegeben werden: 
+        Also sagen jhr viel vnter euch/ was darff es des grossen Vnkostens/ seind wir hieuor ohn ein Orgel gewesen/ wir könten jetz auch ohn eine sein/ das Gelt/ so an die Orgel gewendt würdt/ köndte wol nutzlicher angelegt werden. Andere sagen/ gleich wie sich die 
+     
+        Israeliter in der Wüsten nach den alten Fleischhäfen in Egyptenland vmb gesehen/ 
+        also wässeren vns die Zeen nach dem alten Papsthumb/ da man mit singen vnd klingen/ mit Orgeln vnd Posaunen die meiste zeit hat zugebracht/ vnd was sonsten mehr klagens vnd sagens gehört würdt.
+ 
+        Dises vnd anders nun abzuleinen/ vnd ettlicher massen die vnzeitige Vrtheil zubegütigen/ so muß/ nach gelegenheit vorstehender zeit/ etwas von der Music vnd dem musiciren gesagt werden. Damit wir aber vrsach vnd anlaß haben von solchen füglich zureden/ so hab ich E L diese jetz verlesne wort für halten wöllen. Sintemal in denselbigen der H Apostel <PERSON>Paulus</PERSON> redet von der Music: er redet aber von solcher durch ein gegensatz: dann er mahnet die Epheser vnd vns alle ab von der Füllerey vnd Trunckenheit/ in dem er sagt: 
+         Saufft euch nit vol Wein/ darauß ein vnordenlich Leben volgt: 
+        auff diese abmahnung setzt er ein gegensatz/ ermahnungs weiß/ vnd sagt: Wann wir je wöllen voll sein so sollen wir werden nicht voll Weins/ 
+         sondern voll Geists/ 
+        welches aber alsdann geschehe/ wann wir vns auffmuntern durch die 
+
+ 
+
+        Music. 
+     
+        Diese Music macht er zweyerley: das ein heißt er Singen/ das ander heißt er Spilen: durch das singen verstehet er die Music/ welche durch 
+     
+        menschliche Stimm verrichtet würdt/ es verrichts gleich einer allein/ oder jr viel auff ein gemeine weiß: oder aber nach der Kunst/ welche eine ist auß den sieben freyen Künsten/ vnd Musica genennet würdt: Durch das Spilen verstehet er/ nicht das Spilen mit der Karten oder Würffeln/ sondern 
+    
+Musicam Instrumentalem, ein solche Music/ welche vom Menschen durch allerley Instrument, als/ Orglen/ Geigen/ Pfeiffen/ positiven 
+        verrichtet würdt: auff diese zween weg sollen wir musiciren/ dem Herrn/ das ist/ dem Allmächtigen Gott/ nicht auff ein gleisnerische art/ sonder von Hertzen/ 
+     
+        daß nicht nur Zung/ der Mund/ oder die Instrumenta gehen/ sondern daß wir von hertzen Singen vnd Spilen dem Herrn. 
+     
+        Was sol man aber singen oder spilen? Vielleicht weltliche zotten vnd possen/ Landsknecht/ Reuter/ Zech vnd Bulliedlein? Nein/ sondern Psalmen/ Lobgeseng vnd geistliche Lieder. Vnd sehet jr also/ daß wir von dem H Apostel Paulo selbs 
+     
+        zur Vocali vnd Instrumentali Musica ermanet werden/ daß wir dem Herrn von hertzen musiciren sollen/ beedes mit gewohnlichem vnd künstlichem Gesang/ vnd dann auch mit allerley Jnstrumenten. Weil vns dann der H. Apostel <PERSON>Paulus</PERSON> so guten 
+     
+        anlaß gibt zureden von der Music/ so wöllen wir solche gelegenheit nicht versaumen/ sondern auff dißmal von der Music reden auff folgende weiß: Erstlich darthun vnd erweisen/ daß die Music in der Christlichen Kirchen ein feiner Wolstand: zum andern/ daß sie auch ein nutzliche verrichtung sey: Zum dritten/ auff was weiß vnd maß aber sie müssen angestellet werden/ wann sie ein wolstendige vnnd nutzliche verrichtung sein solle.
+ 
+
+        Der Vatter des Liechts/ von welchem alle gute Gaaben herkommen/ wölle vns verleihen die Gnad seines Geists/ daß wir von dieser Gaab ettwas nutzlichs reden vnd handlen/ Amen.
+ 
+        Die heilig Göttlich Schrifft sagt vns von zweyerley Music: eine/ welche durch menschliche Stimm: Die ander/ welche durch aller Hand vnnd mancherley Jnstrument verrichtet würdt: von beeden muß probirt werden/ daß sie seyen ein feiner vnd nutzlicher Wolstand in der Christlichen Kirchen.
+Was derowegen anlangt die Music von menschlicher Stimm angestellet: 
+     
+        so ist solche gar ein altes herkommen/ vnd dem Menschen von dem Allmächtigen Gott selbs in der ersten Erschaffung eingepflantzet. Dann weil Gott der Herr dem Menschen ein Stimm gegeben/ mit welcher er Wort machen/ daß andere seine Red vernemen künden: so hat er jhm auch diese Gnad gegeben/ daß er 
+     
+        seine Stimm zum Gesang richten/ vnd das/ was er redet/ auch singen vnnd musiciren kan. Dann es erfolgt eins auß dem andern/ vnnd trägt eins das ander auff dem Rucken. Wir sehen das in der Erfahrung. <PERSON>Salomon</PERSON> sagt: 
+    
+ Vnser erste Stimm seye weinen/ 
+        vnd eignet also ein Stimm zu den kleinen ohnmündigen Kindern/ so bald sie auß Mutter Leib geboren werden. 
+     
+        Wie sie aber nun in Krafft dieser Stimm gleich künden weinen: also bringen sie gleich auß Mutter Leib einen Anhang/ welcher zum singen taugenlich vnd dienstlich ist: vnnd haben gleichsam ein Verstand darauff/ wann sie in der Wiegen ligen/ vnd ander Leut singen/ daß sie entschlaffen/ oder daß sie sich selbs entschläffen durch das murmlen/ das sie mit sich selbs treiben. Waher kompt das? Fürwahr allein daher/ daß sie nicht allein für sich selbs 
+
+ 
+
+        ein natürliche Neigung zum Gesang haben/ sondern auch auß solcher natürlichen Zuneigung mercken/ wann andere Leut singen/ vnnd sich dardurch zum Schlaff bewegen lassen.
+ 
+        Daher haben es auch die Heiden war genommen/ daß den Menschen die Music, vnnd das singen von Natur eingepflantzet sey: dann auß dieser Vrsach hat der Sinnreich 
+         <PERSON>Aristoteles</PERSON> gesagt/ daß Menschliche Gemüt sey zusamen gesetzt ex concentu &amp; harmonia.
+ <PERSON>Plato</PERSON> vnd 
+         <PERSON>Socrates</PERSON> sollen gesagt haben/ vnsere Seel/ welche in vnsern Leib versenckt sey durch ein tieffen Schlaff/ werde auffgeweckt durch die Music. Es ist auch daher kommen/ daß man zu jeden/ vnd allen zeiten Leut gefunden/ die Lust vnd Liebe zu dieser Music gehabt/ vnnd sie auch geübet haben. 
+     
+        Es haben gesungen Engel/ vnd Menschen. 
+     
+        Die Engel/ da sie/ nach dem Christus geboren/ Gott lobten: 
+         Ehr sey Gott in der Höhe/ Fried auff Erden/ vnd den Menschen ein Wolgefallen:
+ 
+        vnter den Menschen haben gesungen/ Mann vnd Weibs Personen. 
+     Manns Personen/ Patriarchen/ als 
+         <PERSON>Moses</PERSON> : König/ als Dauid: Propheten/ als 
+         <PERSON>Daniel</PERSON> / die drey Männer im feurigen Ofen/
+ <PERSON>Zacharias</PERSON> / 
+         <PERSON>Simeon</PERSON> / so gar die Apostel des Herrn/ 
+    
+ da sie den Lobgesang gesprochen haben.
+ 
+        Weiber/ als 
+         <PERSON>Debora</PERSON> , 
+         <PERSON>Hanna</PERSON> , 
+         <PERSON>Maria</PERSON> mit jhrem Magnificat, wie ohn allen zweiffel/ das singen in der ersten Kirchen des Newen Testaments/ noch zur Apostel Zeit gebräuchlich gewesen ist: 
+     
+        Dann das kan man abnemen auß verlesnem Text/ da <PERSON>Paulus</PERSON> die Epheser ermahnet/ sie sollen 
+         vnter einander reden von Psalmen/ Lobgesängen/ vnd Geistlichen Liedern/ welches er auch wiederholet 
+         Colos. 3. vnd 1. Cor. 14. 
+         Ich will Psalmen singen im Geist/ ich will Psalmen singen mit dem Sinn:
+ 
+
+        Item bald hernach: 
+         Wann jhr zusammen kommet/ so hat ein jeglicher Psalmen. Jacobi am fünfften Capitel: 
+         Ist jemands gutes muhts/ der sing Psalmen.
+ 
+        Die Kirchen gegen Auffgang der Sonnen/ haben die Music vnnd das Gesang gleich im anfang angenommen/ wie solches 
+         <PERSON>Plinius</PERSON> bezeuget/ in einer Epistel an den Römischen Keyser 
+         <PERSON>Trajanum</PERSON> geschrieben/ da er sagt: Daß die Christen am morgen frühe zusammen kommen/ vnd jhrem Gott zu Ehren Psalmen singen:
+        Ja 
+         <PERSON>Tertullianus</PERSON>
+ 
+        bezeuget/ daß sie jhren Glauben geübet vnd bekandt/ nicht allein in der Kirchen/ sondern auch zu Hauß vnnd zu Feld/ vnnd wa sie in jhrem Beruff geweßt/ 
+        vnnd sagt 
+         <PERSON>Hieronymus/</PERSON> daß zu seiner zeit auch der Bawrsmann hinder dem Pflug aliquid Dauidicum ein Psalmen Dauids gesungen hab: 
+        Vnnd haben also die Kirchen gegen Auffgang der Sonnen die Music alsbald angenommen. 
+     
+        Was aber die Kirchen gegen Occident/ gegen dem Nidergang der Sonnen anlangt/ so haben zwar dieselbige/ die Music nicht so geschwind/ aber doch endtlich auch angenommen/ wie 
+         <PERSON>Augustinus</PERSON>
+ 
+        bezeuget zur zeit des alten Kirchenlehrers 
+         <PERSON>Ambrosij.</PERSON> Dann als dieser fromme Lehrer/ sich mit seinen Zuhörern auch bey der Nacht in der Hauptkirchen musten auff halten/ daß sie von den Arianern nicht vberfallen wurden/ haben sie anfangen singen/ welcher Brauch hernach in alle Kirchen/ so in Occident gelegen/ ist eingeführet worden. 
+        Vnnd ist also dieses ein herrlicher Wolstand/ daß die Music/ so mit menschlicher Stimme verrichtet/ noch heutiges Tags in der Christlichen Kirchen geübet vnnd erhalten würdt.
+ 
+ 
+        Gleich aber wie es ein zierlicher Wolstand vmb die Musicam vocalem/ vmb die Music/ welche durch Menschliche Stimm verrichtet würdt: Also auch vmb die/ welche man mit allerhand Jnstrumenten zuwegengebracht. Dann diese Jnstrumentalische Music ist auch ein alte Erfindung. Genesis am vierdten lesen wir/ daß 
+    
+  <PERSON>Lamech</PERSON> zwey Weiber genommen/ die ein hab geheissen 
+             <PERSON>Ada</PERSON> / die ander 
+             <PERSON>Zilla</PERSON> : Von der <PERSON>Ada</PERSON> hat er bekommen zween Söhn/ der erst hat geheissen 
+             <PERSON>Jabal</PERSON> / von welchem seind herkommen die in Hütten wohneten vnnd Viehe zogen. Der ander hat geheissen 
+             <PERSON>Jubal</PERSON> / von dem seind herkommen die Geiger vnd Pfeiffer.
+        Jn der lateinischen Bibel heißt es also: Ipse fuit Pater canentium Cythara &amp; Organo, das ist/ <PERSON>Jubal</PERSON> ist ein Vatter derer/ welche auff der Cyther vnd Orgel schlagen: 
+    
+ <PERSON>Iosephus</PERSON> glossirt diese wort also:   Iubal Musicam coluit, &amp; Psalterium Cytharamque laudauit, <PERSON>Jubal</PERSON> hat die Music geehret/ vnnd die Cyther vnnd Psalter gelobt. 
+        Vnd läßt sich ansehen/ als wann Gott selbs dieser Jnstrumentalischen Music Vrsprung vnnd erfinder sey. Dann gleich wie er dem Menschlichen Geschlecht all andere Künst gegünnet vnd geschencket hat: Also ist kein zweiffel/ daß Gott auch die Jnstrumentalische Musickunst den Menschen/ vnd zum ersten dem <PERSON>Jubal</PERSON> eingegeben hab. Dann das bringt mit sich der nam Jubal/ welcher (ob er wol eines Gottlosen Menschen Sohn gewesen) heisset ein ding herfürbringen/ als wie ein Wasserbrunnen auß einem finstern Ort. 
+     
+        Ist also Gott der recht Jubal/ der/ welcher den <PERSON>Jubal</PERSON> die Jnstrumentalische Musickunst gelehret hat. Diese Kunst ist aber hernach von dem <PERSON>Jubal</PERSON> auff seine Nachkommen gereicht 
+
+ 
+ 
+        vnnd von Menschen zu Menschen erweitert/ vermehret/ vnnd von Tag zu Tag gebessert/ vnd bey den 
+     
+        Heiden in grossen Ehren gehalten worden. Dann neben dem/ daß sie solche 
+     
+        Jnstrumentalische Music Kunst/ vnd jhr Erfündung jhren Heidnischen Göttern zugeschrieben/ so haben sie auch solche Kunst für ein grossen Wolstand gehalten. Diese Kunst hat bey den Griechen sehr viel 
+     
+        kunstreicher Meister gehabt/ 
+         <PERSON>Linum</PERSON> , 
+         <PERSON>Orpheum</PERSON> , 
+         <PERSON>Arionem</PERSON> , vnd andere. Ja grosse Herrn haben sich beflissen 
+     
+        solche Jnstrumentalische Music zulernen/ 
+         <PERSON>Cimon</PERSON>
+ <PERSON>Miltiadis</PERSON> Sohn vnnd 
+         <PERSON>Epaminundas</PERSON> , seind allen Griechischen Fürsten fürgezogen worden/ weil sie wol in dieser Kunst geübet waren.
+ <PERSON>Achilles</PERSON> schlägt auff der Cyther/ als er dem Feind einen Raub abgejagt. 
+        Welche aber auff solche Jnstrumentalische Music nichts gehalten/ die seind für barbarische grobe Leut gehalten worden. 
+     
+        Dieses ist begegnet dem Scythischen König mit Namen 
+         <PERSON>Ateas</PERSON> , derselbige het einmals hören musiciren 
+         <PERSON>Ismeniam</PERSON> , ab welches Kunst alle/ so jhn gehört/ höchlich sich verwundert haben/ er aber sagt/ er wolt lieber hören die Roß schreien/ als diesen musiciren. 
+        Diese Red ist jhm für ein grossen Vnuerstand gerechnet worden: vnd zwar das nicht vnbillich. 
+     
+        Dann diese Jnstrumentalische Music vnter dem Volck Gottes/ ist in vollem Schwanck gegangen: 
+     
+        als <PERSON>Dauid</PERSON> die Bundsladen auß dem Hauß 
+         <PERSON>Abinadab</PERSON> liesse abfordern/ stehet geschriben/ daß er vnd das gantze Hauß Jsrael/ vor dem Herrn mit allerley Seitenspiel/ mit Harpffen vnnd Psaltern/ Paucken/ Schellen vnd Cymbaln gespilet haben: vnd als er in das Regiment gekommen/ hat er die Jnstrumentalische Music erst recht angericht/ auß Anstifftung 
+     der Propheten 
+         <PERSON>Nathan</PERSON> vnnd 
+         <PERSON>Gad</PERSON> . 
+        Dann 
+         <PERSON>Asaph</PERSON> / 
+         <PERSON>He=
+
+ 
+
+        man</PERSON> / vnnd 
+         <PERSON>Ethan</PERSON> musten die Psalmen schlagen auff Cymbalen. Andere/ welche auch mit namen genennet werden/ musten auff Harpffen mit acht Saiten die Lobgesäng vorspilen: Vnd dann die dritten/ welche auff Psaltern mit zehen Saiten/ die vorige Psalmen nachgeschlagen haben/ vnd seind dieser aller wol gewesen vier tausent. 
+     
+        So lesen wir auch/ daß Salomon/ 
+         <PERSON>Ezechias</PERSON> / 
+         <PERSON>Josias</PERSON> ob dieser Music ernstlich gehalten/ daß 
+         <PERSON>Nehemias</PERSON> nach der Babylonischen gefängnus jhr wider auff die Füß geholffen/ vnd daß solche biß zu der Macchabeer zeit gewehret habe.
+ 
+        Was aber die zeit des Herrn Christi vnd seiner Apostel anlangt/ ob man wol nicht so gar eigentlich wissen kan/ ob zu jhrer zeit in der Kirchen Gottes die Jnstrumentalisch Music sey im schwang gegangen/ jedoch so kan man solches ettlicher massen muthmassen/ auß den verlesnen worten/ da <PERSON>Paulus</PERSON> sagt: 
+         Singet vnd spilet/ 
+        im Griechischen ἂδοντες καὶ Ψάλλοντες: nach welchem es hiesse: Singet vnd psalliret dem Herrn. Von dem letsten wörtlein ψάλλοντες kommet her das wörtlein Psalm/ Psalm aber/ heist nach Griechischer art/ ein Gesang/ in gewisse Reimen vnd Versus abgesetzt/ daß man auff der Harpffen oder anderm Seitenspil hat schlagen vnd darzu singen könden: Nun diesem aber sey wie jm wölle/ 
+     
+        es sey die Jnstrumentalisch Music in der ersten Kirchen des Newen Testaments gar nicht im schwang gegangen/ oder nicht sehr/ jedoch so weißt man/ daß vmb die zeit/ als man vngefahrlich gezelet hat/ nach Christi Geburt 657. andere/ 661. das Orgelschlagen ist in der Kirchen Gottes geübet worden/ vnter dem Papst 
+         <PERSON>Vitaliano</PERSON> : Dann das bezeugt 
+         <PERSON>Platina</PERSON> , ein Papistischer Scribent in Vita Vitaliani/ da er sagt/ pag. 76.
+ 
+
+  Cantum ordinauit adhibitis consonantiam Organis,
+er hat das Gesang verordnet/ auff die weiß/ daß man die Orgel darein schlage/ wie es auch gleichsfals 
+         <PERSON>Baptista Mantuanus</PERSON> bezeugt/ sagend:
+  Signius adiunxit molli conflata metallo Organa, quae festis resonant ad sacra diebus.
+Der Papst Vitalianus/ welcher ein Signiner 
+        auß Campania war/ hat zur vocali Musica gethon die Orgeln auß weichem Metall gegossen/ welche an Feyrtagen in der Kirchen bey verrichtung des Gottesdiensts geschlagen worden: vnd von diser zeit an ist die Jnstrumentalisch/ sonderlich aber die Orgelmusic biß auff diese zeit in der Kirchen Gottes erhalten worden. 
+     
+        Allhie aber ist die frag/ ob man die Orgeln/ oder auch andere Jnstrumentalische Music in der Kirchen Gottes haben müsse/ ob es ein Sünd sey/ wann mans nicht habe: vnnd laßt sich ansehen/ als wann Gott der Herr in seinem Wort diese Jnstrumentalische Music tadle vnnd verwerffe. Dann Esa. Cap. 5. schreyet der Prophet wehe vber die/ welche 
+         haben Harpffen/ Psalter/ Paucken. 
+        Vnd <PERSON>Amos</PERSON> Cap. 9, vber die/ welche 
+         spilen auff Psalter/ vnd erdichten Lieder/ wie Dauid. 
+        Hier auff ist aber zuwissen/ daß man in der Kirchen Gottes die Orgeln vnnd andere musicalische Jnstrument nicht haben müsse: Wie mans aber nicht haben muß: also darff vnnd kann mans wol haben vnd gebrauchen ohn Sünd.
+ 
+        Was aber anlangt die Wort 
+         <PERSON>Esaiae</PERSON> vnd 
+         <PERSON>Amos</PERSON> / so reden dieselbige nicht vom rechten Gebrauch/ sondern nur von dem Mißbrauch. Der Prophet Esaias redet von dem/ wann man Harpffen/ Psalter/ vnd Paucken gebraucht zum vollsauffen. Dann das bezeugen vorgehende/ vnnd nachfolgende wort. Die vorgehende wort 
+
+ 
+
+        seind diese/ 
+         wehe denen die des Morgens früh auff seind/ des Sauffens sich fleissigen/ sitzen biß in die Nacht/ daß sie der Wein erhitzigt. 
+        Nachfolgende wort seind dise: 
+         vnd haben Wein in jrem Wolleben/ vnd sehen nicht auff das Werck des Herrn/ vnd schawen nicht auff das geschäfft seiner Händ. 
+       <PERSON>Amos</PERSON> aber redet von dem/ wann man sie braucht nit nur zur Füllerey/ sondern auch sonst zu allerhand Wollüsten/ welche da seind Augenlust/ Fleischeslust/ vnd hoffertiges Leben/ 
+        vnd wöllen vnter des darfür angesehen sein/ als wann sie es dem Königlichen Propheten <PERSON>Dauid</PERSON> nachthäten/ welcher doch seine Harpffen/ Cymbalen vnd Psalter nicht zu vngebürlichem Wollust/ sondern zu Gottes lob/ vnd zu Erbawung der Kirchen angerichtet hat. Weil dann nun disem also/ so folgt/ daß auch dieses ein löblicher Wolstand sey/ wann auch die Orgel vnd andere Musicalische Jnstrument in der Kirchen Gottes gebraucht werden.
+II.
+
+        Weil aber die beederley vor erzehlte Musicken/ so ein löblicher Wolstand in der Christlichen Kirchen seind/ so kan es nicht fehlen/ diser Wolstand muß auch nutzlich sein/ 
+     
+        nach der Lehr des 
+         <PERSON>Ciceronis</PERSON> l.2 offic. welcher sagt: 
+          Quicquid honestum, idem etiam vtile:
+
+was ein Wolstand ist/ das ist auch nutzlich. 
+        Deßhalben so ist jetzund die frag/ ob dann die mündtliche vnd Jnstrumentalische Music auch einen nutzen hab: Allhier könt wol geantwortet werden: Deus &amp; Natura nihil faciunt frustra: Gott vnnd die Natur schaffen nichts ohn vrsach/ sondern zu einem gewissen End. 
+        Weil dann nur die Music von Gott herkompt/ vnd darzu dem Menschen von Natur gleichsam eingepflantzet ist/ so würdt sie Gott vnd die Natur auch zu einem gewissen Nutzen 
+
+ 
+
+        geordnet haben. Aber an dieser Antwort ist man nicht vergnüget/ sondern man fraget von stund an/ warzu sie dann nutze. Allhie nun soll Ewer Lieb vnd Andacht wissen/ daß die Music nicht nur die Ohren fülle/ sondern 
+     
+        sie beweget auch das menschliche Hertz/ nimbt dasselbig ein/ vnd hat gleichsam ein heimliche Krafft/ es zuziehen/ zulencken/ vnd zuführen/ wohin sie will.
+ 
+        Dann ein rechte liebliche Music/ ist gleich einem Magneten: gleich wie derselbige das Eysen an sich zeucht: Also die Vocal vnnd Jnstrumental Music/ die bewegt manches menschliches Hertz also/ daß es gleichsamb in sich selber verzuckt an Leib vnd Seel/ Gemüt vnd Blüt verrucket ist. 
+     
+        Vnd so die Music/ auch wann sie mißbrauchet würdt/ der menschen Hertz anzündet zum Bösen: Wie viel mehr beweget der rechte gebrauch 
+     
+        der Music die Leut zum guten: Sie erwecket in dem Menschen ein hertzliche freud/ wie 
+         <PERSON>Jacobus</PERSON> sagt: 
+    
+ Jst jemand guts muths/ so sing er Psalmen.
+ 
+        Das Exempel sehet jhr am Dauid/ als er die Lade des Herrn herauffbringen lassen auß dem Hauß 
+         <PERSON>Obededom</PERSON> in die 
+         <LOCATION>Statt Dauid</LOCATION> / da musicirt man. Was bringet solche 
+     
+        Music bey dem <PERSON>Dauid</PERSON> zuwegen: Sie bewegt jhm Leib vnd Seel/ daß er frölich würdt in dem Herrn/ daß er sich gürtet mit einem leinen Rock/ daß er dantzet mit aller macht vor dem Herrn her/ daß sie die Laden herauff führen mit jauchtzen.
+ 
+        Die Music hat im Alten Testament in den Propheten den Prophetischen Geist erwecket.
+
+        Da 
+         <PERSON>Samuel</PERSON> den 
+         <PERSON>Saul</PERSON> zum König vber des Herrn Erbtheil gesalbet hat/ heißt er jhn heimziehen/ sagt/ er werde zum 
+     
+        ersten kommen zum Grab 
+         <PERSON>Rachel</PERSON> / darnach zu der Aichen 
+         <LOCATION>Thabor</LOCATION> / vnd darnach auff den Hügel Gottes/ 
+
+ 
+
+        da der Philister Laeger ist: noch weiter sagt er/ vnnd wann du daselbs in die 
+        Statt kommest/ 
+         würdt dir begegnen ein hauffen Propheten von der Höhe herab kommend/ vnd vor jhnen her ein Psalter vnd Paucken vnd Pfeiffen vnd Harpffen/ vnd sie weissagend/ vnnd der Geist des Herrn würdt vber dich gerahten/ daß du mit jhnen weissagest/ da würst du ein anderer Mann werden. 
+        Vnd da <PERSON>Saul</PERSON> an diesen Hügel Gottes kam/ da kam jhm ein Propheten hauffen entgegen/ vnd der Geist Gottes gerhiet vber jhn. Was seind das für Propheten gewesen: Es waren vor zeiten im Alten Testament mancherley Propheten: ettlich weissagten von zukünfftigen dingen: ettliche legten die Schrifft auß: ettliche haben den Herrn mit Psalmen/ Lobgesängen/ vnd Geistlichen Liedern gelobt vnnd gepriesen/ auch jhre Zuhörer gelehret/ vnterrichtet/ vnd getröstet/ von welchen <PERSON>Paulus</PERSON> redet 
+         1. Corinth. 14. Vnnd solche Propheten seind die auch gewesen/ welche dem <PERSON>Saul</PERSON> auff dem Hügel Gottes begegnet gewesen seind: Weil aber darbey stehet/ daß sie auch geweissagt haben/ so haben sie sich selbs auffgemuntert/ daß der Propheten Geist noch stärcker auff sie gefallen/ vnd daß auch <PERSON>Saul</PERSON> hat angefangen zuweissagen. Was geschicht dem 
+    
+ <PERSON>Elisaeo?</PERSON>
+ <PERSON>Josaphat</PERSON> will von jhm wissen/ ob er/ vnnd 
+         <PERSON>Joram</PERSON> der König in Jsrael/ vnd der König der Edomiter/ sollen wider den König der Moabiter ziehen? Da sagt er: 
+         Bringt mit her ein Spilmann/ vnd da der Spilmann auff der Saiten spilet/ kam die Hand des Herrn auff jhn/ 
+        vnd fangt an weissagen/ sie sollen 
+     
+        nur fortziehen wider die Moabiter/ dann der Herr werde sie in jhre Hand geben/ 
+         daß sie schlagen werden alle veste vnd ausserwehlte Stett/ sie werden fellen alle 
+
+ 
+
+        gute Bäum/ verstopffen alle Wasserbrunnen/ vnd alle gute Ecker mit Stämmen verderben/
+        welches auch geschehen.
+ 
+        Die Music lehret vns/ wie <PERSON>Paulus</PERSON> Coloss. 3. schreibt: 
+    
+ Lehret vnd ermahnet euch mit Psalmen: 
+        Musicirt man Psalmen/ Lobgesäng vnd geistliche Lieder/ so vnterrichten sie vns im Glauben vnd im Leben/ sintemal der H Geist kräfftig ist durch das Wort/ man sags oder sings. 
+     
+        Es lehret vns die Music nicht allein/ sondern sie tröstet vns auch/ bistu kleinmütig/ sing ein Psalmen/ musicir jhm durch mündtliche oder jnstrumentalische Music/ er würdt dich trösten. Dessen lesen wir ein feine Historien.
+ 
+        Zu 
+         <LOCATION>Torgaw</LOCATION> fünff meil von 
+         <LOCATION>Wittenberg</LOCATION> / hat auff ein zeit ein ehrliche Fraw hefftig zum Kind gerungen/ es auch zimblich lang getriben/ vnd hat die sach so vbel außgesehen/ daß man vermeint/ es werde Mutter vnnd Kind bey einander bleiben: Als man aber mitten in der grösten not stecket/ kamen ettlich Schulerbüblein für dasselbige Hauß/ fangen an vmb ein Allmusen zusingen/ den 130. Psalmen: 
+         Auß tieffer Not schrey ich zu dir. 
+        Die zur Geburt ringende Fraw merckt fleissig auff/ vnd da die Schulerbuben singen diß gesetzlin: Vnd ob es werth biß in die Nacht/ vnd wider an den Morgen/ so soll mein Hertz an Gottes Macht/ verzweiffeln nicht noch sorgen/ er ist allein der getrewe Hirt/ der Jsrael erlösen würdt/ von seinen Sünden allen: Da/ sag ich/ die Fraw dise wort höret singen/ nur wolan/ sagt sie/ so will ich jm auch also thun/ ob es schon wehret biß in die Nacht/ vnd wider an den Morgen/ so sol mein Hertz auch an Gottes Macht/ verzweiffeln nicht noch sorgen/ Herr du bist der getrewe Hirt/ vnd ich bin ein Jsraelitin/ das ist/ ein Christin/ darumb so wirstu mich auch auß dieser Not erlösen.
+ 
+
+        Sehet wie trefflich ist diese Christliche Fraw getröstet worden/ durch der Schulerbuben Music/ da sie den 130. Psalmen gesungen haben: Ja sie ist durch dises Gesang nicht nur kräfftiglich getröstet/ sondern auch alsbald auß jhrer Not erlöset worden.
+ 
+        Dargegen gleich wie die Music in des Menschen Hertzen erwecket freud/ Andacht/ Prophetischen Geist/ lehret vnd tröstet/ also benimpt sie auch den Menschen traurigkeit/ wie wir sehen ein Exempel an dem Saul/ 
+     
+        derselbig verschonete wider Gottes Gebot 
+         <PERSON>Agags</PERSON> des Königs des Amalekiters.
+Gott verwirfft jhn/ so bald er von Gott verworffen/
+ weicht der Geist des Herrn vom Saul/ vnd ein böser Geist vom Herrn macht jhn sehr vnrüwig/ 
+        traurig/ Melancholisch/ in allen seinen Wercken verstürtzt/ daß er jm selbs weder zurahten noch zuhelffen weißt: vnd ohn allen zweiffel/ haben seine Hoffartzet allerley mittel versucht/ ob sie jm könten solche traurigkeit vnd melancholische weiß vertreiben: aber alles vmbsonst vnd vergebens. Dann diß war kein natürliche Kranckheit/ wie etwan sonst einer zur Melancholy vnd Traurigkeit geneigt ist/ sondern der böß Geist rit vnd trib jn. Als nun die Artzet an aller jhrer Kunst verzagten/ thun sie jhm ein solchen fürschlag/ er solle in seinem Königreich ein Menschen suchen lassen/ der auff der Harpffen wol spielen künde/ durch welches Harpffen schlagen es besser mit jm werde/ wann der böse Geist Gottes vber jn komme. <PERSON>Saul</PERSON> laßt jm diesen fürschlag gefallen: einer zu Hoff gibt den <PERSON>Dauid</PERSON> an/ er könde wol auff dem Saitenspil/ vnd Gott sey mit jm. <PERSON>Saul</PERSON> laßt jn von stundan von seinem Vatter 
+         <PERSON>Jsai</PERSON> abfordern/ vnd bitten/ daß er jhn bey jhm zu Hoff bleiben lassen wölle: vnd ist also <PERSON>Dauid</PERSON> Sauls Harpffenist. Was geschicht? Die Schrifft sagt: 
+         Wann der 
+
+ 
+
+        Geist Gottes vber <PERSON>Saul</PERSON> kam/ so nam <PERSON>Dauid</PERSON> die Harpfen/ vnd spilet mit seiner Hand/ so erquicket sich Saul/ vnd war besser mit jhm. 
+        Da höret jhr/ was <PERSON>Dauid</PERSON> mit seiner Jnstrumental Music bey dem <PERSON>Saul</PERSON> außgericht/ nemlich/ Forcht/ Traurigkeit/ vnd Melancholy hat er vertrieben/ mit welcher er sonst vom bösen Geist vbel geplaget ward.
+ 
+        Die Music vertreibet auch den Zorn/ vnd beweget den Menschen zur kaltsinnigkeit vnd sanfftmuth/ daß er jhm selbs abbricht/ seine zornige affect im zaum helt/ daß sie auß dem Hertzen nicht ins Werck außbrechen. Das haben auch die Heyden verstanden. Dann wir lesen von einem   Pythagorischen Philosopho/ mit namen 
+    
+ <PERSON>Clinias</PERSON> / daß wann er etwan zum Zorn beweget worden/ er aber den Zorn nicht wolt gern lassen außbrechen/ sondern sich selbs vberwinden/ daß er alsbald die Cyther gestimmet/ vnd auff derselbigen geschlagen habe. Vnd als er gefraget war/ warumb er auff der Cyther schlüg/ wann er am allerzornigsten were/ hat er geantwortet/ durch diese Music verendere er sein Zorn in Sanffmütigkeit.
+ <PERSON>Plutarchus</PERSON> schreibt/   daß 
+         <PERSON>Timotheus Pythonista</PERSON>
+
+ <PERSON>Alexandrum</PERSON> den grossen Griechischen Keyser mit seiner lieblichen Music so gewaltig bewegt hab/ daß er vom Tisch auffgestanden/ den Spieß in die Hand genommen/ gleich als wann er den Feind angreiffen müst: Widerumb hab er sein Music auff ein andere weiß könden also richten/ daß er den Spieß wider von sich geworffen/ vnd sich gar freundlich vnd gütig erzeigt habe.
+
+ <PERSON>Albertus Crantius</PERSON> schreibt/   da der Römische Keyser 
+    
+ <PERSON>Ludouicus Pius</PERSON> einem Bischoff mit namen 
+         <PERSON>Theodolphus</PERSON> gefangen gehalten hab/ darumb daß er der Bischoff dem Keyser nach dem leben getrachtet/ nun hat aber der Bischoff in sei=
+
+ 
+
+        ner Gefängnus offt gesungen diese wort: 
+          Gloria, laus, &amp; honor tibi sit Rex Christe Redemptor: das ist: Christe du König vnd Heyland der Welt/ dir sey lob/ ehr vnd preiß. Diese wort hat der Keyser den Bischoff hören singen/ wann er vor der Gefängnus fürüber gangen: vnd durch dieses Gesang hat er des Keysers Hertz also beweget/ daß er jhn wider auff freyen Fuß gestellet hat.
+ 
+        Was sag ich aber von diesen Exempeln/ haben wir doch eins vnnd zwar gar ein herrliches in Heiliger Göttlicher Schrifft/ 
+     
+        als <PERSON>Joram</PERSON> der König in Jsrael/ vnd <PERSON>Josaphat</PERSON> der König in Juda mit dem König von Edom wider den König der Moabiter wolten in Krieg ziehen/ fraget <PERSON>Josaphat</PERSON> den Joram/ ob er keinen Propheten in seinem Land habe/ daß sie den Herrn könten raht fragen/ ob sie wider Moab sollen außziehen oder nicht. Hierauff würdt Elisaeus angezeiget/ ziehen derwegen alle drey König zu jhm. Als aber Elisaeus des Königs in Jsrael ansichtig/ würdt er etwas mit Zorn bewegt/ daß er sagt: Was hastu König in Jsrael mit mir zuschaffen/ gehe hin zu dem Propheten deiner Väter vnd deiner Mütter/ so wahr der Herr Zebaoth lebt/ vor dem ich stehe/ wann ich nicht <PERSON>Josaphat</PERSON> den König in Juda ansehe/ ich wolt dich nicht ansehen noch achten. Auß diesen worten sehet jhr/ daß Elisaeus etwas gegen dem König Jsrael entrüstet war/ wie will er aber solchen Zorn vertreiben?
+         Er sagt/ bringt mir her einen Spilmann/ vnnd da der Spilmann auff der Saiten spilet/ kam die Hand des Herrn auff jhn.
+ 
+        Ja/ was soll ich sagen? Gott der Herr hat die Music so hoch geehret/ daß er durch dieselbige auch hat den Teuffel vertreiben oder stillen wöllen/ 
+     
+        wie man dessen ein augenscheinlich Exempel hat am Saul/ von 
+
+ 
+
+        welchem der böse Geist des Herren gewichen/ so offt <PERSON>Dauid</PERSON> vor dem <PERSON>Saul</PERSON> auff der Harpffen geschlagen hat.
+III.
+
+Wann man aber von Nutzbarkeit der Music also redet/ so muß solches auch recht angenommen vnd verstanden werden. Dann diese Nutzbarkeiten kommen vom Gsang vnd Klang/ vom Hall vnd Schall nicht fürnämlich her/ sondern die Music muß gebürlicher weiß angestellet werden/ soll sie diese Nutzbarkeiten mit sich bringen: vnnd da muß man fürnämlich auff dreyerley ding achtung geben. Erstlich/ was man sing. Zum andern/ wie man sing. Zum dritten/ zu was end man sing. Was das erste anlangt/ wann man will/ daß die Mündtliche vnd Jnstrumentalische 
+     
+        Music solche Nutzbarkeit hab/ so muß man singen vnd schlagen/ nicht Landsknechts/ Bul vnnd Zechliedlein/ dann die erwecken keine Andacht/ sondern nur Leichtfertigkeit/ Augenlust/ Fleisches lust vnnd hoffertiges Leben. 
+    
+ <PERSON>Tertullianus</PERSON> sagt von dem Psalmen 
+    
+ <PERSON>Valentini</PERSON> des Ketzers: Diese soll man nicht singen.
+
+ <PERSON>Paulus Samosatenus</PERSON> ein greulicher Ketzer/ hat die Psalmen abgethon/ welche man dazumal dem Herren Christo 
+     
+        zu ehren gesungen hat/ vnd fürgeben/ sie seyen new vnnd erst erdacht. Jhme selbs zu ehren aber hat er Psalmen gemacht/ welche die Weiber auff das Osterfest/ in der Kirchen singen mußten. Vnnd weil er lehrete/ der Sohn Gottes wer nicht vom Himmel herab gekommen/ sondern er hett seinen Anfang genommen in dem Jung=
+
+ 
+
+        fräwlichen leib Mariae/ so musten die Psalmen/ welche auff jhn gerichtet waren/ sagen/ er Samosatenus wer ein Engel von Himmel herab kommen. Diß lehret er die Weiber singen/ er stund darbei/ vnd verbots jhnen nicht allein nicht/ sondern er hat auch grosse freud vnnd lust darab. 
+        Solche Psalmen hat vor zeiten gemacht/ 
+         <PERSON>Bonauentura</PERSON> Bischoff zu Alban/ vnd der Römischen Kirchen Cardinal. Dann wie <PERSON>Paulus</PERSON> Samosatenus die Psalmen/ so auff Christum gerichtet/ abgethon/ vnnd die/ so auff jhn selbs auffgerichtet/ in der Kirchen eingeführet: 
+     
+        Also hat <PERSON>Bonauentura</PERSON> das gantze Psalmenbuch Dauids verkehret/ vnnd was <PERSON>Dauid</PERSON> Gott dem Allmächtigen zuschreibet/ das schreibet <PERSON>Bonauentura</PERSON> der <PERSON>Maria</PERSON> zu: 
+     
+        Als da im ein vnd dreissigsten Psalm stehet: 
+         Jn dich hab ich gehoffet Herr: 
+        machts <PERSON>Bonauentura</PERSON> also: O Fraw/ in dich hab ich gehoffet/ erlöse mich Fraw von meinen Feinden. 
+        Diese Psalmen soll man nicht singen/ wie auch nicht die 
+     
+        Päpstliche Letaney vnnd das Salue Regina. Dann weil sie wider Gott vnnd sein Wort gerichtet seind/ so erwecken sie in dem Menschen kein Andacht/ zum guten/ sondern sie stecken den Menschen an mit allerhand Abgötterey vnnd Aposteißlerey/ vnnd machen/ daß die Leut auff die letst leiden Schiffbruch am Glauben vnd gutem Gewissen.
+ 
+        Was soll man aber dann musiciren? Das saget vns <PERSON>Paulus</PERSON> in den verlesenen worten. Dann er macht dreyerley: 
+     
+        Erstlich/ Psalmen. Zum Andern/ Lobgesäng/ welche zu Gottes Lob gerichtet seind. Zum Dritten/ Geistliche Lieder/ das ist/ solche Gesang/ welche gleichwol nicht von wort zu wort in der Heiligen Schrifft stehen/ aber doch 
+
+ 
+
+        der heiligen Schrifft gemäß seind/ vnd auß derselbigen könden probirt vnnd erwiesen werden. Der Psalmen stehen viel in Dauids Psalmenbuch. Der Lobgesäng habt jhr auch viel. 
+         Exodi am 15. Singt <PERSON>Moses</PERSON> dem Herrn ein Logesang/ daß er sein Volck auß der Dienstbarkeit Egypti erlöset hat. <PERSON>Debora</PERSON> singt dem Herrn ein Lobgesang/ da 
+         <PERSON>Joel</PERSON> den 
+         <PERSON>Sissera</PERSON> vmbgebracht hatte: 
+         Judic. Cap. 5. Ein solch Geistlich Dancklied singt <PERSON>Hanna</PERSON> Samuels Mutter: <PERSON>Maria</PERSON> in jhrem Magnificat. Solche gesang seind Hymni <PERSON>Ambrosij.</PERSON> Augustini: Ettliche Hymni 
+         <PERSON>Gregorij,</PERSON>
+
+ <PERSON>Theodulphi, Episcopi Aurelianensis</PERSON> am Palmtag/ etc. Solche geistliche Lieder seind heutigs Tags: 
+          Nun frewet euch liebe Christen gemein:
+  Es ist das Heil vns kommen her:
+  Durch Adams fall ist gantz verderbt/ vnnd andere mehr.
+ 
+        Vber das/ wann man will/ daß das mündtliche vnd Jnstrumentalisch musiciren/ vorerzehlten Nutz haben soll/ so muß man auch in acht nemen/ wie man sing/ nemlich man muß nicht nur die Stimm erheben im Mund/ 
+     
+        vnd die Orgel mit Händ vnd Füssen schlagen vnd tretten/ vnnd lieblichen zusammen gestimbten hall vnd schall richten: Dann das allein/ vnnd wann sonst nichts weiters darzukompt/ ist nicht nutzlich zu erweckung vorerzehlter Nutzbarkeiten/ es hat auch Gott kein gefallen daran/ es heißt/ wie Gott sagt: 
+    
+ Thue weg von mir/ das geplärr deiner Lieder/ dann ich mag dein Psalterspil nicht hören:
+ 
+        sondern es muß bey der eusserlichen Stimm auch gefunden werden ein andächtiges auffmercken auff die Psalmen/ Lobgesäng vnnd geistliche Lieder/ die man singt vnd schlecht: Man soll auff den Thon/ Stimm/ Hall nicht mehr achtung geben/ 
+
+ 
+
+        als auff die wort/ welche gesungen werden. Dann die wort seind nicht von der Music wegen geordnet/ sondern die Music von der wort wegen. <PERSON>Augustinus</PERSON> bekennt selbs/ daß er auff ein zeit/ im musiciren mehr auff die lieblich Stimm vnd Harmony achtung geben hab/ als auff die wort: es hat jhn aber gerewet/ vnd darzu gesetzt/ der sündige poenaliter/ also daß er einer Straff wol werth sey/ welcher mehr auff die Stimm vnd Klang achtung gebe/ als auff die wort/ 
+        wie dann dieser meinung auch seind Hieronymus, Gregorius, welcher wort angezogen werden Distinct. 92. Cap. Cantantes. &amp; cap. In Sancta Romana Ecclesia. Vnd Distinct. 23. Cap. Psalmistae, stehet geschrieben: 
+          Vide, vt quod ore cantas, corde credas, &amp; quod credideris corde, operibus compleas, das ist/ vorzeiten hat man den Psalmensingern in der ersten Kirchen eingebunden/ vnd gesagt: kehre fleiß an/ daß du das/ das du mit dem Mund singest/ auch mit dem Hertzen glaubest/ vnd was du mit dem Hertzen glaubest/ auch mit der That volbringest/ 
+        wie dann auch deßhalben zween Versus gemacht worden:
+  Non vox sed votum, non chordula musica sed cor, 
+        Non clamans, sed amans, cantet in aure Dei.
+Darumb so ist es noch nicht recht/ wann man in der Kirchen Psalmen singt/ musicirt/ auff der Orgel schlegt/ vnnd die Leut eintweder gar nicht mitsingen/ oder singen/ vnd darneben in alle winckel vmbgaffen/ sondern es soll Mund vnd Hertz mit einander singen/ vnnd ein andächtiges glaubiges auffmercken darbey sein/ wie vns dann vnser verlesner Text vermahnet/ da er sagt/ 
+         singet vnd spilet dem Herrn im Hertzen.
+ 
+        Zum letsten/ muß solche Music angestelt werden zu Gottes lob. Dann darzu vermahnet vns der heilige
+
+ 
+
+        Apostel <PERSON>Paulus</PERSON> 1. Corinth. am 10. da er sagt/ 
+         was jhr thut/ das thut alles zu Gottes Ehr. 
+        Soll man nun alles zu Gottes Ehr thun/ so soll man auch Gott zu Lob vnd Ehr musiciren/ mündtlich vnd Jnstrumentalisch: Sonderlich weil der heilige Apostel von diesem noch deutlicher redet/ zun Colossern am dritten Capitel. Dann daselbsten sagt er zum ersten/ 
+         wir sollen Psalmen/ Lobgesäng vnnd geistliche Lieder singen. 
+        Wem? dem Herrn/ das ist/ Gott dem Herrn zu Lob/ darnach setzet er gleich darauff/ 
+         alles war jhr thut/ es sey mit Worten oder mit Wercken/ das thut alles in dem Namen des Herrn Jesu/ vnserm Herrn Jesu zu Ehren/ vnnd Gott zu schuldiger Danckbarkeit.
+ 
+        Endtlich zur aufferbawung der Kirchen Gottes/ daß dieselbige auch durch die Music an jhrer Andacht erhalten vnd gestercket werde: Jn massen dann der heilige Apostel <PERSON>Paulus</PERSON> darzu ermahnet/ in der ersten an die Corinthier am vierzehenden Capitel: Man soll dahin trachten/ daß durch die geistliche Gaben die Gemein Gottes gebessert werde: 
+         Hat einer/ sagt er/ ein Psalmen/ ein Lehr/ ein Zungen/ ein Offenbarung/ ein Außlegung/ lasset es alles geschehen zur besserung.
+
+        So ist nun die Music in der Christlichen Kirchen auch heutiges tags nicht nur ein feiner Christlicher Wolstand/ sondern auch ein nutzliche vbung/ wann sie verrichtet würdt auff die weiß vnd maß/ wie ich jetz gesaget hab.
+ 
+        Warzu aber soll vns diß alles dienen? Zur Widerlegung. Dann weil der Teuffel ein Melancholischer trawrgeist ist/ so ist er dem Psalmen singen vnnd dem musiciren von hertzen feind/ vnnd darumb hat er zu diesen vnsern letsten Zeiten auch Leut erwecket/ welche 
+
+ 
+
+        sich/ sonderlich wider die Musicam Instrumentalem in der Kirchen hefftig gesetzet haben. 
+     
+        Wer seind diese Leut gewesen? Die Zwinglianer vnd Caluinisten. Dieselbige/ ob sie wol zu dieser vnserer zeit die Orgeln nicht mehr so hefftig anfechten/ sondern es Anno 1586. im 
+         Colloquio zu Mümpelgard für ein Mittel ding passiren lassen/ welches man in der Kirchen Gottes haben könd oder nicht/ jedoch so haben sie vor solcher zeit so hefftig wider die Jnstrumentalische Music gedobet/ daß sie auch/ sonderlich in Franckreich vnnd Niderland/ viel Orgeln zerrissen vnnd zerschleiffet haben. Dieses ist nicht recht/ sondern sie solten sich einer Christlichen billigkeit vnnd gleichmässigkeit gebrauchet haben.
+ 
+        Gleich aber wie die Caluinisten gejrret vnd vnrecht gethon haben in defectu/ daß sie das Kind mit dem Bad haben wöllen außschütten: Also im gegensatz hat man im Papsthumb zu viel gethon in excessu, da sie auß dem musiciren/ orglen/ auß Gesang vnnd Klang/ einen Gottesdienst vnnd verdienstlich Werck gemacht/ vnd in diesem fall der 
+         <PERSON>Martha</PERSON> gleich worden/ Lucae am zehenden Capitel. 
+        Dieselbig laßt jr Schwester 
+         <PERSON>Mariam</PERSON> des Herrn Christi predig zuhören/ vnd sie ist vnter des geschäfftig/ vnd sorget/ wie sie den Herrn Christum stattlich tractiren wölle/ ja sie ist auff jhr Schwester <PERSON>Mariam</PERSON> zornig/ begert auch/ daß jhr der Herr Christus soll ein guten Leuiten lesen: Aber was saget Christus? 
+         Martha/ Martha/ du hast viel Sorg vnnd Mühe/ eines aber ist not/ <PERSON>Maria</PERSON> hat das gute Theil erwöhlet/ das soll nicht von jhr genommen werden: 
+        Also sag ich/ hat man im Papsthumb auch gethan/ das minus necessarium, das/ so weniger 
+
+ 
+
+        notwendig gewesen ist/ nemlich die Music/ das Orglen hat man mit aller macht getrieben/ gleich als wann vns vnser Seelen Heyl vnd Seligkeit daran gelegen war: das Vnum necessarium aber/ oder das/ das am aller notwendigsten/ nemlich das Predigampt/ hat man eintweder gar vnterlassen/ oder aber doch also geführet vnd getrieben/ als wann es nur ein zugab oder zubuß were/ vnd das hat nicht erst vor fünffzig oder sechzig Jaren im Papsthumb angefangen/ sondern Papst Gregorius der Erst dieses Namens/ sonst der Grosse genannt/ welcher Anno Christi 591. auff dem Päpstischen Stul ist erhöhet worden/ sagt/ daß zu seiner zeit schon ein böse gewonheit sey eingerissen/ daß die Geistlichen mehr auffs Singen als auff das Predigen geneigt/ gleich als wann Christus nicht gesagt hett/ gehet hin/ vnnd lehret das Euangelium/ sondern gehet hin vnd haltet Meß/ heulet vnd schreyet/ singet/ klinget/ orgelt/ wie dann des Greogrij wort in jrem Geistlichen Recht angezogen werden/ also: 
+          In Sancta Romana Ecclesia dudum consuetudo est valde reprehensibilis orta/ in der heiligen Römischen Kirchen ist vor langest ein sehr sträffliche gewonheit entstanden/ vt ij modulationi vocis inseruiant, quos ad Praedicationis officium vacare congruebat, daß die sich zum Singen vnd Musiciren brauchen lassen/ welche dem Predigampt abwarten solten. 
+        Weil sie es dann im Papsthumb auff der einen Seiten in excessu zu grob gemacht/ so gedencken sie nun/ das gehe sie auch an/ was Gott <PERSON>Amos</PERSON> am fünfften sagt: 
+         Thue nun weg von mir das geplärr deiner Lieder/ dann ich mag dein Psalterspil nicht hören/ 
+        darumb so soll es auch hie heissen/ wie jener Heydnische Poet saget:
+ 
+  Sit modus in rebus, sint certi denique fines,  
+        Quos vltrà citroque nequit consistere rectum.
+Zu wenig vnnd zu viel verderbt alle Spiel/ die mittel Straß die beste was: Man soll mündtliches vnd Jnstrumentalisches musiciren in der Kirchen Gottes also gebrauchen/ daß dardurch das notwendigere/ als predigen Gottes Wort/ Sacramenta verwalten nach der Einsatzung des Herren/ Psalmen singen/ beten/ vnd anders nicht versaumbt werde.
+ 
+        Auff ein solche weiß vbet man die mündtliche vnd Jnstrumentalische Music in den reformirten Euangelischen Kirchen/ vnd auff diese weiß soll bey vns das orglen/ das Mündtliche musiciren auch geübet werden. 
+     
+        Vnd deßwegen seind die vnter vnsern Leuten nicht recht daran/ welche vermeinen/ wir wöllen durch das orgeln ein newes Papsthumb einführen. Nein gar nicht: Wir begeren auff das orglen in vnser Kirchen nicht vnser Christenthumb zusetzen: 
+     
+        so würdt orglen in vnser Kirchen auch nicht das fürnembst sein sondern ein Particul der Kirchenzierd/ welche in der Kirchen wol kan geduldet werden/ nach Exempel vieler Euangelischen Kirchen in Teutschland/ in welchen/ neben dem eigentlichen vnd notwendigen Gottesdienst/ auch Orglen vnd Organisten gebraucht werden. 
+     
+        Was dann den Vnkosten anlangt der/ vieler meinung nach/ zu groß/ vnnd wol hette könden ersparet werden: so sag ich/ Sutor ne vltra cripiam, Es soll niemand vrtheilen von dem/ das er nicht verstehet/ 
+        sondern jhr solt denen darumb trawen/ die sich der Sach bißhero haben angenommen/ welche nichts umb sonst vnd vergebens begeren außzugeben/ sondern/ wo müglich/ die Sach dahin zurichten/ daß der Vnkosten/ nicht auß der Kirchen Einkommen/ son=
+
+ 
+
+        dern von andern/ von Gott darzu erwehlten ehrlichen Leuten möchte bezalt werden.
+ 
+        Das aber ettliche sagen/ man seye in der 
+         <LOCATION>vorigen Kirchen</LOCATION> ohn ein Orgel gewesen/ man könne in dieser auch ohn eine sein/ das ist wahr: Aber diese Leut mahnen mich an die Juden/ von welchen der Herr Christus sagt/ Matth. 11. 
+         Wem soll ich diß Geschlecht vergleichen? Es ist den Kindern gleich/ die an dem Marckt sitzen/ vnd ruffen gegen jhren Gesellen/ vnd sprechen/ wir haben euch gepfiffen/ vnd jhr wolt nicht dantzen/ wir haben euch geklaget/ vnd jhr wolt nicht weinen: Johannes ist kommen/ aß vnd tranck nicht/ so sagt jhr/ er hab gehabt den Teuffel: Des Menschen Sohn ist kommen jsset vnnd trincket/ so sagen sie/ sihe/ wie ist der Mensch ein fresser vnd Weinsäuffer/ der Zölner vnnd Sünder Gesel/ vnd die Weißheit muß sich rechtfertigen lassen von jren Kindern: 
+        An diese Leut/ sag ich/ mahnen mich etliche vnserer Leut auch. Dann gleich wie es der Herr Christus vnd Johannes diesen Leuten nicht haben können recht machen/ sie haben gefast oder gessen vnd getruncken: Also können wirs etlichen vnter vnsern Leuten auch nicht recht machen. Weil wir in der 
+         <LOCATION>Kirchen bey S. Martin</LOCATION> gewesen/ hat man diese klagen gehört: Ach wie seind wir beschwert/ wir könden vnserm Gottesdienst nicht recht abwarten/ man muß alles ereilen/ wir können mit lieb nicht ein Psalmen nach der Predigt singen/ wie wer es so ein fein ding/ wann ein jedweder Theil sein sach allein haben köndte: Jetzo so wir ein 
+         <LOCATION>eigne Kirchen</LOCATION> haben/ vnd vnser Religion/ Gott sey es gedanckt in Ewigkeit/ ohn einige hindernus vben vnd treiben könden/ in die Kirchen gehen/ wann wir wöllen/ darauß gehen wann wir wöllen/ Psalmen mit dem Mund singen/ vnd auff der Orgel schlagen lassen/ 
+
+ 
+
+        so lang wir wöllen/ so ist es auch nicht recht/ sondern jhr viel thun/ was das orglen anlangt/ 
+     
+        wie 
+         <PERSON>Michol</PERSON> Sauls Tochter Dauids Weib. 
+        Dann als <PERSON>Dauid</PERSON> vor der Bundsladen her mit dem gantzen Hauß Jsrael mit allerley Saitenspil/ mit Harpffen/ Psaltern/ vnd Cymbalen gespilet hat/ vnd er darnach heim kam/ verachtet sie jn 
+         vnd sagt/ wie herrlich ist heut der König in Jsrael?
+Ebner gestalt vnd massen werden von etlichen veracht vnd verlacht/ Orgel/ Orgelmacher/ Orgelschlager/ vnd die so zuüberkommung dieser Orgel geholffen haben. 
+     
+        Aber wie dem allem/ man muß dem Wasser sein gang lassen/ recht verständige Leut werden anderst von der sach reden vnd halten. Dann sie wissen/ daß man solches nicht auß Hoffart angefangen/ oder auß eignem Priuat affect/ sonder Gott zu Lob vnd Ehr/ vnd zu auffnemung seiner Kirchen: demselbigen wöllen wir auch die gantze Sach heimgestelt vnd befohlen haben: 
+     
+        jn darneben ernstlich anrüffen/ daß er wölle 
+         Glück vnd Fried geben in den Mauren vnd Pallästen Jerusalem/ 
+        daß wir mit freuden sagen mögen/ wir frewen vns/ daß vns gesagt ist/
+    
+ daß wir können in das Hauß des Herrn gehen: 
+        in welchem Hauß wöllen wir auß seiner Gnad/ 
+         dem Herrn singen vnser lebenlang/ vnd vnsern Gott loben so lang wir seind:
+
+ jhn loben aber/ auch mit Posaunen/ mit Psaltern/ vnd Harpffen/ mit Paucken vnnd Raien/ mit Saiten vnd Pfeiffen/ mit hellen klingenden Cymbalen/
+ 
+        biß daß wir dahin kommen/ da wir mit den lieben heiligen Engeln werden singen könden/ 
+         Heilig/ Heilig/ Heilig ist der Herr Zebaoth: 
+        Disem vnserm Gott/ welcher ist Gott Vatter/ Sohn vnd H Geist/ einig im Wesen/ Dreyfaltig in Personen/ sey Lob/ Ehr vnd Danck gesagt/ für alle seine Gutthaten von nun an biß in Ewigkeit/ Amen.
+ 
+ΔΙΑΤΥΠΩΣΙΣ. 
+
+
+          
+Concio est ἐγκωμιαστικὴ
+ 
+  
+  
+  
+   
+   
+    
+    
+   
+    
+    
+2, Διήγησις. Haec est breuissima explicatio textus, in quo dicitur de Musica, &amp; συντόμος  affertur, eius
+  
+   
+   
+  
+   
+   
+  
+   
+   Turpes. | Obscoenas.
+   
+   Psalmos. | Hymnos. | Cantiones spirituales.
+ 
+ Honestate. | Vtilitate. | Qualitate.
+ 
+ 1. Θεωρητικὸς. 
+   
+    
+     
+      
+      
+       
+       
+      
+      Aristotelis. | Platonis. | Socratis.
+     
+      
+      
+       
+       Patriarchae. | Reges. | Prophetae. | Apostoli.
+       
+       Debora. | Anna. | Maria.
+        
+         
+         
+          
+          
+    
+     
+     
+      
+       
+       Orpheus. | Linus. | Arion.
+       
+       Cimon, filius Miltiadis. | Epaminundas. | Achilles.
+       Hic additur ἐξεργασίας ἕνεκα  turpitudo contemptus musicae, in exemplo Scythici Regis, musicam instrumentalem despicientis.
+      
+      Dauid. | Salomon. | Ezechias. | Iosias. | Nehemias.
+       
+        
+        
+        
+   
+    
+     
+      
+      
+     
+      
+      
+     
+      
+      
+    
+    
+    
+     
+     
+     Clinia. | Alexandro Magno. | Ludouivo Pio, Imperatore. | Elisaeo. 2. Reg. 3.
+     
+   
+    
+     
+      
+      
+      Valentini. | Samosateni. | Bonauenturae.
+      
+      Litania. | Cantio, Salue Regina.
+     
+     Psalmi Dauidis. | Hymni. | Cantiones spirituales.
+    
+     
+     
+    
+     
+     
+ 2. Πρακτικὸς  vsus
+   
+    
+    
+   
+   
+    
+     
+     
+    
+    
+    
+ 
+
+Finis.
+Einzelanmerkungen
+
+</div>

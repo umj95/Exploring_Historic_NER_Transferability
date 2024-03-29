@@ -1,0 +1,364 @@
+2024-03-06 17:17:38,068 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-06 17:17:59,413 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-06 17:18:22,673 - evaluate_model.log - INFO - Chosen attempt to evaluate: de_core_news_sm--03-06-16-32-23
+2024-03-06 17:18:40,685 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.13186029935851745
+Recall:			0.488287693830419
+Accuracy:		0.936221032660252
+F1-score:		0.2076464398456682
+
+2024-03-06 17:19:13,028 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.13186029935851745
+Recall:			0.488287693830419
+Accuracy:		0.936221032660252
+F1-score:		0.2076464398456682
+
+2024-03-06 17:19:21,607 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-06 22:35:12,206 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-06 22:35:33,227 - evaluate_model.log - INFO - Chosen attempt to evaluate: de_core_news_sm--03-06-16-32-23
+2024-03-06 22:35:47,079 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.13186029935851745
+Recall:			0.488287693830419
+Accuracy:		0.936221032660252
+F1-score:		0.2076464398456682
+
+2024-03-06 22:36:04,755 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-10 16:31:33,151 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-10 16:42:29,437 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-10 16:42:43,127 - evaluate_model.log - INFO - Chosen attempt to evaluate: de_core_news_sm--03-10-16-40-20
+2024-03-10 16:42:59,172 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.14315192158885737
+Recall:			0.4751712328767123
+Accuracy:		0.9325502766124297
+F1-score:		0.22001982160555006
+
+2024-03-10 16:43:28,969 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-10 16:44:31,425 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-10 16:44:31,425 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-10 16:44:41,641 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_30it--03-10-16-43-47
+2024-03-10 16:44:41,641 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_30it--03-10-16-43-47
+2024-03-10 16:44:59,493 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7169979234648473
+Recall:			0.4690471569959247
+Accuracy:		0.9841874536658111
+F1-score:		0.5671046457062413
+
+2024-03-10 16:44:59,493 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7169979234648473
+Recall:			0.4690471569959247
+Accuracy:		0.9841874536658111
+F1-score:		0.5671046457062413
+
+2024-03-10 16:45:45,384 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-10 16:45:45,384 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-11 19:06:15,901 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-11 19:09:27,364 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-11 19:09:27,364 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-11 19:09:38,420 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_30it--03-11-19-06-36
+2024-03-11 19:09:38,420 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_30it--03-11-19-06-36
+2024-03-11 19:10:14,168 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.708849812626117
+Recall:			0.42316296678712784
+Accuracy:		0.9844754871429843
+F1-score:		0.5299568965517241
+
+2024-03-11 19:10:14,168 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.708849812626117
+Recall:			0.42316296678712784
+Accuracy:		0.9844754871429843
+F1-score:		0.5299568965517241
+
+2024-03-13 13:33:28,319 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-13 15:27:53,222 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-13 15:27:53,222 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-13 15:29:27,116 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-13 15:29:27,116 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-13 15:29:27,116 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-13 15:29:40,483 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_60it--03-13-15-28-41
+2024-03-13 15:29:40,483 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_60it--03-13-15-28-41
+2024-03-13 15:29:40,483 - evaluate_model.log - INFO - Chosen attempt to evaluate: models/sermons_60it--03-13-15-28-41
+2024-03-13 15:29:59,830 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7078064870808136
+Recall:			0.44511668107173724
+Accuracy:		0.984792241302607
+F1-score:		0.5465350737557041
+
+2024-03-13 15:29:59,830 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7078064870808136
+Recall:			0.44511668107173724
+Accuracy:		0.984792241302607
+F1-score:		0.5465350737557041
+
+2024-03-13 15:29:59,830 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7078064870808136
+Recall:			0.44511668107173724
+Accuracy:		0.984792241302607
+F1-score:		0.5465350737557041
+
+2024-03-13 15:31:29,803 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-13 15:31:29,803 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-13 15:31:29,803 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-21 19:23:22,880 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-21 19:24:49,190 - evaluate_model.log - INFO - Chosen attempt to evaluate: de_dep_news_trf--03-21-19-11-10
+2024-03-24 14:44:56,015 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 14:45:12,252 - evaluate_model.log - INFO - Chosen attempt to evaluate: bert_base_german_cased_finetuned_3ep--03-24-14-25-43
+2024-03-24 14:46:50,495 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7891799055388579
+Recall:			0.607001321003963
+Accuracy:		0.9896813558489709
+F1-score:		0.6862049654657457
+
+2024-03-24 14:48:48,954 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 15:04:27,758 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 15:04:27,758 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 15:18:18,789 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 15:18:18,789 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 15:18:18,789 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 15:18:28,362 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/bert-base-german-cased--03-24-14-56-59
+2024-03-24 15:18:28,362 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/bert-base-german-cased--03-24-14-56-59
+2024-03-24 15:18:28,362 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/bert-base-german-cased--03-24-14-56-59
+2024-03-24 15:18:43,311 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.009614728946471189
+Recall:			0.09510961214165262
+Accuracy:		0.8052225475572252
+F1-score:		0.01746400371574547
+
+2024-03-24 15:18:43,311 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.009614728946471189
+Recall:			0.09510961214165262
+Accuracy:		0.8052225475572252
+F1-score:		0.01746400371574547
+
+2024-03-24 15:18:43,311 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.009614728946471189
+Recall:			0.09510961214165262
+Accuracy:		0.8052225475572252
+F1-score:		0.01746400371574547
+
+2024-03-24 15:20:04,877 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 15:20:04,877 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 15:20:04,877 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 17:26:10,737 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:26:10,737 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:26:10,737 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:26:10,737 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:30,064 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:30,064 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:30,064 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:30,064 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:30,064 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:44,886 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:44,886 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:44,886 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:44,886 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:33:44,886 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:38,374 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:38,374 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:38,374 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:38,374 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:38,374 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:38,374 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-24 17:34:53,904 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:34:53,904 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:34:53,904 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:34:53,904 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:34:53,904 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:34:53,904 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-lft--03-24-17-27-23
+2024-03-24 17:35:13,106 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-24 17:35:13,106 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-24 17:35:13,106 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-24 17:35:13,106 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-24 17:35:13,106 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-24 17:35:13,106 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-24 17:36:00,410 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 17:36:00,410 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 17:36:00,410 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 17:36:00,410 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 17:36:00,410 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-24 17:36:00,410 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-25 08:52:02,873 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-25 09:21:18,337 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-25 09:21:18,337 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-25 09:21:32,949 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-onb--03-25-09-14-23
+2024-03-25 09:21:32,949 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-onb--03-25-09-14-23
+2024-03-25 09:21:51,089 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-25 09:21:51,089 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.29961266803372066
+Recall:			0.44024104452628054
+Accuracy:		0.970867171242841
+F1-score:		0.35656182212581344
+
+2024-03-25 09:22:31,845 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-25 09:22:31,845 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-26 05:26:29,659 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-26 05:27:25,404 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/model_comparisons/test-predictions_comparison.tsv
+2024-03-26 05:27:37,300 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-onb_finetuned_3ep--03-26-05-26-04
+2024-03-26 05:27:52,290 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7714776632302406
+Recall:			0.14630172694688823
+Accuracy:		0.9831009950340374
+F1-score:		0.24596001095590247
+
+2024-03-26 05:28:15,428 - evaluate_model.log - INFO - Appended evaluation results to table at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results.csv.
+2024-03-26 18:17:08,024 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 18:25:42,539 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 18:50:26,028 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:02:42,575 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:02:56,423 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert-ft_flair-ft_spacy-ft
+2024-03-26 19:03:08,229 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.8516746411483254
+Recall:			0.46703837323712694
+Accuracy:		0.9885027837627142
+F1-score:		0.6032620207583139
+
+2024-03-26 19:05:17,670 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:05:34,704 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert-ft_flair-ft_spacy-ft
+2024-03-26 19:05:43,665 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert-ft_flair-ft_spacy-ft
+2024-03-26 19:05:53,861 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7643892339544514
+Recall:			0.6090399208182118
+Accuracy:		0.989233252920342
+F1-score:		0.6779287550495776
+
+2024-03-26 19:08:12,597 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:08:22,128 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert-ft_flair-ft_spacy-ft
+2024-03-26 19:08:31,705 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7643892339544514
+Recall:			0.6090399208182118
+Accuracy:		0.989233252920342
+F1-score:		0.6779287550495776
+
+2024-03-26 19:11:44,277 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:11:54,999 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert-ft_flair-ft_spacy-ft
+2024-03-26 19:12:05,130 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7643892339544514
+Recall:			0.6090399208182118
+Accuracy:		0.989233252920342
+F1-score:		0.6779287550495776
+
+2024-03-26 19:13:42,258 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:14:23,538 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:14:23,538 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:14:33,858 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair--03-26-19-13-42
+2024-03-26 19:14:33,858 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair--03-26-19-13-42
+2024-03-26 19:14:44,903 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7643892339544514
+Recall:			0.6090399208182118
+Accuracy:		0.989233252920342
+F1-score:		0.6779287550495776
+
+2024-03-26 19:14:44,903 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7643892339544514
+Recall:			0.6090399208182118
+Accuracy:		0.989233252920342
+F1-score:		0.6779287550495776
+
+2024-03-26 19:15:13,278 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-26 19:15:13,278 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-26 19:17:22,768 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:17:22,768 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:17:32,960 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair--03-26-19-13-42
+2024-03-26 19:17:32,960 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair--03-26-19-13-42
+2024-03-26 19:17:46,503 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7535714285714286
+Recall:			0.6254940711462451
+Accuracy:		0.9892086993352117
+F1-score:		0.683585313174946
+
+2024-03-26 19:17:46,503 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7535714285714286
+Recall:			0.6254940711462451
+Accuracy:		0.9892086993352117
+F1-score:		0.683585313174946
+
+2024-03-26 19:22:37,842 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:22:37,842 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:22:49,836 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-onb_finetuned_3ep_2e-5--03-26-09-37-54
+2024-03-26 19:22:49,836 - evaluate_model.log - INFO - Chosen attempt to evaluate: dbmdz/flair-historic-ner-onb_finetuned_3ep_2e-5--03-26-09-37-54
+2024-03-26 19:23:00,266 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.8024485253199778
+Recall:			0.4724770642201835
+Accuracy:		0.9879380513047161
+F1-score:		0.5947618065580532
+
+2024-03-26 19:23:00,266 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.8024485253199778
+Recall:			0.4724770642201835
+Accuracy:		0.9879380513047161
+F1-score:		0.5947618065580532
+
+2024-03-26 19:26:42,342 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:26:42,342 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:26:52,853 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair--03-26-19-13-42
+2024-03-26 19:26:52,853 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair--03-26-19-13-42
+2024-03-26 19:27:03,603 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7535714285714286
+Recall:			0.6254940711462451
+Accuracy:		0.9892086993352117
+F1-score:		0.683585313174946
+
+2024-03-26 19:27:03,603 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.7535714285714286
+Recall:			0.6254940711462451
+Accuracy:		0.9892086993352117
+F1-score:		0.683585313174946
+
+2024-03-26 19:28:42,661 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-26 19:28:42,661 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-26 19:30:32,659 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:31:02,809 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:31:02,809 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:31:44,582 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:32:01,564 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:32:01,564 - evaluate_model.log - INFO - Initialised model evaluation. Predictions table loaded from location ./model_comparisons/test-predictions_comparison.tsv
+2024-03-26 19:32:14,576 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair_spacy--03-26-19-31-44
+2024-03-26 19:32:14,576 - evaluate_model.log - INFO - Chosen attempt to evaluate: combi_bert_flair_spacy--03-26-19-31-44
+2024-03-26 19:32:27,487 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.8057416267942584
+Recall:			0.5539473684210526
+Accuracy:		0.9891841457500813
+F1-score:		0.6565302144249513
+
+2024-03-26 19:32:27,487 - evaluate_model.log - INFO - EVALUATION RESULTS:
+Precision:		0.8057416267942584
+Recall:			0.5539473684210526
+Accuracy:		0.9891841457500813
+F1-score:		0.6565302144249513
+
+2024-03-26 19:33:31,676 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.
+2024-03-26 19:33:31,676 - evaluate_model.log - INFO - Appended evaluation results to table at location ./model_comparisons/model_results.csv.

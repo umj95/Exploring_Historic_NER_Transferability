@@ -1,0 +1,426 @@
+<div class="edition"> 
+
+
+
+ 
+
+
+Den 
+
+rechtmäßigen und Gott wohlgefälligen 
+
+Gebrauch der Music,  
+
+hat 
+
+bey Einweihung 
+
+der neuverfertigten 
+
+Roßgärtschen  Orgel,  
+
+am Sonntage Judaica, den 19. Merz 1747.  
+
+aus dem  150. Psalm 
+
+in einer Predigt vorgestellet,  
+
+und 
+
+dieselbe auf anderer Verlangen 
+
+zur allgemeinen Erbauung dem Druck übergeben,  
+ <PERSON>George Friedrich Lindner</PERSON> ,  
+
+Königl[ich] Preuß[ischer] Sammländischer Consistorial=Rath und dermaliger 
+
+Pfarrer der Roßgärtschen Gemeine.  
+ <LOCATION>Königsberg</LOCATION> ,  
+
+gedruckt bey  <PERSON>Johann Heinrich Hartung</PERSON> .
+
+  [vakat]
+ 
+Dem Erlauchten und Hochwohlgebohrnen Herrn, 
+Herrn  <PERSON>Johann Dietrich von Kunheim</PERSON> , 
+S[eine]r Königl[ichen] Majest[ät] in <LOCATION>Preußen</LOCATION> Hochbetrautem würklich Geheimten Kriegs= und Etats=Ministre und Oberburg=Grafen, 
+wie auch derer im Königreiche <LOCATION>Preußen</LOCATION> hochverdienten Kirchen=Stipendien und Armen=Collegiorum Hochansehnlichem Präsidenten, Erbherrn auf Kißitten, Kloschenen, Carmitten, Maldeiten Keiden, etc. etc. 
+Meinem sehr gnädigen und hochgebietenden Herren: 
+Jmgleichen
+Der Hochwohlgebornen Frauen, Frauen  <PERSON>Mariä Helenä von Kunheim</PERSON> , gebohrnen von Wallenrodt, S[eine]r Hochgedachten Excell[enz] herzinnigstgeliebtesten und theuresten Frauen Gemahlin, 
+Meiner sehr gnädigen und Höchstzuverehrenden Frauen und Gönnerin.
+  
+
+Hochwohlgebohrner  <PERSON>Herr</PERSON> ,  
+
+Sehr gnädiger Herr,  
+
+Hoher Patron,  
+
+Wie auch  
+
+Hochwohlgebohrne  <PERSON>Frau</PERSON> ,  
+
+Sehr gnädige Frau,  
+
+Teuerste Gönnerin. 
+Könte es gleich zuviel gewagt zu seyn scheinen, Ew[er] Ew[er] Excell[enz] Excell[enz] hohem Nahmen gegenwärtige geringe solenne Orgel=Predigt mit tiefer Ehrfurcht zu widmen; so überhebet mich doch Deroselben beyderseits preißwürdige ungemeine Leutseligkeit und Gnade der Mühe, desfalls eine weitläuftige Vertheidigung aufzusetzen, und macht mir hingegen vielmehr die gewiße Hoffnung, daß Dieselben mein künes Unternehmen mit gnädigem
+ 
+
+Wohlgefallen ansehen werden. Unter den vielen wichtigen Ursachen, die mich dazu bewogen, sind zuförderst die besondere Gnaden=Bezeigungen, welche Ew[re] Ew[re] Excell[enz] Excell[enz] bey verschiedenen elenden Vorfällen und Krankheiten meiner zerbrechlichen Leibes=Hütte mir zeithero liebreichst erwiesen haben. Jch habe zwar dafür allezeit meine Hände zu dem höchsten Vergelter alles Guten für Deroselben Heil und Leben aufgehoben; gleichwol aber ist es doch auch mein beständiger Wunsch gewesen, meine unterthänige Hochachtung und Dankbegierde, die ich solchen unverdienten hohen Wohlthaten hege, in irgend einiger Probe, als einem Schatten, vor Dero Augen darstellen zu können. Und demnach habe geurtheilet, daß diesem meinem eyfrigen Verlangen einiges Gnügen geschehen würde, wenn ich bey Gelegenheit dieser, durch andere von mir zum Drucke begehrten Orgel=Predigt, und die Ew[re] Excell[enz] selbst Dero gnädigen Anhörens gewürdiget haben, solche meine obliegende unterthänige Danksagung öffentlich bezeigen und abstatten möchte. Daher auch um so vielmehr des sichern Vertrauens lebe, daß Ew[er] Ew[er] Excell[enz] Excell[enz) die würkliche Bewerckstelligung deßen mir nicht verdenken, sondern sel=
+ 
+ 
+
+bige nach dem lautern Affecte meines Herzens gnädigst taxiren werden. Hernach sahe mich auch dazu verpflichtet, wenn ich betrachtete, daß die Roßgärtsche Kirche, sich Ew[er] Excell[enz] hohen Patrocinii bis dato zu erfreuen gehabt, und nicht weniger durch Deroselben gnädige Approbation und Förderung mit dem neuen Orgelwerke beglückseliget worden sey. Wie sollte sie denn nicht gleichfalls Ew[er] Ew[er] Excell[enz] Excell[enz] hiemit ihr schuldiges Dankopfer, durch mich ihren geringsten Diener, schriftlich abtragen? Endlich munterte mich zu diesem Unternehmen auf, Ew[er] Ew[er] Excell[enz] Excell[enz] tiefe Erkänntnis der geoffenbarten göttlichen Wahrheiten, und Dero aufrichtige Liebe zu denenselben. Denn Sie wißen beyderseits, und sind davon überzeuget, daß außer dem lebendigen Worte Gottes alles andere dieser Zeit unsern unsterblichen Geist nicht wahrhaftig beruhigen und erqvicken könne. Freylich würde es eine verwegene Vermuthung seyn, wenn ich mir einbilden wollte, daß die gehaltene Predigt, außer denen darinn befindlichen göttlichen Wahrheiten, Ew[er] Ew[er] Excell[enz] Excell[enz] Aufmerksamkeit verdienen, und Dero erleuchteten Verstand völlig be=
+
+ 
+
+friedigen könte: Allermaßen die meiner Arbeit anklebende Mängel und Schwachheiten mir sehr deutlich das Gegentheil zeigen. Doch werde mich glücklich genug schätzen, wenn nur die Gnade habe, daß Ew[er] Ew[er] Excell[enz] Excell[enz] meinen geringen Eyfer in Vorstellung des rechtmäßigen und Gott wohlgefälligen Gebrauches der Music zu Beförderung des schuldigsten Ruhms unsers glorwürdigsten Gottes, Dero Genehmhaltung nicht gänzlich unwürdig erklären werden. Gott aber, der Ew[er] Ew[er] Excell[enz] Excell[enz] ihr Herz zu seinem Tempel geweihet hat, laße Sie auch durch seinen Geist Jhme darinnen unaufhörlich zu allem Gefallen singen und spielen, und dabey täglich aus der Fülle <PERSON>Jesu Christi</PERSON> eine Gnade um die andere nehmen. Er erhalte Ew[er] Ew[er] Excell[enz] Excell[enz] und Dero gesammtes hochadliches Haus noch viele Jahre in unverrücktem geist= und leiblichem Wohlseyn, zum Schutze der wahren Gottesfurcht und Gerechtigkeit, zur Aufnahme der Tugend und Wißenschaften, und zum Schrecken der Laster. Er segne alle Dero auf das Beste der Kirchen und des allgemeinen Wesens abzielende Rathschläge, und laße dadurch bey diesen betrübten Zeiten
+
+ 
+dem hereinbrechendem allgemeinem Elende gesteuret, und Wahrheit und Gottseligkeit mächtig unterstützet werden. Unter welchem Wunsche sowol mich, als die Meinigen zu Deroselben fernerem gnädigem Wohlwollen demüthigst empfehle, und in aller geziemenden Devotion Lebenslang verharre
+Hochwohlgebohrner Herr,  
+Sehr gnädiger Herr,  
+Wie auch  
+Hochwohlgebohrne Frau,  
+Sehr gnädige Frau,  
+
+Ew[er] Ew[er] Excell[enz] Excell[enz]. 
+Königsberg, den 28 April 1747. 
+Unterthäniger Fürbitter bey Gott  <PERSON>Georg Friedr[ich] Lindner</PERSON> . 
+  
+J[n] N[omine] J[esu].
+ Auf Seele! auf Sinne! Auf Geist und Gemüthe!  
+Auf Hertze! auf Glieder! auf Leib und Geblüte!  
+Auf! stimmet vereinigt in heissesten Flammen 
+Der Liebe, zum Lobe des Höchsten zusammen.  
+Erhebt euch, wie Adler entfernt von der Erden,  
+Erscheint vor ihm dankbar in Engels=Geberden;  
+Seyd fröhlich und jauchzet, im höchsten Thon singet,  
+Frohlocket mit Händen, hüpft, springet und klinget.  
+Doch Höchster! Wer kan Dich nach Würden auspreisen?  
+Wenn Himmel und Erde sich lobend erweisen,  
+Und dich nur zum Ziele des Lobes erlesen,  
+Jsts doch noch zu wenig du herrlichstes Wesen! Amen. 
+ Singet und spielet dem Herrn in eurem Herzen. So, meine in dem Herrn Jesu allerseits hertzlich=geliebte Freunde und Zuhörer, erwecket der heilige <PERSON>Apostel</PERSON> <PERSON>Paulus</PERSON> seine gläubige Epheser in dem fünften Capitel des an sie geschriebenen Briefes v. 19. zu einer Christlichen Gott wohlgefälligen Music.  Singet und spielet, spricht er, dem Herrn in eurem Herzen. Und das
+
+ 
+
+konte er auch mit allem Rechte von ihnen verlangen. Denn eben dazu waren sie schon von dem heiligen Geiste in ihrer Bekehrung und Wiedergeburt tüchtig gemacht worden; als welches der <PERSON>Apostel</PERSON> in dem vorhergehenden 18 v. anzeiget, da er spricht:  Werdet voll Geistes: anerwogen dieses zum voraus setzet, daß sie bereits den heiligen Geist mit seinen Gaben in ihrem Herzen wohnend gehabt, und nur nach dem Maaße derselben wachsen, mithin als ein geheiligtes Gefäß immermehr bis obenan damit angefüllet werden sollten. So wahrhaftig demnach ihre Herzen durch die in ihnen vorgegangene Wiedergeburt eine gesegnete Werkstätte des heiligen Geistes worden waren: so gewiß konten und sollten sie auch darinnen aus seiner mitgetheilten Kraft dem Herrn singen und spielen.
+Und eben hieraus sehen wir zugleich offenbar, daß keine andere im Stande seyn, dieses wichtige Stück des Gottesdienstes würdiglich und Gott gefällig zu verrichten, als allein wahrhaftig bekehrte und gläubige Seelen, dergleichen die Epheser gewesen; sintemal der heilige Geist selbst dieses heilige Geschäft in ihnen gewürket hatte. Zwar sind alle Creaturen im Himmel und auf Erden äußerst verpflichtet, daß sie alle und jede auf ihre Art Gott loben, und ihm singen und spielen sollen; weil sie ja ihr ganzes Wesen, und was sie nur Gutes besitzen, nicht von ihnen selbst, sondern allein von Gott her haben: wie sie denn deswegen von dem Königlichen Propheten  <PERSON>David</PERSON> in seinen Psalmen öfters zum Lobe Gottes aufgefordert werden. Jedennoch aber lieget diese Schuldigkeit insonderheit dem Menschen ob; Denn da die Menschen von Gott nicht nur vor allen andern Creaturen auf Erden mit sonderbaren Wohlthaten nach dem ersten, zweyten und dritten Artickel des Christlichen Glaubens begnadiget, sondern auch so erschaffen worden sind, daß sie als vernünftige Geschöpfe, ihren Schöpfer ehren können, und noch über das von
+
+ 
+
+ihm einen Befehl dazu empfangen haben: so sind sie allerdings auch um so vielmehr ohne Unterscheid des Alters, Geschlechts, und Standes aufs höchste verpflichtet, den großen Namen Gottes mit singen und spielen zu verherrlichen, und allenthalben auszubreiten. Gleichwol aber kan solches nicht eher auf die rechte und Gott gefällige Weise geschehen, als bis sie erst von der Finsternis des Unglaubens zu dem Lichte des Glaubens an Jesum Christum, und von der Gewalt des Satans zu dem lebendigen Gott bekehret, und also der Gnadenwürkungen des heiligen Geistes fähig worden sind: Allermaßen es sonst auch hier nach dem Zeugniße  <PERSON>Pauli</PERSON> heißet:  Was nicht aus dem Glauben gehet, das ist Sünde. Röm. 14, v. 23. 
+Sind nun aber jetzt erwiesener maßen Gläubige allein diejenigen, die Gott recht loben und preisen können; so fordert es auch der  <PERSON>Apostel</PERSON> mit desto größerem Rechte und gewißerem Grunde von ihnen, daß sie dem Herrn in ihrem Herzen, jedoch ohne gänzliche Ausschlüßung des Mundes musiciren solten. Denn da sie in einer lebendigen Erkenntnis und Empfindung des Genußes der Gnade Gottes in Christo stehen; so können auch daraus durch Mitwürkung des einwohnenden heiligen Geistes, in ihrem Herzen, als in der Quelle aller Bewegungen, heilige Bewegungen entstehen, dem Herrn, das ist, dem Dreyeinigen Gott, für alle seine von ihm empfangene Gnaden=Wohlthaten zu singen und zu spielen. 
+Ohne Zweifel verstehet der <PERSON>Apostel</PERSON> durch das erste Wörtlein  Singet, welches nach dem Griechischen so viel heißet, als untereinander mit sich selbst reden, diejenige Handlung, da man nach einem gewißen Thone mit seiner Stimme den Herrn von Herzen lobet und preiset. Hingegen meinet er durch das zweite Wörtlein  Spielet, welches nach der Grundsprache so viel, als Jnstrumenta gebrauchen, bedeutet, eine solche Handlung, da dem Gesange durch gewiße Kunst Werck=
+
+ 
+
+zeuge ein veränderter lieblicher Thon gegeben und beygefüget wird. Und eben hieraus erhellet von selbst, daß der <PERSON>Apostel</PERSON> dergleichen Jnstrumenten, die bey dem Singen füglich gebrauchet werden können, als Orgeln, Pfeiffen, Harffen, Geigen, u[nd] s[o] f[ort] von der Christlichen Gott wohlgefälligen Music gar nicht ausschlüßet, sondern sie vielmehr dadurch billiget und lobet, und uns zugleich ermuntert, dieselben mit aller Sorgfalt zum rechten Zwecke zu gebrauchen; da sie sonst unter den unbekehrten Menschen leider vielem und großem Mißbrauch unterworffen sind. 
+Meine Geliebteste, ihr könnet leicht erachten, warum ich bey meinem heutigen Auftritte vor eurem Angesichte, euch diese apostolische Worte zu Gemüthe geführet habe. Denn ihr wißet selbst, was maßen nach aller unterthänigst gesuchter, und gnädigst erhaltener Erlaubniß S[eine]r Königl[ichen] Majest[ät] in  <LOCATION>Preußen</LOCATION> , unsers allergnädigsten  <PERSON>Königs</PERSON> und Herrn, in dieser  <LOCATION>Kirche</LOCATION> bisher eine  Orgel gebauet worden, nachdem das vorige alte Positiv gebrechlich, und für die Gemeine zu schwach gewesen ist. Wann denn nun das  neue Orgelwerk unter Gottes gnädigem Beystande so weit verfertiget ist, daß dasselbe hinfort bey unserm Singen zum Lobe Gottes gebrauchet werden kan und soll; so sind wir auch heute eben zu dem Ende in dem Hause des Herrn erschienen, daß wir diese unsere neuerbaute Orgel Christ gewöhnlicher maßen mit andächtigem Gebet und Gesange, und mit fleißiger Betrachtung des göttlichen Wortes öffentlich einweihen, oder dem Herrn unserm Gotte zu seinem Lobe heiligen und widmen wollen. Ach! der <PERSON>Herr</PERSON> selbst mache uns doch durch seinen heiligen Geist dazu tüchtig und geschickt, daß wir ihm dabey allezeit auch in unserm Herzen singen und spielen mögen. Betet in dieserAbsicht ein andächtiges  Vater Unser, und singet vorhero zu Erweckung mehrerer Andacht:   Wunderbarer König etc. 
+ 
+Text.
+Psalm 150.
+ Lobet den Herrn in seinem Heiligthum; lobet ihn in der Veste seiner Macht. Lobet ihn in seinen Thaten; lobet ihn in seiner großen Herrlichkeit. Lobet ihn mit Posaunen; lobet ihn mit Psaltern und Harfen. Lobet ihn mit Paucken und Reigen; lobet ihn mit Säyten und Pfeiffen. Lobet ihn mit hellen Cymbeln; lobet ihn mit wohlklingenden Cymbeln. Alles, was Odem hat, lobe den Herrn, Halelluja.
+Hat, meine in dem Herrn allerseits herzlich geliebte Freunde, Paulus, der <PERSON>Apostel</PERSON> des Lammes, in denen Eingangs angeführten Worten den Gläubigen insgemein zugeruffen:  Singet und spielet dem Herrn in eurem Herzen; so thut solches nicht weniger der Mann nach dem Herzen und Willen Gottes,  <PERSON>David</PERSON> , in unserm jetzt verlesenen Texte. Und demnach kan ich auch bey dieser Gelegenheit, Eurer Christlichen Liebe mit zureichendem Grunde in der Furcht des Herrn zum nöthigen Unterrichte bekant machen: 
+ 
+Den rechtmäßigen und Gott wohlgefälligen Gebrauch der Music, und insonderheit der Orgel. 
+Erweget nur hiebey: 
+I. Was durch die Music, und besonders durch die Orgel verstanden wird; und
+II. Worinnen der rechtmäßige und Gott gefällige Gebrauch derselben bestehet. 
+ Halleluja! Lob, Preiß und Ehr, sey unserm Gott je mehr und mehr für alle seine Werke!  
+Von Ewigkeit zu Ewigkeit sey in uns allen ihm bereit,  
+Dank, Weisheit, Kraft und Stärcke!  
+Klinget, singet: Heilig, Heilig! freylich, freylich, heilig ist Gott,  
+Unser Gott, der Herre Zebaoth! 
+Erster Theil.
+Was wird denn wol (1.) meine Lieben durch die Music, und sonderlich durch die Orgel verstanden? Eigentlich bedeutet das Wort Music nach der gewöhnlichsten und im gemeinen Leben bekanntesten Redensart insonderheit die Thonkunst, oder die Wißenschaft, die Thöne und Stimmen gehörig abzumeßen, und nach denenselben wohl zu singen und zu spielen: Weshalben sie auch im Deutschen den Nahmen Sing= und Thonkunst führet, weil sie bey uns weiter nichts als die Thöne zum Vorwurffe hat. Sonst aber ist die Music eine sehr alte Kunst, indem sie schon
+
+ 
+
+vor der  Sündfluth bekannt und üblich gewesen, und wird unter andern vornemlich in die Vocal= und Jnstrumental=Music eingetheilet. 
+Die Vocal=Music ist diejenige Singart und Kunst welche durch die menschliche Stimme verrichtet, und folglich nicht für die Jnstrumenta, sondern nur für den Hals und die Kehle gesetzet wird. Denn Gott hat dem Menschen die Kehle als eine beqveme Luftpfeiffe mitgetheilet, die nicht so steif geschaffen ist, daß sie nicht beqvem seyn sollte, allerley Laut durch steigen und fallen, durch verweilen und eilen, durch leise und helle Stimme von sich zu geben. So ist es auch ganz wahrscheinlich, daß, da die Vögel einen Tag eher, als der Mensch sind geschaffen worden, unsere erste Eltern im Paradiese, die Singstimmen der Vögel eher, als ihre eigene haben moduliren oder pfeiffen hören. Und vielleicht ist wol der Mensch durch diese Erfahrung am allerersten gewahr worden, was für einen Gebrauch oder Nutzen sein hörendes Ohr habe, und für was vor ein herrliches Geschenk seines gütigen Schöpfers es zu achten sey, daß er demselben an seinem Leibe diese Pforte geöffnet, wodurch so vielfältige Stimmen Eingang finden, und aufs tieffste bis an seine aufmerkende Vernunft durchdringen können, und durch welches Mittel er beurtheilen kan, was für ein Laut ihm mehr oder weniger Vergnügen geben, und ihn zur Verherrlichung seines Schöpfers aufwecken könne. Dahero wird auch wol der Mensch bey diesem Vergnügen, welches er aus dem Gesange der Vögel geschöpffet, gar bald an sein eigenes Vermögen zurück gedacht, und sich dadurch haben antreiben laßen, um zu untersuchen, wie weit es in seiner Macht stünde, dieses Singen nachzuahmen. Ein gewißer  <PERSON>Gelehrter</PERSON> (*) meynet: Es könte seyn, daß der Patriarch  <PERSON>Mahaleel</PERSON> , weil er seinen Na=
+
+(*) Hievon handelt <PERSON>Herr</PERSON> <PERSON>Reimann</PERSON> in   Hist. litt. antedil. p. 43. 
+ 
+men von הלל oder loben führe, und also eigentlich ein Lobsinger des Herrn heiße, sich vor andern in der Singekunst hervorgethan: Wie denn auch kein Zweifel ist, daß die Menschen sich nachmals in derselben immermehr werden geübet, und es darinnen je länger je höher gebracht haben; sintemal die Begierde und das Verlangen zu singen, sowol als zu reden, dem Menschen angeschaffen zu seyn scheinet. 
+Von  <PERSON>Adam</PERSON> haben wir bereits gehöret, daß er seine menschliche Stimme sonder Zweifel zum singen mit angewendet habe; und warum sollte man nicht glauben, daß er auch bey seinem Gottesdienste sich derselben bedienet? <PERSON>Mahaleel</PERSON> ist nicht weniger seinem Namen nach ein Lobsinger des Herrn gewesen, und können wir von ihm nicht unfüglich auf die andere heilige Erzväter vor und nach der Sündflut schlüßen, daß dieselben gleichfals bey ihrer Andacht mitgesungen und die Werke des Hеrrn gepriesen haben. So hat auch  <PERSON>Moses</PERSON> und seine Schwester  <PERSON>Mirjam</PERSON> den Herrn mit Singen gelobet,  2 B. M. 15, 1. Und bey dem Gottesdienste altes Testaments wurden, sonderlich nach der Ordnung  <PERSON>Davids</PERSON> und  <PERSON>Salomonis</PERSON> laut dem  1 B. der Chron. 23, 30. täglich die Gеsänge gebrauchet; wie es denn deswegen Gott dem Herrn besonders zum Ruhme zugeschrieben wird, daß er unter den Lobgesängen Jsraelis wohne,  Ps. 22, 4. Selbst in unserm Texte siehet <PERSON>David</PERSON>
+
+ 
+
+darauf, wenn er  v. 4. spricht: Lobet den Herrn mit Reigen oder Reihen und Chören. Denn diese Reihen bedeuten eine Anzahl Menschen, welche in zwoen Reihen oder Gliedern einander gegen über gestanden, mit singen gegen einander abgewechselt, auf Jnstrumenten drein gespielet, und dabey allerhand andächtige, sittsame und freudige Bewegungen des Leibes gemachet haben; wovon wir das Exempel der Mirjam, wie auch der  <PERSON>Tochter</PERSON> des  <PERSON>Jephta</PERSON> und anderer mehr in der heiligen Schrift vor uns finden. Jmgleichen meinet <PERSON>David</PERSON> eben dieses Chorsingen, wenn er Ps. 87, v. 7. also spricht:  Und die Sänger, wie am Reigen, werden alle in dir singen, eins ums ander. Wiederum gedenket auch der Prophet  <PERSON>Jerem.</PERSON>  C. 31, 13. der Jungfrauen am Reigen, und ist daraus zu schlüßen, daß das Reigenmachen und halten sonderlich dem weiblichen Geschlechte üblich und beliebt gewesen sey: anerwogen die jungen Töchter, welche wegen heller Stimme am geschicktesten dazu schienen, sich schon frühzeitig darinnen geübet, und darnach bey öffentlichen Reihen oder Chören, jedoch nur allein und ohne Mannspersonen, sich haben hören und sehen laßen. 
+Jm neuen Testament ist es nicht weniger offenbar, daß man Gott gleichermaßen mit singen oder Gesängen gelobet habe. Selbst die heiligen Engel haben ja die gesegnete Geburt unsers Jesu mit ihrem Lobgesange:  Ehre sey Gott in der Höhe u[nd] s[o] f[ort] besungen. So ist auch der Lobgesang der Jungfrauen  <PERSON>Mariä</PERSON> und  <PERSON>Zachariä</PERSON> , des Vaters  <PERSON>Johannis des Täufers</PERSON> bekannt. Ja, der <PERSON>Herr</PERSON> Jesus selbst hat  Matth. 26, 30. mit seinen Jüngern gesungen, und werden sie solches ohne Zweifel nachhero gethan haben; wie denn <PERSON>Paulus</PERSON> aus eben diesem Grunde die Colosser dazu ermahnet, wenn er Cap. 3, 16. schreibet:  Lehret und vermahnet euch selbst mit Psalmen und Lobgesängen, und geistlichen lieblichen Liedern, und singet dem Herrn in eurem Herzen, anderer Stellen
+ 
+
+jetzo zu geschweigen. Diesem zufolge ist auch die Vocal= oder Stimmen=Music in der ersten christlichen Kirche sowol besonders, als in öffentlichen Gemeinen beständig im Schwange gegangen, bis auf die Zeiten, da das Christenthum unter dem Römischen Antichrist in den grösten Verfall gerathen war; sintemal damals die Römische Geistlichkeit theils nur allein, theils in fremden unbekannten Sprachen gesungen hat. Wie aber dadurch den gemeinen Leuten ein besonderes Mittel der Erbauung unbillig war entzogen und geraubet worden; so hat Gott hingegen dasselbe durch den Dienst seines Knechtes  <PERSON>Lutheri</PERSON> wieder hergestellet: indem durch die gesegnete  Reformation auch die geistlichen Lieder in der Kirche eingeführet worden sind, so, daß jetzo nicht allein die Gemeine öffentlich, sondern auch ein jeder Christ und Hausvater in seinem Hause für sich selbst mit singen Gott loben, und dadurch sich und andere erwecken kann. 
+Die zweyte art der Music ist und heißt die Jnstrumental= oder werkzeugliche Music und Spielkunst, weil sie mit solchen Werkzeugen, die dazu besonders verfertiget sind, und daher musicalische Jnstrumenta genannt werden, verrichtet wird. Und diese Music ist höchstwahrscheinlich jünger als die Vocal=Music. Nach dem Zeugniße des Mannes Gottes  <PERSON>Mosis</PERSON> ,  1 B. Mose 4, 21. ist  <PERSON>Jubal</PERSON> einer von den Nachkommen  <PERSON>Cains</PERSON> , der erste Erfinder derselben; und hat ihn ohne Zweifel die Begierde andere in Thönen zu übertreffen angereitzet, die Jnstrumental=Music zu erfinden. Nun können wir zwar nicht sagen, daß er alle und jede Jnstrumenta erfunden habe; gleichwol aber wird er billig ein Vater aller Musicanten, welche diese oder jene Jnstrumenta gebrauchen, genennet, weil er ihnen den Weg gewiesen, mehr und unterschiedliche andere zu erfinden: inmaßen es ja leicht ist, zu erfundenen Dingen noch etwas hinzu zuthun, oder das schon erfundene weiter zu verbessern. Jndessen gereichet es doch der Jn=
+
+ 
+
+strumental=Music zu nicht geringem Ruhme, daß der heilige Geist den Erfinder und Beförderer derselben hat mit Namen nennen, und folglich ihr Alter in der heiligen Schrift anzeigen wollen. <PERSON>David</PERSON> der Mann nach dem Herzen Gottes machet uns auch in unserem Texte unterschiedliche solcher Jnstrumenten oder Thon=Werkzeuge, die insonderheit zu seiner Zeit  bekannt und üblich gewesen, namhaft, wenn er spricht: Lobet den Herrn 1) mit Posaunen; und dadurch verstehet er den Hall und Schall der Trompeten, die von Silber zubereitet waren, und bey dem Gottesdienste von niemand anders als von Priestern, aus des  <PERSON>Aarons</PERSON> Nachkommen, innerhalb den Vorhöfen der Stiftshütte und des  <LOCATION>Tempels</LOCATION> geblasen werden durften. Denn obgleich die Leviten zum singen und allen den Spielzeugen, die unter den Gesang gemenget wurden, und den verlangten Wohllaut vermehrten, berechtiget waren; so durften sie doch nicht die Posaunen oder Trompeten gebrauchen, sondern diese kamen allein dem Priesterorden zu, und heißt es deswegen ausdrücklich: Die Söhne Aarons, die Priester sollen mit Trompeten blasen.  4 B. Mos. 10, 8. 2) heißt es:  Lobet ihn mit Psalter und Harfen. Durch den Psalter wird eigentlich eine Laute verstanden, von der wir wissen, daß dieselbe einen sehr angenehmen Wohllaut habe, und mehr als andere Spielzeuge für dienlich gehalten wird Freude zu erwecken. Durch die Harfe aber meinet <PERSON>David</PERSON> die Cither oder Kitar, welches Jnstrument unter uns zur Gnüge bekannt ist, und nach dem Hebräischen auch allerley Saitenspiele bedeutet. 3) sagt David:  Lobet ihn mit Paucken oder Trompeten. Wiederum 4)  mit Säiten, und werden dadurch unter andern Säitenspielen sonderlich die Geigen gemeinet. 5) stehet:  mit Pfeiffen. Dieses Wort gibt die niederländische Uebersetzung durch Orgeln, und meinet dadurch zwar nicht solche Orgeln, dergleichen in den späteren Zeiten erfunden worden sind, und wir heutiges Tages haben;
+
+ 
+
+jedoch will sie hiemit ein solch Kunst=Werkzeug ausdrucken, welches aus verschiedenen zusammengesetzten und wohlzusammenstümmenden Pfeifen bestanden, und einen höchstlieblichen und starken Thon von sich gegeben hat, mithin unserm heutigen Orgelwerke in gewißer Weise ähnlich gewesen ist. 6) spricht David: Lobet ihn mit hellen oder hellklingenden Cimbeln imgleichen mit wohlklingenden Cimbeln, oder mit Cimbeln von fröhlichem Laute, die einen erfreulichen Klang und Wiederschall geben, mithin dienlich sind Freude zu erwecken, und sich unter eine frölich jauchzende Erthönung zu mengen. Nach der Thalmudisten Aussage muste niemals mehr als ein Cimbalist auf der Singbühne seyn, der sich mit diesem hellklingendem Spielzeuge, unter dem Gesange hören ließ, damit der Schall die Singestimme nicht betäuben, sondern sich unter die Menschenstimmen, und das Harfen= und Lautenspiel mäßiglich meliren, oder mit einmengen möchte. Und das sind nur einige Stücke von der Hebräer ihren musicalischen Jnstrumenten, deren sie freylich noch mehrere gehabt haben, ob wir wol heutiges Tages davon nicht mehr was recht gewisses sagen können. 
+Jedoch wir müssen auch noch kürzlich betrachten: was denn insonderheit unsere heutige Orgel für ein musicalisches Jnstrument sey. Wie es der Augenschein giebet, so ist selbige ein grosses Gerüst in einer Kirche, welches mit vielen Pfeiffen von mancherley Stimmen versehen ist, denen durch große Blasebälge der Wind zugeführet, und worauf durch Rührung der Claviere gespielet wird; wie denn diese unsere Orgel aus 27 Stimmen und 1478 klingenden Pfeiffen bestehet. Es ist demnach freylich ein Orgelwerck an sich selbst etwas vorzügliches, ja das vollständigste musicalische Jnstrument. Denn alle Jnstrumenten, sie werden gleich geschlagen, gestrichen oder geblasen, geben doch nur meistentheils einen einfachen Schall und Thon von sich; und ob schon einige mit gedop=
+
+ 
+
+pelten ja dreyfachen Griffen angegriffen werden: so ist doch die Harmonie nicht so vollkommen als auf einer Orgel, welche Kunstgeübte Organisten so vollstimmig und vielgreiffig zu berühren wißen, daß man dem Laute nach urtheilen sollte, sie bedienten sich hiezu nicht nur zwoer, sondern wol vier und mehrerer Hände; anderer Vorzüge der Orgel wegen Kürze der Zeit nicht zu gedenken. 
+Jnzwischen kan man von dem Alterthum der Orgeln, wenn sie eigentlich aufgekommen sind, mit recht vesten Gründen nichts behaupten. Denn was die heutigen Juden vorgeben, als ob der König  <PERSON>Salomo</PERSON> aus eigener Erfindung eine  Orgel in dem herrlichen Tempel zu  <LOCATION>Jerusalem</LOCATION> habe bauen laßen, welche die unsrigen weit übertroffen, das lassen wir zu ihrem Beweise ausgestellet seyn. Jedoch ist es gewis, daß bereits bey den Griechen einige Arten der Orgeln bekannt gewesen, und werden dieselben von einigen dergestalt beschrieben, daß man sich verwundern muß, wie nahe jene alte Erfindung mit der heutigen unsrigen verwandt ist. Dahero darf man nicht zweifeln, daß die Orgel erst von ganz geringer Erfindung immer zu mehrerer Vollkommenheit gediehen sey, und ist freylich der Anfang sehr schlecht und gering gewesen; wie denn die ersten Orgeln nicht mehr als 15. Pfeiffen gehabt haben sollen, zu welchen, wenn sie geschlagen werden sollten, man jedesmal 12. Blasebälge, aus den Schmiede=Eßen zum benöhtigten Winde entlehnet hat. Der Kirchenvater  <PERSON>Hieronymus</PERSON> hat zu seiner Zeit um das Jahr 400. nach Christi Geburt, ein solch  Orgelwerk zu <LOCATION>Jerusalem</LOCATION> gefunden, welches gleichwol, wie er schreibet, einen so lauten Schall von sich gegeben, daß er bis nach dem  <LOCATION>Oelberge</LOCATION> erklungen. Uebrigens ist der Gebrauch der Orgeln bey dem Gottesdienste unter den morgenländischen Christen schon sehr alt, und soll die erste Orgel von dem griechischen Käyser  <PERSON>Constantino</PERSON> dem Könige in  <LOCATION>Franckreich</LOCATION> ,  <PERSON>Pipinus</PERSON> genant, im Jahr Christi 753. oder nach anderer Rechnung 57.  zugesandt worden seyn. 
+ 
+Endlich haben wir noch überhaupt zu merken: daß die Vocal= und Jnstrumental=Music δεῖον τι oder etwas Göttliches in sich faße. Denn wie die Natur selbst Gottes Werk ist; so folget daraus unstrittig, daß die Zusammenstimmung und mannigfaltige Abwechselung der Stimmen und Thöne von dem Schöpfer selbst in die Natur geleget worden sey. Und daher sind auch die Würkungen der Music ganz besonders und recht verwundernswürdig; wie uns nicht nur die Geschicht, sondern auch die eigene und tägliche Erfahrung davon überzeuget. Jnsonderheit ist dieselbe vermögend, in dem Gemüthe des Menschen eine besondere Belustigung zu erregen, und dasselbe wieder aufzurichten, wenn es verdrüßlich und niedergeschlagen ist: Hingegen kan auch wol zuweilen die Music betrübt, traurig und wehmüthig, ja gar bestürzt und verwirret machen; wovon manche Exempel, wenn es die Zeit litte, angeführet werden könten. (*) Nur müßen wir bekennen, daß der Grund und die Art und Weise von dieser Würkung der Music etwas ver= 
+
+(*) Doch etwas weniges zu gedenken, so berichtet  <PERSON>Plutarchus</PERSON> von dem Philosopho  <PERSON>Pythagora</PERSON> , daß derselbe gewust habe, durch die Music sein Gemüth von allen Unruhen zu befreyen. Wiederum erzählet  <PERSON>Saxo Grammaticus</PERSON> , daß der dänische  <PERSON>König Erich</PERSON> , von einem sehr geschickten Musicanten gar habe ganz rasend gemacht werden können, und wird solches auch von andern geschrieben, daß es würklich geschehen sey. Selbst der menschliche Leib empfindet die Kraft der Music, und ist daher dieselbe schon bey den Alten gebrauchet worden, verschiedene Krankheiten entweder zu heilen, oder doch zu lindern. Die Historie unserer Zeiten lehret uns, daß die Bisse der Calabrischen Spinne, Tarantula genannt, nicht anders als durch die Music geheilet werden können. Und in der   Hist. de l’academie Royale des sciences vom Jahre 1707. p. 9. wiederum   1708. p. 27. findet man merkwürdige Exempel, was für eine besondere Kraft der Music man in febrilischen Krankheiten wahrgenommen habe. Nicht weniger bestätiget die Erfahrung, daß selbst die Thiere sich durch allerley Thöne, die ihnen angenehm sind, herbey locken lassen. Siehe  <PERSON>Flemmings</PERSON>   deutschen Jäger p. 2. Cap. 2. §. 2. und folg. 
+ 
+borgenes sey, und sind die unterschiedene Erklärungen der Gelehrten, die sie darüber zu machen pflegen, nur Deckmäntel der Unwißenheit. Weshalben man auch am besten thut, wenn man dieses für ein natürliches Geheimnis ansiehet, und darinnen seine Unwißenheit gern und frey bekennet.
+Anderer Theil.
+Haben wir aber hieraus kürzlich gelernet, was durch die Music verstanden werde; so lasset uns auch hier=auf (2) ihren rechtmäßigen und Gott wohlgefälligen Gebrauch um soviel aufmerksamer zu Herzen nehmen. Und dabey merken wir wiederum: 1) Wer denn wol diejenigen sind, welche die Vocal= und Jnstrumental=Music rechtmäßig und Gottgefällig gebrauchen können. Gewiß keine andere als wahre Christen, oder bekehrte und gläubige Selen. Denn eben diese sind es, deren ihr Herz schon durch die Gnade der Bekehrung und Wiedergeburt gleichsam das Jnstrument, oder die Harfe und Orgel worden ist, welche nun mehro von dem heiligen Geiste belebet, beweget, getrieben und regieret wird. Und eben daher kommt es, daß dieselben nicht nur äusserlich singen, spielen und klingen, sondern daß auch alles in, von und aus dem Herzen geschiehet: allermassen sie nach dem Exempel <PERSON>Pauli</PERSON> 1 Cor. 14, 15. nicht nur mit dem Sinne, sondern vornemlich im Geiste, oder mit innigster Herzens Andacht singen und spielen. Ohne Zweifel hat <PERSON>David</PERSON> mit darauf gesehen, wenn er in dem letzten Verse unsers Textes ausruffet:  Alles, was Odem hat, oder eigentlich aller Geist, eine jede Seele  lobe den Herrn, Halleluja! Denn da dem lebendigen Gott damit wenig gedient ist, daß der Mensch mit seinem natütrlichem Odem, den er zur Sprache nöthig hat, ihn lobet, wofern der Geist, oder die wahre Herzens Andacht und Jnbrunst nicht mit dabey ist; so fol=
+
+ 
+
+get daraus von selbst, daß man erst den himmlischen Odem, nemlich den Odem Gottes, den heiligen Geist haben, und durch denselben den lebendigen Glauben an Jesum Christum, und eine brünstige Liebe zu ihm in der Seele besitzen müsse, wenn man bey seinem Singen und Spielen ins rechte Lob Gottes ausbrechen, und mit allem seinem Thun und Lassen beweisen will, daß ein anderer Geist in uns sey. 
+Demnach, so gewiß und wahrhaftig nur allein gläubige und fromme Herzen die Music rechtmäßig und Gottgefällig gebrauchen können; so wenig kan es hingegen von unbekehrten Menschen, als die welt= und fleischlich gesinnet sind, geschehen. Denn ob sie gleich ihren natürlichen Geist in sich haben, und damit bey dem Musiciren sich geschäftig genung beweisen; so werden sie doch vor Gott, als ohne Geist, ja als todte Aeser angesehen: weil noch nicht der Odem des Herrn, der heilige Geist, in ihrer Seele ist und webet, oder sie zum Lobe Gottes treibet und regieret. Dannenhero sind sie allerdings in solchem Stande nicht geschickt, die Music rechtmäßig und Gottwohlgefällig zu gebrauchen; sondern es bleibet dabey, was <PERSON>Paulus</PERSON> Tit. 1, 15. schreibet.  Den Unreinen und Ungläubigen ist nichts rein, sondern unrein ist beyde ihr Sinn und Gewissen. Wie sollte denn nicht dadurch auch ihre Music verunreiniget werden? Ja, eben deswegen ist wenig oder gar keine Erbauung davon zu hoffen, und hingegen vielmehr Aergernis und Schaden zu besorgen. 
+Allein wir müßen auch 2) erwägen: Worinnen eigentlich der rechte und Gottgefällige Gebrauch der Music bestehe. Erstlich bestehet derselbe darinn, daß man durch die Music hauptsächlich Gott zu loben und zu preisen trachtet. Das ist es, was <PERSON>David</PERSON> mit klaren Worten erfordert, wenn er bey Benennung der musicalischen Jnstrumenten immer vorhero ausruffet: Lobet, lobet den
+
+ 
+
+Herrn. Zwar ist dem ewigen, in sich selbst höchstseligem und vergnügtem Gott mit aller äuserlichen Music an sich selbst nicht das geringste gedienet; sintemal sie wol uns, aber nicht ihm die Ohren füllen kan: Da aber gleichwol die Stimmen und mannigfaltige Thöne nicht weniger als andere Creaturen von Gott selbst erschaffen sind, und er doch alles zu seinen Ehren geschaffen, auch dabey dem Menschen ausdrücklich befohlen hat, alles dazu anzuwenden; so folget daraus unwiedertreiblich, daß wir schlechterdings verbunden seyn, wie alles andere, das von Gott herkommt, sollte es gleich in unsern Augen noch so gering scheinen, so auch vielmehr die Music, als eine edle Wißenschaft, sie mag entweder mit blos menchlicher Stimme, oder mit darunter spielenden Jnstrumenten geschehen, wiederum in Gott einzuführen. Und eben dieses geschiehet alsdenn, wenn wir selbige dazu heiligen oder anwenden, daß dadurch zuförderst der Name Gottes, und besonders seine Weisheit, Allmacht und Güte, die er auch hierinnen uns Menschen auf mannigfaltige Art erzeiget, gelobet, gerühmet, erhoben und verherrlichet werden möge. Soll demnach die Music rechtmäßig und Gottgefällig gebrauchet werden; so muß man nothwendig mit derselben hauptsächlich den lebendigen Gott, der uns Stimme und Thon und dergleichen Materien, woraus allerley Jnstrumenta gemacht werden können, gegeben hat, von ganzem Herzen zu loben und zu preisen suchen. Und das um soviel mehr, da es uns niemals an Materie oder Ursache zu seinem Lobe fehlen kan; wie auch <PERSON>David</PERSON> deutlich zu verstehen giebet, wenn er im Anfange des Psalms also ausbricht:  Lobet den Herrn in seinem Heiligthum. Denn dieses kan sowohl von dem Reiche der Gnaden, als der Herrlichkeit Gottes, darinnen er sich gegen die Seinen gnädig und herrlich beweiset, verstanden werden. Ferner heist es:  Lobet ihn in der Veste seiner Macht, oder in der Ausbreitung seiner Kraft, die er in der Schöpfung
+
+
+ 
+
+erwiesen.  Lobet ihn in seinen Thaten, oder grossen Werken, die erjemals auf dem Erdboden an seinem Volk und an jedermann, besonders in der Erlösung des menschlichen Geschlechts gethan hat.  Lobet ihn in seiner großen Herrlichkeit, oder nach der Größe seiner Majestät, die alles unendlich übersteiget. Ey lieber, sollten wir wohl nicht in Ansehung alles dessen überflüßige Ursachen haben, auch unsere Music vornemlich zu Gottes Lobe, Preise und Ehren treulich zu gebrauchen? 
+Und das thun denn auch gläubige Kinder Gottes. Sie singen und spielen nicht ihnen selbst, sondern dem Herrn; sie thun es auch nicht sowol um ihres Nutzens oder Vergnügens, als vielmehr um Gottes und seiner Ehre willen. Denn sie halten sich für nichts, und eher aller Schande werth, als daß sie aus Selbstgefälligkeit singen und spielen sollten. Und wenn sie auch Gott unter dem Singen und Spielen eine besondere Süßigkeit seiner Gnade schmecken und genüssen läßet; so erkennen sie es zwar mit dem innigsten Danke: Aber es ist und bleibet doch nur Gott allein, dem sie singen und spielen, und deßen Werke sie über alles rühmen und werth achten, daß sie von jedermann besungen oder gepriesen werden. Bedenken hiernächst wahre Christen, daß nicht allein die heiligen Seraphim und Cherubim ohne Unterlaß ihr  Heilig, Heilig, Heilig anstimmen; sondern auch die triumphirende Kirche, oder die Schaar der vollendeten Gerechten im Himmel, als worinnen alles mit dem Lobe Gottes erfüllet seyn wird, ihr ewiges Halleluja mit darein erschallen lässet, wie wir davon unter andern das  15. Capitel der Offenb. Joh. v. 2. 3. und das  19 Cap. v. 1. 3. 8. zu Hause mit mehrerem nachlesen können; Bedenken sage ich gläubige Seelen dieses, o! so werden sie ja dadurch um so viel kräftiger bewogen und gereitzet, auch hier auf Erden ihre Vocal= und Jnstrumental=Music zur Verherrlichung des
+
+ 
+
+Dreyeinigen Gottes aufs aller sorgfältigste anzuwenden. Eben das ist es, was jener christliche  <PERSON>Schlesische Tichter</PERSON> gar tief zu Herzen genommen, wenn er sich hierüber in einer Ode also hören läßet: 
+ Lobe Gott, lobe Gott mein Harfen=Spiel;  
+Lobe Gott, ohne Maß, ohne End und Ziel.  
+Jhr Völker auf Erden, ihr Töchter der Welt,  
+Lobt unsern Herren, den ewigen Held!  
+  Jhr Geister, ihr Meister der himmlischen Chör!  
+helfft loben Gott oben je länger je mehr.  
+Jhr Richter, ihr Tichter, Weib, Kinder und Mann;  
+fallt nieder, singt Lieder und betet ihn an.  
+Laßt hören zu Ehren der göttlichen Macht,  
+Geklänge, Gesänge mit herrlicher Pracht.  
+Laßt geben das Leben der Orgelen Werk,  
+erreget, beweget Durch  <PERSON>Aeolus</PERSON> (des Windes) Stärk.  
+Jm Greiffen der Pfeiffen Braucht künstliche Wahl:  
+Laßt summen und brummen das grobe Pedahl.  
+Laßt girren und tschwirren das Vogel-Geschrey;  
+Trompeten, Corneten Posaunen dabey.  
+Laßt schreyen Schallmeyen, Fagotten und Stort:  
+Auch Flöten Raqueten blaßt immer mit fort.  
+Auf Geigen und Reigen braucht möglichen Fleiß.  
+Helft rühren die Lyren dem Höchsten zum Preiß.  
+O kommet! o kommet! und säumet euch nicht.  
+Helft schlüßen durchsüssen dies neue Gedicht.  
+Helft singen und klingen auf Cymbalen schön;  
+helft hallen und schallen ein lieblich Gethön.  
+Mit Preisen und Weisen die göttliche Gnad 
+erhebet; was lebet was Odem nur hat. 
+Und das ist denn das erste, worinnen der rechtmäßige und Gottwohlgefällige Gebrauch der Music bestehet. 
+ 
+Zweitens gehöret dahin, daß man sich dadurch wie zum besonderen, so auch zum gemeinschaftlichen Lobe Gottes erwecket und aufmuntert. Hierum war es gleichfals dem Könige und Propheten <PERSON>David</PERSON> zu thun, wenn er ausrief: Lobet den Herrn, N[ota] B[ene] mit Reigen, oder ganzen Chören. Denn eben dadurch wollte er so wohl sich selbst, als alle andere Jsraeliten zum Lobe des Höchsten erwecken, und zugleich anzeigen, daß sie zu solchem Ende ihr Singen und Spielen gemeinschaftlich üben und gebrauchen sollten. So war David, der dem Herrn geheiligte Sänger und Spieler gesinnet! Und so machen es noch alle diejenigen, welche mit der Music Gottgefällig umzugehen suchen. Sie ermuntern dadurch sich selbst und andere immermehr zum Lobe und Preise Gottes, weil sie wißen, daß derselbe nie genug gelobet werden kan. Zwar hat Gott an den äuserlichen leblosen Jnstrumenten, als Orgeln, Paucken, Harfen und dergleichen eigentlich keinen Gefallen, und folglich kommt es auf die äuserliche Jnstrumenta, als welche noch alttestamentisch sind, eben nicht an: Jedoch aber können und wollen die Gläubigen sich dererselben in sofern gebrauchen, als dadurch der Zweck erreichet werden kan, sich selbst und andere damit um so vielmehr zum Lobe Gottes zu ermuntern. Und da sie wohl erkennen, daß solch Säyten= und Pfeiffenspiel vielmehr ein Greuel vor Gott ist, als daß es ihm gefällig seyn sollte, wofern das Gemüth dadurch mehr vereitelt, als zum Lobe Gottes aufgewecket wird: So ist es auch bey ihnen immer nur darauf angesehen, daß ihr Herz selbst das rechte Jnstrument und Orgelwerk des Lobes Gottes seyn und bleiben, von dem heiligen Geiste stets dazu gestimmet, und in die rechte Harmonie oder Uebereinstimmung mit dem göttlichen Willen gebracht
+
+ 
+
+werden möge. Denn das ist allein die herrliche, liebliche und Gott wohlgefällige Music, deren sie sich immer bey der aus dem 5. Cap. an die Ephes. obangeführten Ermahnung <PERSON>Pauli</PERSON> erinnern, wenn es v. 19. 20. heißt:  Und redet untereinander von Psalmen und Lobgesängen und geistlichen Liedern, singet und spielet dem Herrn in eurem Herzen; und saget Dank allezeit für alles, Gott und dem Vater, im Namen unsers Herrn <PERSON>Jesu Christi</PERSON> . 
+Spricht aber gleich der <PERSON>Apostel</PERSON> daselbst nur:  in eurem Herzen, so schlüssen sie doch daraus keinesweges, als obs unrecht wäre, mit dem Munde zu singen, und nur blos das Jnwendige erfordert würde; Sondern sie verstehen es vielmehr mit gnungsamen Grunde also, daß es nicht mit dem Munde allein geschehen, sondern vornemlich das Herz sein Geschäfte dabey haben solle, dergestalt, daß alles recht aus dem Herzen und von Herzen gehe, und folglich ein Gläubiger bey seinem Singen und Spielen nicht nur selbst durch des heiligen Geistes Trieb immer mehr zum Gebet und Lobe Gottes beweget werde; sondern auch mit andern Gläubigen sich darinnen immer genauer vereinige, und in einer solchen Herzens=Harmonie oder Zusammenstimmung mit ihnen stehe, daß ihrer aller Herz wie ein Herz auf Gott und Jesum Christum gerichtet, und in Liebe und Freude über ihn entzündet sey. Eben diese geistliche Harmonie und Einmüthigkeit in dem Lobe Gottes ist es, welche auch durch die unterschiedene musicalische Jnstrumenta, die man bey dem alttestamentischen Gottesdienste gebrauchete, abgebildet werden; wie unter andern im 2. B. der Chron. Cap. 5, 12. 13. angedeutet wird, da es heißt:  Und die Leviten sungen mit Cymbeln, Psaltern und Harfen, und bey ihnen 120. Priester, die mit Trommeten bliesen. Und es war, als wäre es einer, der trommetete und sünge, als hörete man eine Stimme, oder als wäre es nur
+
+ 
+
+eine Stimme gewesen, zu loben und zu danken dem Herrn. Denn gleichwie dieselben Jnstrumenta, ob sie gleich von unterschiedenem Klange waren, dennoch in der Music eine liebliche Harmonie ausmachten: Also müßen auch die Gläubigen, ob sie wol unterschiedne Gaben von dem heiligen Geiste empfangen haben, gleichwol im Lobe und Preise Gottes miteinander geistlich harmoniren oder zusammenstimmen. Und dessen können sie sich allezeit nicht minder bey einem Orgelwerke gar füglich erinnern. Es bestehet ja dasselbe aus vielen Stimmen, und jede Stimme aus unterschiedenen Pfeiffen von mancherley Klange, dennoch aber stimmen dieselbe auf das anmuthigste überein, und werden insgesamt von einem Winde zu solchem Schall und Klange beweget. Gleichermaßen stehen auch die Glieder des geistlichen Leibes Jesu Christi, oder bekehrte gläubige Christen, ohngeachtet sie an sich auf mancherley Weise von einander unterschieden sind, nichts destoweniger in einer genauen Harmonie mit einander, und werden alle von einem Geiste dazu belebet und regieret, daß sie bey ihrem Singen und Spielen den Dreyeinigen Gott mit einmüthigem Herzen loben und verherrlichen; als worinnen zugleich der rechtmäßige und Gottgefällige Gebrauch der Music bestehet, indem sie sich dadurch wie zum besonderen, so auch gemeinschaftlichen Lobe Gottes erwecken. (*)
+Drittens erfordert der rechte Gebrauch der Music, daß man dieselbe bey allen vorfallenden nöthigen Umständen des Gemüthes und seiner Sinne sich in gehöriger
+
+(*) So wird man auch nicht leicht ein Volk finden, bey dessen Gottesdienste der Gebrauch der Music nicht eingeführet seyn sollte; und scheinet das wol aus keiner andern Ursache geschehen zu seyn, als dadurch die Gemüther zu destomehrer Andacht aufzumuntern: Jndem die Music auch natürlicher Weise zu Erweckung und Aufklärung der Sinne etwas beytragen kan. 
+ 
+Ordnung und Maße gebührend zu Nutze machet. Wir haben oben gehöret, es faße die Music etwas Göttliches in sich, die Herzen zu bewegen, entweder zum Mitleiden, wenn eine Sache kläglich gesungen und gespielet; oder zur Freude und Erweckung, wenn sie auf eine fröliche Weise vorgestellet wird. Und eben um deswillen sollen wir trachten, dieselbe auch also zu gebrauchen, daß wir dadurch die Sinne unsers Gemüths, wenn selbiges etwa zuweilen von unnöthigen, unnützen, fremden und ängstlichen Gedanken, oder von unruhigen natürlich melancholischen Affecten u[nd] s[o] f[ort] angegriffen wird, heilsamlich bewegen und aufmuntern lassen, um unter Gesang Spiel und Gebet sich solcher Gedanken zu entschlagen, die ermüdete, schläfrige und zerstreuete Sinne wiederum zur Andacht zu sammlen, die widrige und unordentliche Affecten zu vertreiben oder doch zu bezähmen, die Melancholie und natürliche Gemüths=Krankheiten mehr und mehr zu dämpfen; hingegen das Gemüth auf eine zuläßige Art zu ergötzen, das Herz in Gott freudig zumachen, und in eine solche gute Verfaßung zu setzen, daß es göttliche Dinge mit destomehrerer Andacht hören und betrachten könne. Oder auch unser Herz, wenn wir es hart, unbeweglich und gleichgültig finden, durch singen und spielen zu erweichen, und entweder zum Mitleiden gegen andere, oder zu einer geistlichen Betrübnis und göttlichen Traurigkeit über unser Sünden=Elend zu bewegen. Denn wo wir uns nur dabey zuförderst angelegen seyn lassen, innerlich im Herzen zu musiciren, oder den Herrn von ganzem Herzen zu loben, und alsdenn auch die äuserliche wohlgeordnete Music, sie mag mit Menschen Stimmen, oder mit Jnstrumenten geschehen, auf eben denselben Zweck führen; so kan und wird es gewis ohne Nutzen, ohne Erbauung, Erweckung und Erqvickung nicht abgehen. Vermag die Music nach ihrer natürlichen Eigenschaft und Kraft an das Herz und Gemühte zu dringen;
+
+ 
+
+ey, wie vielmehr wird es denn geschehen, wenn man dieselbe in gehöriger Ordnung und Maße eben zu solchem Zwecke gebrauchet, daß man dadurch entweder zur nöthigen und nützlichen Traurigkeit, oder zur gebührlichen und heiligen Freude in Gott erwecket und bewogen werden möge. So lesen wir zum Exempel  1 B. Sam. C. 16. v. 15. u[nd] s[o] f[ort] daß der König  <PERSON>Saul</PERSON> , der von einem bösen Geiste beunruhiget worden, sich alsdann, wenn <PERSON>David</PERSON> auf seiner Harfen gespielet, wiederum erqvicket habe, und der unruhige arge Geist von ihm gewichen sey. Ob wir nun wol mit keinem Grunde sagen können, daß der Teufel durch die natürliche Kraft dieser Music von dem <PERSON>Saul</PERSON> habe weichen müssen; sondern vielmehr zu glauben ist, daß etwas übernatürliches dabey vorgegangen sey, indem <PERSON>David</PERSON> höchstwahrscheinlich geistliche Psalmen, welche als ordentliche Mittel nach dem Zeugniße der heiligen Schrift,  Ephes. 6, 16. 18. in solchen Fällen den Satan vertreiben, dazu gesungen: So erhellet doch daraus so viel, daß <PERSON>Saul</PERSON> bey seiner natürlichen Melancholie, Schwermuth und Traurigkeit, die mit der Beunruhigung des Satans verknüpffet seyn konte, durch den Klang der Harfe, die <PERSON>David</PERSON> im Glauben gespielet hat, auch natürlicher Weise aufgerichtet und erfreuet worden sey. Jmgleichen lesen wir in der heiligen Schrift, daß der Geist der Weißsagung bey dem geheiligtem Gebrauche der Music über verschiedene gekommen. Als dort zum Exempel dem <PERSON>Saul</PERSON> 1 B. Sam. 10, 5. ein Hauffe Propheten, und vor ihnen her ein Psalter, Paucken, Pfeiffen und Harfen entgegen kam; so gerieth der Geist Gottes über ihn, daß er weißsagete. Und wiederum, da der Spielmann auf der Säiten spielete, wurde  <PERSON>Elisa</PERSON> dergestalt erwecket, daß die Hand des Herrn oder die Würkung des heiligen Geistes, auf ihn kam, und er zu weissagen anfieng,  2 B. Kön. 3, v. 15. Was lehret uns aber dieses alles anders, als daß die Music eben da rechtmäßig und Gottgefällig gebrauchet werde, wenn man dieselbe bey allen benöthigten Umständen des
+
+ 
+
+Gemüths und bey der unterschiedenen Beschaffenheit seiner Sinne zu deren Ermunterung, Schärffung und Besserung in der Furcht des Herrn anwendet und sich zu Nutze machet? 
+Endlich viertens bestehet der rechtmäßige und Gottgefällige Gebrauch der Music darinn, daß man sich dadurch zu einem ordentlichem und wohlklingendem Thone der christlichen Lieder gewöhnen lernet. Und eben dahin ist es auch insonderheit mit der Orgel in der Kirche angesehen. Denn diese ist nicht allein der Grund bey einer Kirchen=Music, sondern muß auch vornemlich zur Unterhaltung des Gesanges dienen, damit derselbe von der Gemeine nicht verzogen, und aus seinem ordentlichen wohlklingendem Thone gebracht werde. Es ist ja sonst bekannt, was maßen bey einer volkreichen Gemeine es gar leicht geschehen kan, daß ein Theil, und zwar sonderlich die Jugend oft einen unrechten Thon anfängt, die Stimme fallen läßt, und herunterziehet, oder gar aus dem Thone kommt. Da nun hieraus eine greuliche Dissonantz oder ein eckelhafter Uebelklang entstehet, wodurch oft die ganze Gemeine in der Andacht gestöret, und leichtsinnigen Gemüthern zum Gelächter Anlaß gegeben, mithin Gott selbst verunehret und beleidiget wird: so ist gewis zu Verhütung alles dessen die Orgel, sonderlich wenn sie von einem geschickten Manne gespielet wird, ein beqvemes Mittel die ganze Gemeine bey dem öffentlichen Gottesdienste in eine gute äusserliche Zusammenstimmung, welches auch schon was schönes und heilsames ist, zu bringen, und darinnen zu unterhalten. Man lieset von dem heiligen Kirchenlehrer  <PERSON>Augustino</PERSON> , daß derselbe sich darüber herzlich zu freuen gepfleget, wenn er eine ganze volkreiche Gemeine aus einem gleichstimmigen Thone, als wenn es nur eine Stimme wäre, singen gehöret. Wie billig ist es demnach, wenn auch wir die Music und sonderlich die Orgel dazu anwenden und gebrauchen lernen, daß
+
+ 
+
+wir uns dabey gewöhnen, die Christlichen Lieder in ihrem ordentlichem und wohllautendem Thone zu singen; indem dieses gewißermaßen ebenfals zum rechtmäßigen und Gottgefälligem Gebrauche der Music gehöret.
+Anwendung.
+Laßet uns nur noch hiebey erstlich lernen: daß sowol die Music überhaupt, als auch besonders die Orgel bey dem öffentlichen Gottesdienste mit gutem Gewißen gebrauchet werden könne. Es haben zwar einige gewissenhafte Lehrer in den alten und neueren Zeiten hart dawider geredet, und gemeinet, als ob dieselbe nach der Einrichtung des Evangelischen Gottesdienstes vielmehr noch abzuschaffen wäre; wie davon unterschiedene Zeugnisse beygebracht werden könten: (*) Allem, da solche theure Männer bey ihrer guten Meinung wol vornehmlich auf den fast allgemeinen, großen und schändlichen Mißbrauch der Jnstrumental=Music gesehen haben; so kan auch hier mit Recht gesaget werden: Tollatur abusus &amp; maneat vsus: Man räume den
+
+(*) Unter andern schreibet hievon der wachsame und ernsthafte  <PERSON>Großgebauer</PERSON> , wiewol eigentlich in Ansehung des im Pabstthum eingerissenen schändlichen und offenbaren Mißbrauchs der Music, in seiner   Wächterstimme C. 2 p. 205. sehr nachdrücklich also:   Und damit das Volk unterdessen in der Versammlung etwas zu sehen hätte, hat ihm der Pabst an statt der Psalmen hölzerne, zinnerne, bleyerne Pfeiffen, welche ein gros Gethöne machen, aufhängen, und als wenn Gott damit gelobet werde, die Leute überreden lassen. Und sind solche Orgelpfeiffen nichts anders als lebendige Bilder des erstorbenen Christenthums, welche zwar heftig plerren und schreyen, aber weder Herz, noch Geist, noch Seele haben. Damit hat er das Volck stumm und taub gemacht, daß sie weder Gott loben können, noch sein Wort verstunden, sondern durch der Orgel Klang, und das prächtige seltsame Musiciren überhaupt, zur Verwunderung gezogen und an den Ohren gekützelt wurden u[nd] s[o] f[ort].
+ 
+Mißbrauch aus dem Wege und behalte den rechten Gebrauch. Denn alle Creatur Gottes ist gut und nichts verwerflich, das mit Dancksagung empfangen und gebrauchet wird, spricht <PERSON>Paulus</PERSON> 1 Tim. 4, 11. und folglich kan auch die Orgel als eine an sich selbst unschuldige Creatur in der Furcht des Herrn, mit christlicher Freyheit, Bescheidenheit, und Verleugnung aller Anhänglichkeit an dem blos sinnlichem Wesen zu obbemeldtem Zwecke heiliglich gebrauchet werden. Kommen nur Gläubige dabey der wichtigen Regel Pauli:  Alles war ihr thut mit Worten und Wercken, das thut alles in dem Namen des Herrn Jesu, und danket Gott und dem Vater durch ihn, Col. 3, 17. beständig und sorgfältig nach; so dürffen sie sich auch darin von keinen Satzungen gefangen nehmen lassen, von denen, die da sagen:  Du sollt das nicht angreifen, du sollt das nicht kosten, du sollt das nicht anrühren. Col. 2, 20. 21. 
+Zweytens prüfet euch hierauf ungeheuchelt: Ob ihr alle bishero die Music rechtmäßig und Gottgefällig gebrauchet habet? Und demnach frage ich euch 1) Wie steht es um das Singen? Jst es wol in rechter Herzens=Andacht und durch des heiligen Geistes Trieb, oder nur aus bloßer Gewohnheit und selbstgemachter Andacht geschehen? Seyd ihr annoch unbekehret, liebet ihr die Welt und Sünde, und wollet ihr dennoch singen und Gott loben; so ist warlich all euer Singen, und wenn es äuserlich noch so manierlich, lieblich, zierlich und andächtig klänge, nichts anders als ein greuliches Geplerr und Gebrülle in den heiligen Ohren Gottes. Haben ehrbare Leute an dem heßlichen Geschrey Aergernis; so ist wahrhaftig euer Singen und Schreyen, es geschehe zu Hause, oder bey dem öffentlichen Gottesdienste vor Gott ungleich häßlicher und abscheulicher. Dahero spricht der <PERSON>Herr</PERSON> Zebaoth selbst, Amos 5, 23. ausdrücklich:  Thue
+
+ 
+
+nur weg das Geplerr deiner Lieder; denn ich mag deines Psalterspiels nicht hören. Und o! wie viele wird auch ihr Gewißen hiebey schlagen, daß sie zeithero mit allerley greulichen Schand= Sauf= und Hurenliedern bald da, bald dort, bald zu dieser, bald zu jener Zeit sich gegen Gott und den Nächsten aufs schwerste versündiget haben. Wie viele werden ferner sich schuldig finden, daß sie mit ihrem singen eine subtile Abgötterey getrieben! indem es ihnen dabey nur darum zu thun gewesen, daß sie entweder sich selbst in ihrer lieblichen und künstlichen Stimme hören, oder damit andern fleischlicher Weise wo nicht bewundernswürdig, doch angenehm, beliebt und gefällig werden möchten. Und wie stehet es 2) um das Spielen? Gebrauchet ihr wol dasselbe zur Ehre Gottes, zur Erbauung des Nächsten und eurer eigenen Seele? Oder suchet ihr nur darinnen eine Ergötzlichkeit des Fleisches, daß ihr euch an der Lieblichkeit der Stimme und des Klanges belustiget, und eure Ohren damit kützelt? Ja, mißbrauchet ihr es wol gar zum Aergerniß und Schaden eures Nächsten? Und machet ihr nicht eben damit, daß viele die Music wegen ihres augenscheinlichen und allenthalben herrschenden Mißbrauches gänzlich verachten und verwerffen, ja es fast für unmöglich halten, daß dieselbe unter dem verderbten menschlichen Geschlechte recht gebrauchet werden könne. 
+Zwar ist es wol endlich keine Sünde, wenn man sich zuweilen in gehöriger Ordnung und Maße eine Gemüths=Ergötzlichkeit machet, frölich ist, und durch eine angenehme Music die Freude vergrößern läßet: Jedoch siehet jedweder leicht, daß diejenigen viel übler und ganz anders dran seyn, welche sich stets und täglich gebrauchen lassen, durch die Music andern allerley unordentliche und fleischliche Gemüths=Ergötzungen zu machen, und eben davon leben, daß sie denenselben in diesem Stücke aufwarten, und ihre aus=
+
+ 
+
+schweiffende Lust vergrößern helffen. Denn ist es gleich an und vor sich selbst keine sündliche Sache, eine Music zu hören; so stehen gleichwol sonderlich diejenigen Musicanten in einem mitleidenswürdigem Seelen=Zustande, welche auf Hochzeiten, Schmausereyen, und in andern Tanz= und Sauf=Compagnien vielfältigemal den lüderlichsten Weltkindern aufwarten, Bier und Wein in den Hals hinein musiciren, und also den Sündern in dem erschrecklichen Mißbrauche des Getränks noch zu statten kommen oder zu Dienste stehen müssen. Jch kan nicht anders sagen, als daß es bey einer solchen Lebensart gewis unmöglich sey, ein rechtschaffenes Christenthum zu führen. Denn wie dergleichen Musicanten, nach dem Ausdrucke eines gewesenen Lehrers, insgemein Sündendiener sind; so werden sie auch hernach selbst Sündenknechte, und lassen sich gemeiniglich zu gleichen Sünden verleiten, als diejenigen thun, denen sie dienen. (*) Derowegen ihr Seelen, die ihr bey Anhörung dessen euch im Gewissen geschlagen findet, daß ihr bisher in eurem Leben das Singen und Spielen nur obangezeigter maßen gemißbrauchet habet, lasset euch doch
+Drittens an dem heutigen Einweihungs=Tage dieser neuen Orgel um so vielmehr nachdrücklich erwecken, hinfort die Music rechtmäßig und Gottgefällig nach allen angewiesenen Stücken treulich gebrauchen zu lernen. Einmal bedenket zu dem Ende den schweren Schaden, den euch euer geistloses Singen und Spielen bringet. Denn da dasselbe dem lebendigen Gott ein ungleich größerer Greuel ist, als uns immer mehr alles brüllen und heulen der Ochsen und wilden Thiere seyn kan; so mag er selbiges nicht allein nicht hören; wie es euch schon oben aus dem  5 Cap. Amos vorgehal=
+
+ 
+
+ten worden: Sondern ihr habet auch darauf, weil Gott eben damit beleidiget und erzürnet wird, nichts anders als ein ewiges Heulen und Zähnklappern in der Höllen zu gewarten. Und alsdann wird bey euch in vollkommenster Maße geistlich eintreffen, was der gerechte Gott den unbußfertigen Jsraeliten im leiblichen gedrohet hat, wenn er Amos 8, 10 also spricht:  Jch will eure Feyertage in Trauren, und alle eure Lieder in Wehklagen verwandeln: etc. und will ihnen ein Trauren schaffen, wie man über einen einigen Sohn hat, und sollen ein jämmerlich Ende nehmen. 
+O Sünder! höret und leset ihr dieses, so bekehret euch hierauf unverzüglich, da es noch heute heisset, zu dem Herrn eurem Gott, den ihr auch mit eurem ungeistlichem Singen und Spielen schon so viele Jahre verlassen und geschändet habet. Erkennet und gestehet vor ihm mit tiefer Schaam und Wehmuth den Uebelstand eures Herzens, wie dasselbe ein rechter Götzen=Tempel gewesen, darinnen ihr nur den Teufel, der Welt und euch selbst zu Ehren und zum Gefallen gesungen und gespielet. Ach! lasset doch darüber euer Gemüth vor Gott recht tief gebeuget, betrübt und zerschlagen werden; hasset alles auch mit eurem Singen und Spielen begangene gottlose und heuchlerische Wesen, und werffet das alte Saulied der Welt= und Sünden=Liebe aus eurem Herzen heraus. Bittet es Gott mit heissen Brustthränen ab, ergreiffet gläubig seine Gnade durch Christum, und entschlüsset euch vestiglich, von nun an durch einen aufrichtigen lebendigen Glauben an Jesum Christum euer ganzes Herz zu einem Tempel Gottes machen zu lassen, damit der heilige Geist, als der himmlische und vollkommenste Organist in euer aller Herzen eine rechte Gott angenehme Music anstimmen,
+
+ 
+
+und euch also tüchtig machen möge, ins künftige die Music immerfort rechtmäßig und Gottwohlgefällig zu gebrauchen. Sprechet demnach mit David:  Jch will dir, o Gott! ein neues Lied singen, und fanget alsdenn gleich an aus dem tiefen Thone einer wahren Demüthigung und Zerknirschung des Herzens Bußlieder zu singen, bis ihr hernach auch den feinen, hellen und lieblichen Thon der Glaubens= Liebes= und Danklieder gegen Gott und Jesum werdet anstimmen können. O! wohl euch meine Lieben, wenn ihr dergestalt die Music heiliglich gebrauchen und üben lernet. 
+Ey wohlan, so nehmet doch die Gnade und Seligkeit, die euch in dieser Stunde hiemit angeboten wird, gern und willig an. Bedenket und erkennet es wohl, daß der Geist <PERSON>Jesu Christi</PERSON> anjetzo über der Tiefe eurer Herzen schwebe, und euch als der Odem des Höchsten mit seiner göttlichen Gnaden Kraft beleben, und zum Lobe, Preise und Dienste Gottes recht tüchtig machen wolle. Jn Erwägung dessen ergebet euch ihm von Stund an ganz hin zu seinem eigentlichen Orgelwerke, damit er alles, was in und an euch ist, dazu heilige, daß euer ganzes Leben ein immerwährender Gottesdienst, und ein thätiges Lob des Herrn werden und seyn, mithin bey euch allen es in der Wahrheit und im rechten Ernste heißen könne:  Jch will dich all mein Lebenlang, o Gott, von nun an ehren, man soll o Gott, deinen Lobgesang an allen Orten hören. Mein ganzes Herz ermuntre sich, mein Geist und Leib erfreue dich! Gebt unserm Gott die Ehre.
+ Und wenn denn euer Herz ein solch Orgelwerk des heiligen Geistes worden ist, darinnen er selbst lebet, würket, beweget und treibet; so wird auch hinfort der Gebrauch eurer Vocal= und Jnstrumental=Music ohne Zweifel dem Herrn höchstlieblich und wohlgefällig seyn, und durch Christum mit väterlichen Gnaden angenommen werden. 
+ 
+Hiernächst befleißiget euch auch alles Ernstes eure Seele immerdar, so oft ihr dieses neue Orgelwerk spielen höret, auch aufs neue zum Lobe und Ruhme Gottes aufzumuntern, und also sein Lob einmüthiglich als ein Herz und eine Seele aus einem Geiste mit einander auszubreiten. Gewöhnet euch auch dabey auf den Thon der Orgel wohl zu merken, und recht darnach zu singen, damit nicht ferner, wie bishero vielfältig geschehen, eine unangenehme und ärgerliche Disharmonie, oder Mißstimmung und Zerrüttung im Thone der Lieder unter uns gehöret werden möge. Nicht weniger müssen zu solchem Ende diejenigen, welche die Orgel zu spielen haben, niemals unterlassen, allen Fleiß anzuwenden, daß durch geschickten und lebhaften Gebrauch dieses Werks, der öffentliche Gesang der Gemeine in seinem wohlgeordnetem Thone erhalten und gefördert werde, und hingegen alles, was nur schläfrig und träge, oder auch eitel, leichtsinnig, unzeitig, weltlich und ärgerlich ist, davon aufs äuserste verbannet und ausgeschloßen bleibe. Ja, wir Prediger selbst sollen uns ebener maßen bey dem Orgelwerk stets erinnern, daß wir recht ernstlich trachten müssen, solche lebendige Orgeln des heiligen Geistes zu seyn, durch welche er selbst die Stimme des göttlichen Wortes in der öffentlichen Gemeine zu deren geistlichen Belebung, Erweckung und Erbauung erschallen lasse, die auch zugleich die Kraft davon in ihnen selbst erfahren, und folglich mit ihrem Leben würklich beweisen. 
+Viertens rede ich noch euch an, die ihr bereits den rechtmäßigen und Gottwohlgefälligen Gebrauch der Music gelernet und geübet habet, und vermahne euch kürzlich zu fernerer treuer Wahrnehmung eurer Pflicht. Fahret 1) in solchem Gebrauche beständig fort, und erwecket euch
+
+ 
+
+immer mehr dazu; sintemal ihr darinnen nicht genung wachsen und völliger werden könnet. Denn es ist ja ein köstlich Ding, mithin auch eine große Kunst, dem Herrn danken, und lobsingen seinem Namen. 2) stellet euch bey dem Orgelspielen besonders den Wechsel des Leides und der Freude vor, als denn ihr eben bey Führung eures Christenthums stets unterworffen seyd. Wird zum Exempel ein trauriges Register gezogen, und ihr höret alsdann eine kläg= und bewegliche Stimme schallen, so denket dabey, daß ihr auch zuweilen in eurer in= und äuserlichen Noth allerley betrübte Trauerlieder anstimmet, und es dann klinget:  Ach Gott! wie manches Herzeleid begegnet mir zu dieser Zeit, der schmale Weg ist Trübsal voll, den ich zum Himmel wandeln soll, und dergleichen mehr; wobey auch öfters der Tremulant, oder zitternde Triller des Creutzes lange genug auszuhalten pfleget. Wird hingegen wiederum ein fröliches Register gezogen, und erklinget da eine erweckliche und anmuthige Stimme, so gedenket wieder, daß in und bey euch ein gleiches vorgehe, wenn Gott nach seinem weisen und gütigem Rathe euer Leiden wendet, und in Freuden verwandelt; wie <PERSON>David</PERSON> euch dieses gar schön zu Gemühte führet, da es im 126 Ps. also lautet:  Wenn der <PERSON>Herr</PERSON> die Gefangenen Zion erlösen wird, so werden wir seyn wie die Träumende. Denn wird unser Mund voll Lachens und unsere Zunge voll Rühmens seyn. Da wird man sagen unter den Heiden: Der <PERSON>Herr</PERSON> hat großes an ihnen gethan; der <PERSON>Herr</PERSON> hat großes an uns gethan; des sind wir fröhlich. Ferner,  die mit Thränen säen, werden mit Freuden ernten. Sie gehen hin und weinen, und tragen edlen
+
+ 
+
+Saamen; und kommen mit Freuden und bringen ihre Garben. Zuletzt und 3) behaltet das zu eurem Troste: Verharret ihr treulich in dem angefangenem Gottgeheiligtem Gebrauche der Music; so habet ihr erstlich hier schon den Anfang gemacht, und setzet ihn auch fort, euch mit dem seligsten Geschäffte der heiligen Engel zu vereinigen, und sollet dereinst aus dem untern in das obere Chor zu der Schaar der heiligen Cherubim und Seraphim, und aller auserwählten seligen Seelen gesellet werden, um mit ihnen Gott ohne die geringste anklebende Sünde in höchster Vollkommenheit zu loben. Ferner könnet ihr bey solchem geheiligtem Gebrauche der Music, nebst dem Zeugniße eines guten Gewißens, auch einen Vorschmack des ewigen Lebens nach dem andern, oder die Versicherung der künftigen Herrlichkeit genüßen. Und gesetzt, daß sich in eurem Loben und Rühmen des Namens Gottes hier auf Erden, noch viele Seufzer und Klagen in den Creutzesstunden mit untermengen sollten; so ist und bleibet es doch ein süßer Thon in den Ohren des himmlischen Vaters. Nur müßet ihr euch destomehr ermuntern, auch bey eurem Thränenfluße, und mitten im Feuerofen des Elendes samt jenen dreyen standhaften Bekennern der Wahrheit ein fröliches Halleluja anzustimmen; und das um soviel mehr, da ihr schlüßlich gewiß versichert seyd, daß ihr endlich dahin kommen werdet, wo eure hier recht gebrauchte Music nicht mehr durch Creutzesstimmen gleichsam verstimmet und unterbrochen, sondern vielmehr unter den Chören der Cherubim und Seraphim allererst in ewige und vollkommene Freuden und Jubelthöne verwandelt werden wird.
+
+ 
+ Denn die Erlösete des Herrn werden wiederkommen, und gen Zion kommen mit Jauchzen; ewige Freude wird über ihrem Haupte seyn: Freude und Wonne werden sie ergreiffen, und Schmerz und Seufzen wird weg müssen, heist es Jes. 35, 10. Jn dieser lebendigen und unbetrüglichen Hoffnung kan auch eine jede wahrhaftig gläubige Seele, als eine geistliche Musicantin, stets und getrost ausruffen: 
+ Jch will mich nun in Gott von Herzen freuen,  
+Mein starker Jesus wird mich ganz verneuen,  
+Und mich zum Chor der Seraphinen führen;  
+Da will ich erst frohlockend musiciren 
+Das Gloria mit allen Himmels=Chören,  
+Gott und dem Lamm, dem heilgen Geist zu Ehren. 
+Und so übergeben, heiligen und widmen wir denn nochmals dieses neue Orgelwerk dir, dem hochgelobten Dreyeinigen Gotte, Vater, Sohn und heiligem Geiste; und bitten dich dabey demüthiglich, du wollest doch selbst uns alle miteinander so zubereiten, daß wir dasselbe jederzeit zu deines allerheiligsten Namens Lobe und Preise, und zu unserer rechten Erweckung in der Andacht treulich gebrauchen mögen. Mache deswegen alle Glieder dieser Gemeine zu deinen lebendigen Tempeln und Orgeln, in welchen du mit deinem Odem, oder Geiste, leben und weben, singen und spielen, und dein Lob in Zeit und Ewigkeit ausbreiten könnest. Kröne hiernächst unsere Erlauchte Königliche Regierung mit besonderem zeitlichem, geistlichem und ewigem Segen; da durch Deroselben gnä=
+
+ 
+
+digste Förderung dieser Orgelbau veranstaltet und vollzogen worden. Vergilt auch den Vorstehern dieser Kirche, dem  <PERSON>Directori und Verfertiger</PERSON> des  Werks, und allen, die daran gearbeitet haben, alle ihre dabey erwiesene Treue und Mühe, imgleichen allen und jeden christlichen Wohlthätern ihre sowohl bereits erzeigete, als noch künftig zu erwartende Mildthätigkeit mit allerley Gaben deiner Gnade und Kraft an Seel und Leib, hier zeitlich und dort ewiglich. Ja erfülle uns allesamt mit deinem Heil in Christo; segne du uns Gott unser Gott! und laß uns Große und Kleine deiner unendlichen Barmhertzigkeit auf immer und ewig empfohlen seyn. Also wird zeitlich deine Güt erhoben; also wird ewig und ohn Ende loben, dich, o! du Wächter einer armen Heerde, Himmel und Erde! Drum: 
+ Halleluja, Lob, Preis und Ehre,  
+Sey unserm Gott je mehr und mehr,  
+Und seinem großen Namen!  
+Stimmt an mit aller Himmels=Schaar,  
+Und singet nun und immerdar 
+Mit Freuden: Amen, Amen.  
+Klinget, singet:  
+Heilig, heilig! freylich, freylich,  
+Heilig ist Gott,  
+Unser Gott der Herre Zebaoth!  
+Amen. 
+ 
+
+
+Die 
+Lieder des neuen Bundes  
+wurden  
+bey Gelegenheit der Einweihung  
+der  Roßgärtischen Orgel  
+in einer kurzen Betrachtung vorgeleget  
+von  
+ <PERSON>J[ohann] G[otthelf] Lindner</PERSON> . Stud[iosus].  
+Jm April 1747.
+
+ 
+Gott! Dich loben deine Werke!  
+Und Dir dankt die matte Welt,  
+Weil noch deiner Güte Stärke 
+Den gescholtnen Staub erhält.  
+Keine Nacht hat dich verborgen,  
+Und kaum röthet sich der Morgen;  
+So wird, wie der Felder May,  
+Deiner Gnade Lichtqvell neu. 
+Ps. 98. v. 1. 2. 
+ Singet dem Herrn ein neues Lied, denn er thut Wunder. Der <PERSON>Herr</PERSON> läßet sein Heil verkündigen aller Welt. etc. 
+Ja! ia! das Alte ist vergangen;  
+Wo ist der ausgelöschten Bilder Prangen,  
+Womit der alte Bund verschattet war?  
+Jetzt stellt sich schon der lichte Körper dar.  
+Jndem des Mittlers Leib erblasset;  
+So ward der Kleider Unbestand,  
+Der Priester abgebraucht Gewand,  
+Jn Schweißtuch Hüll und Schatten eingefasset,  
+Und diesem Hohenpriester beygelegt,  
+Der seinen Purpur um mich schlägt:  
+Denn jenes soll unausgewickelt bleiben,  
+Und der, so das Gesetz erfüllt,  
+Wird, weil ihn nicht der Stein verhüllt,  
+Jetzt in ein fleischern Herz ein leicht Gesetze schreiben. 
+Wohlan! ein neues Siegeslied 
+durchschallet schon Zions besprengete Weiden,  
+Weil jetzo dem Hirten nach Schmerzen und Leiden 
+Ein willig Opfer in den Schaafen glüht. 
+ 
+  Singet dem Herrn ein neues Lied. Halleluja! 
+Warum bläßt Jsrael des Neumonds Aufgang ab?  
+Wenn der Trommeten Klang des Festes Anbruch gab;  
+Hier steigt ein frühes Siegsgeschrey empor,  
+Das auf den Bergen unsers Heils erklinget;  
+Mein Held kommt selbst der Sonnen vor,  
+Der Leben aus dem Tode bringet.  
+Der kühne Mond, der dem Gesetze gleicht,  
+Wird sich bey  <LOCATION>Sinai</LOCATION> nur wolkigt zeigen;  
+Denn er verbleicht,  
+Jhm ist nicht mehr ein Furchtstrahl eigen.  
+Wie klang des <PERSON>Mosis</PERSON> altes Lied?  
+Seht! wie der <PERSON>Herr</PERSON> vom  <LOCATION>Seir</LOCATION> zieht,  
+Ein feuriges Gesetz zu geben.  
+Gleich ändert sich Gesang und Trieb;  
+Er spricht, die Wunder zu erheben:  
+Wie hat der <PERSON>Herr</PERSON> die Menschen doch so lieb? 
+ Der <PERSON>Herr</PERSON> läßet sein Heil verkündigen aller Welt v. 2.
+Wie lieblich rauscht der Boten Fuß,  
+Die von dem süßen Frieden singen?  
+ <PERSON>Johannis</PERSON> öder Zuruff muß 
+Nun nicht aus dürren Wüsten dringen.  
+Macht der bedornte Weg doch Pein;  
+Gut! für den Fersenstrich wird Geist und Balsam seyn. 
+O was für eine That?  
+Jhr Menschen! da des Vaters Rath 
+Die Seligkeit vollendet,  
+Und euch die Botschaft zugesendet:  
+Versöhnet euch mit mir,  
+O Herr! dafür 
+Wirst du mit Mund und Kunst erhoben,  
+Dich soll der Heiligen Gemeine loben,  
+Dich, o du Wächter deiner Kreutzesheerde!  
+Himmel und Erde. 
+ 
+Erschüttert ihr Berge! und brause du Meer!  
+Denn Zion hat Kräfte zu siegen,  
+Wie Adler selbst über euch höher zu fliegen;  
+Nun schwingt euch Erlößte des Bundes einher!  
+Erschüttert ihr Berge! und brause du Meer! 
+So singt, bis ihr dort Lieder dichten sollet,  
+Wenn selbst der Allmacht feuriger Entschluß,  
+Die durch die Gluth zerfloßne Welt;  
+Wie die geschmolzne Pfeiffen rollet;  
+Und ihre müde Kunst 
+Bey schmetterndem Posaunenhall,  
+Als wie ein übertriebner Schall,  
+Sich selbst verschlucken muß,  
+Sich in sich wickelt und zerfällt. 
+O seelig! wer dann nicht 
+Mit  <LOCATION>Babels</LOCATION> Lustspiel sich verbunden,  
+Der hat die Stimmen eingericht 
+Und jauchzt, das Alte sey verschwunden.  
+Er lernt der neuen Lieder Thon,  
+Und spielet vor des Menschen Sohn,  
+Der Fehlgriff ist von diesem Chor verbannet.  
+Weg! eckler Klang der eitlen Zeit;  
+Ach hätt die laute Ewigkeit 
+Mir schon die spröde Saiten abgespannet! 
+Choral.
+ Sey Lob und Ehr mit hohem Preiß, um dieser Wohlthat willen etc.
+Einzelanmerkungen
+
+</div>

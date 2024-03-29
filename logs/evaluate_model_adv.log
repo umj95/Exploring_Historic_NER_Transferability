@@ -1,0 +1,189 @@
+2024-03-26 06:39:45,395 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1_comparison.tsv
+2024-03-26 06:39:47,856 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.11170688114387846
+Recall:			0.5122950819672131
+Accuracy:		0.9385116844373239
+F1-score:		0.1834189288334556
+
+2024-03-26 06:39:51,572 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.45614035087719296
+Recall:			0.10379241516966067
+Accuracy:		0.9811796769975876
+F1-score:		0.16910569105691056
+
+2024-03-26 06:39:52,244 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_2_comparison.tsv
+2024-03-26 06:39:54,676 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.13428745432399514
+Recall:			0.5005675368898979
+Accuracy:		0.9395429350127985
+F1-score:		0.21176470588235294
+
+2024-03-26 06:39:57,103 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.5963855421686747
+Recall:			0.2
+Accuracy:		0.9829475351269727
+F1-score:		0.29954614220877457
+
+2024-03-26 06:39:57,489 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_3_comparison.tsv
+2024-03-26 06:39:59,907 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.15062633669416436
+Recall:			0.5358695652173913
+Accuracy:		0.9409424893652284
+F1-score:		0.23515382780825184
+
+2024-03-26 06:40:02,863 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.8099547511312217
+Recall:			0.5391566265060241
+Accuracy:		0.9892271145240594
+F1-score:		0.6473779385171791
+
+2024-03-26 06:40:03,223 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_4_comparison.tsv
+2024-03-26 06:40:06,266 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.14290039358159248
+Recall:			0.5351473922902494
+Accuracy:		0.9403163729444045
+F1-score:		0.22556750298685782
+
+2024-03-26 06:40:08,687 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.4881889763779528
+Recall:			0.12487411883182276
+Accuracy:		0.9816032263410861
+F1-score:		0.19887730553327987
+
+2024-03-26 06:40:09,392 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_5_comparison.tsv
+2024-03-26 06:40:11,805 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.10795631825273011
+Recall:			0.41437125748502995
+Accuracy:		0.9383459477376941
+F1-score:		0.17128712871287127
+
+2024-03-26 06:40:14,245 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.6083086053412463
+Recall:			0.20665322580645162
+Accuracy:		0.983076441448907
+F1-score:		0.308502633559067
+
+2024-03-26 06:40:14,574 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_6_comparison.tsv
+2024-03-26 06:40:18,237 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.14355828220858896
+Recall:			0.5109170305676856
+Accuracy:		0.9403347881332523
+F1-score:		0.22413793103448273
+
+2024-03-26 06:40:20,708 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.8055555555555556
+Recall:			0.5246231155778894
+Accuracy:		0.9889693018801908
+F1-score:		0.63542300669507
+
+2024-03-26 06:40:20,744 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_7_comparison.tsv
+2024-03-26 06:40:23,131 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.10810810810810811
+Recall:			0.4085510688836104
+Accuracy:		0.9385669300038672
+F1-score:		0.1709741550695825
+
+2024-03-26 06:40:25,534 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.4482758620689655
+Recall:			0.10452261306532663
+Accuracy:		0.9812349225641309
+F1-score:		0.16951915240423798
+
+2024-03-26 06:42:50,057 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_1_comparison.tsv
+2024-03-26 06:42:52,535 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.11170688114387846
+Recall:			0.5122950819672131
+Accuracy:		0.9385116844373239
+F1-score:		0.1834189288334556
+
+2024-03-26 06:42:54,968 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.45614035087719296
+Recall:			0.10379241516966067
+Accuracy:		0.9811796769975876
+F1-score:		0.16910569105691056
+
+2024-03-26 06:42:55,004 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_2_comparison.tsv
+2024-03-26 06:42:58,269 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.13428745432399514
+Recall:			0.5005675368898979
+Accuracy:		0.9395429350127985
+F1-score:		0.21176470588235294
+
+2024-03-26 06:43:01,150 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.5963855421686747
+Recall:			0.2
+Accuracy:		0.9829475351269727
+F1-score:		0.29954614220877457
+
+2024-03-26 06:43:01,186 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_3_comparison.tsv
+2024-03-26 06:43:03,628 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.15062633669416436
+Recall:			0.5358695652173913
+Accuracy:		0.9409424893652284
+F1-score:		0.23515382780825184
+
+2024-03-26 06:43:06,073 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.8099547511312217
+Recall:			0.5391566265060241
+Accuracy:		0.9892271145240594
+F1-score:		0.6473779385171791
+
+2024-03-26 06:43:06,110 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_4_comparison.tsv
+2024-03-26 06:43:08,543 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.14290039358159248
+Recall:			0.5351473922902494
+Accuracy:		0.9403163729444045
+F1-score:		0.22556750298685782
+
+2024-03-26 06:43:11,796 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.4881889763779528
+Recall:			0.12487411883182276
+Accuracy:		0.9816032263410861
+F1-score:		0.19887730553327987
+
+2024-03-26 06:43:11,850 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_5_comparison.tsv
+2024-03-26 06:43:14,730 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.10795631825273011
+Recall:			0.41437125748502995
+Accuracy:		0.9383459477376941
+F1-score:		0.17128712871287127
+
+2024-03-26 06:43:17,157 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.6083086053412463
+Recall:			0.20665322580645162
+Accuracy:		0.983076441448907
+F1-score:		0.308502633559067
+
+2024-03-26 06:43:17,194 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_6_comparison.tsv
+2024-03-26 06:43:19,624 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.14355828220858896
+Recall:			0.5109170305676856
+Accuracy:		0.9403347881332523
+F1-score:		0.22413793103448273
+
+2024-03-26 06:43:22,044 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.8055555555555556
+Recall:			0.5246231155778894
+Accuracy:		0.9889693018801908
+F1-score:		0.63542300669507
+
+2024-03-26 06:43:22,080 - evaluate_model_adv.log - INFO - Initialised model evaluation. Predictions table loaded from location /content/drive/MyDrive/NLP_Project_New/advers_model_comparisons/perturb_7_comparison.tsv
+2024-03-26 06:43:25,331 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.10810810810810811
+Recall:			0.4085510688836104
+Accuracy:		0.9385669300038672
+F1-score:		0.1709741550695825
+
+2024-03-26 06:43:28,209 - evaluate_model_adv.log - INFO - EVALUATION RESULTS:
+Precision:		0.4482758620689655
+Recall:			0.10452261306532663
+Accuracy:		0.9812349225641309
+F1-score:		0.16951915240423798
+
+2024-03-26 06:52:45,304 - evaluate_model_adv.log - INFO - Evaluation for perturbation 1 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_1.csv
+2024-03-26 06:52:45,316 - evaluate_model_adv.log - INFO - Evaluation for perturbation 2 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_2.csv
+2024-03-26 06:52:45,349 - evaluate_model_adv.log - INFO - Evaluation for perturbation 3 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_3.csv
+2024-03-26 06:52:45,362 - evaluate_model_adv.log - INFO - Evaluation for perturbation 4 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_4.csv
+2024-03-26 06:52:45,374 - evaluate_model_adv.log - INFO - Evaluation for perturbation 5 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_5.csv
+2024-03-26 06:52:45,385 - evaluate_model_adv.log - INFO - Evaluation for perturbation 6 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_6.csv
+2024-03-26 06:52:45,397 - evaluate_model_adv.log - INFO - Evaluation for perturbation 7 saved at location /content/drive/MyDrive/NLP_Project_New/model_comparisons/model_results_adversarial/perturbation_7.csv
